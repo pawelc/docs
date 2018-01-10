@@ -1,4 +1,3 @@
-Reinforcement learning neural Turing machines -< important because continuous-discrete learning
 Recent Advances in Recurrent Neural Networks
 Memory networks
 End-To-End Memory Networks
