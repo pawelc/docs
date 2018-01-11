@@ -251,9 +251,7 @@ Learning language through pictures
 Learning recurrent neural networks with Hessian-free optimization
 Neural Turing machines
 Mapping part-whole hierarchies into connectionist networks
-Weakly Supervised Memory Networks
 Ask Me Anything: Dynamic Memory Networks for Natural Language Processing
-Learning to Transduce with Unbounded Memory
 A survey on the application of recurrent neural networks to statistical language modeling
 Gradient calculations for dynamic recurrent neural networks: A survey
 Learning meanings for sentences

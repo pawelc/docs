@@ -1,3 +1,4 @@
+Weakly Supervised Memory Networks
 Recent Advances in Recurrent Neural Networks
 Memory networks
 End-To-End Memory Networks
@@ -10,6 +11,7 @@ Show, Attend and Tell: Neural Image Caption Generation with Visual Attention
 LIE-ACCESS NEURAL TURING MACHINES
 Neural Programmer
 Neural GPUs
+Learning to Transduce with Unbounded Memory
 Deep Learning for Time-Series Analysis
 One-shot Learning with Memory-Augmented Neural Networks
 Cortical microcircuits as gated-recurrent neural networks
