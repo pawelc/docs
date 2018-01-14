@@ -154,7 +154,6 @@ On the Computational Power of Neural Nets
 Turing machines are recurrent neural networks
 https://www.oreilly.com/ideas/reinforcement-learning-for-complex-goals-using-tensorflow
 https://www.youtube.com/watch?v=PwOnsT2UW5o
-Self-Delimiting Neural Networks
 Multi-digit number recognition from Street View imagery using deep convolutional neural networks
 Bidirectional recurrent neural networks
 On Supervised Learning from Sequential Data With Applications for Speech Recognition
@@ -355,6 +354,5 @@ Batch Renormalization: Towards Reducing Minibatch Dependence in Batch-Normalized
 Self-Normalizing Neural Networks
 Mastering Chess and Shogi by Self-Play with a General Reinforcement Learning Algorithm
 Net-Trim Convex Pruning of Deep Neural Networks with Performance Guarantee
-Simple statistical gradient-following algorithms for connectionist reinforcement learning
 Policy gradient methods for reinforcement learning with function approximation
 Large scale distributed deep networks

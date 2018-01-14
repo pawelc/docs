@@ -1,6 +1,6 @@
+Memory networksx
 Weakly Supervised Memory Networks
 Recent Advances in Recurrent Neural Networks
-Memory networks
 End-To-End Memory Networks
 Grid Long Short-Term Memory
 Pointer networks
@@ -12,6 +12,10 @@ LIE-ACCESS NEURAL TURING MACHINES
 Neural Programmer
 Neural GPUs
 Learning to Transduce with Unbounded Memory
+Simple statistical gradient-following algorithms for connectionist reinforcement learning
+Self-Delimiting Neural Networks
+Optimal ordered problem solver
+Applications of quantum inspired computational intelligence: a survey
 Deep Learning for Time-Series Analysis
 One-shot Learning with Memory-Augmented Neural Networks
 Cortical microcircuits as gated-recurrent neural networks
