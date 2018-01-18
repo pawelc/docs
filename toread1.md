@@ -1,4 +1,3 @@
-Memory networksx
 Weakly Supervised Memory Networks
 Recent Advances in Recurrent Neural Networks
 End-To-End Memory Networks

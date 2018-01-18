@@ -88,3 +88,6 @@ Important because continuous-discrete learning. This model is very difficult to 
 Curriculum learning is very important to be able to learn. It is also important to decrease the variance of the gradient estimator.
 Reinforce is used to construct the cost function but it is simply expectation of the actions over the cumulative rewards.
 # Quantum machine learning : what quantum computing means to datamining / Peter Wittek
+Started but in the end was too hard to follow. Maybe later.
+# Memory networks
+Reading
