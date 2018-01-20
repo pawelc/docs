@@ -81,8 +81,6 @@ Adam: A method for stochastic optimization
 From Machine Learning to Machine Reasoning 
 Natural Language Processing (almost) from Scratch
 A Tutorial on Energy-Based Learning 
-Memory Networks
-Learning to Execute
 Improving Stochastic Gradient Descent with Feedback
 Primal-dual subgradient methods for convex problems (how to make models sparse)
 Ad Click Prediction: a View from the Trenches (how to make models sparse), look at FTRLOptimizer in TensorFlow

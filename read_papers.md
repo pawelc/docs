@@ -90,4 +90,4 @@ Reinforce is used to construct the cost function but it is simply expectation of
 # Quantum machine learning : what quantum computing means to datamining / Peter Wittek
 Started but in the end was too hard to follow. Maybe later.
 # Memory networks
-Reading
+Very generic architecture for memory enhanced models. Components I (input),G(generalization i.e. memory access/write), O (output feature from memory given input), R (response).

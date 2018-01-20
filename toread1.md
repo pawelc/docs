@@ -1,4 +1,5 @@
 Weakly Supervised Memory Networks
+Learning to Execute
 Recent Advances in Recurrent Neural Networks
 End-To-End Memory Networks
 Grid Long Short-Term Memory
@@ -10,6 +11,7 @@ Show, Attend and Tell: Neural Image Caption Generation with Visual Attention
 LIE-ACCESS NEURAL TURING MACHINES
 Neural Programmer
 Neural GPUs
+GENERATIVE TEMPORAL MODELS WITH MEMORY
 Learning to Transduce with Unbounded Memory
 Simple statistical gradient-following algorithms for connectionist reinforcement learning
 Self-Delimiting Neural Networks
@@ -155,3 +157,4 @@ https://arxiv.org/find/cs/1/au:+Fulcher_B/0/1/0/all/0/1
 Variational Memory Addressing in Generative Models
 https://github.com/openai/blocksparse
 Distilling a Neural Network Into a Soft Decision Tree
+Overcoming catastrophic forgetting in neural networks
