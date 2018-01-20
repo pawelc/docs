@@ -157,3 +157,5 @@ Variational Memory Addressing in Generative Models
 https://github.com/openai/blocksparse
 Distilling a Neural Network Into a Soft Decision Tree
 Overcoming catastrophic forgetting in neural networks
+Memory-based neural networks for robot learning
+Learning Longer Memory in Recurrent Neural Networks

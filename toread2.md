@@ -167,7 +167,6 @@ ReNet: A recurrent neural network based alternative to convolutional networks
 Markovian Models for Sequential Data
 Probable Networks and Plausible Predictions - a Review of Practical Bayesian Methods for Supervised Neural Networks
 Bayesian Learning for Neural Networks
-Learning Longer Memory in Recurrent Neural Networks
 The Echo State Approach to Analysing and Training Recurrent Neural Networks
 On the approximation capability of recurrent neural networks
 Forecasting with Recurrent Neural Networks 12 Tricks
