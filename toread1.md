@@ -159,3 +159,4 @@ Overcoming catastrophic forgetting in neural networks
 Memory-based neural networks for robot learning
 Learning Longer Memory in Recurrent Neural Networks
 Neural GPUs Learn Algorithms
+Ask Me Anything: Dynamic Memory Networks for Natural Language Processing
