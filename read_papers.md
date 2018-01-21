@@ -95,3 +95,4 @@ Very generic architecture for memory enhanced models. Components I (input),G(gen
 The same application as Memory Networs but doesn't hint which intermediete sentences help with answering question hence weak (no supervision of the supporting facts). Like Diffrerentiable Neural Computer they try to keep temporal information for memory access.
 They try to fight the local minima by first running the model with all non-linear oprations removed and later when 
 there is no improvement they enable non-linearity (they call it linear start).
+# Learning to Execute
