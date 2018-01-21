@@ -357,3 +357,6 @@ Learning matrices and their applications
 Pattern recognition by means of automatic analogue apparatus
 The induction of dynamical recognizers
 Learning Context-free Grammars Capabilities and Limitations of a Recurrent Neural Network with an External Stack Memory
+Learning phrase representations using rnn encoder-decoder for statistical machine translation
+Self-paced visual category discovery
+Recurrent neural network based language model

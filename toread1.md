@@ -1,4 +1,7 @@
 Recent Advances in Recurrent Neural Networks
+Evolving Neural Turing Machines for Reward-based Learning
+Scaling Memory-Augmented Neural Networks with Sparse Reads and Writes
+Can Active Memory Replace Attention
 End-To-End Memory Networks
 Grid Long Short-Term Memory
 Pointer networks
@@ -9,6 +12,7 @@ Show, Attend and Tell: Neural Image Caption Generation with Visual Attention
 LIE-ACCESS NEURAL TURING MACHINES
 Neural Programmer
 Neural GPUs
+Learning to Remember Rare Events
 GENERATIVE TEMPORAL MODELS WITH MEMORY
 Learning to Transduce with Unbounded Memory
 Simple statistical gradient-following algorithms for connectionist reinforcement learning
@@ -160,3 +164,18 @@ Memory-based neural networks for robot learning
 Learning Longer Memory in Recurrent Neural Networks
 Neural GPUs Learn Algorithms
 Ask Me Anything: Dynamic Memory Networks for Natural Language Processing
+Prediction with a Short Memory
+Can recurrent neural networks warp time?
+Building machines that learn and think like people
+Matching Networks for One Shot Learning
+Learning Simple Algorithms from Examples
+Associative Long Short-Term Memory
+Meta-Learning with Memory-Augmented Neural Networks
+Feedforward Sequential Memory Networks: A New Structure to Learn Long-term Dependency
+Hierarchical Memory Networks
+Deep Reinforcement Learning: An Overview
+Memory-augmented Neural Machine Translation
+LSTM with working memory
+Active One-shot Learning
+Position-based Content Attention for Time Series Forecasting with Sequence-to-sequence RNNs
+Self-paced learning for latent variable models

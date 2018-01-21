@@ -96,3 +96,6 @@ The same application as Memory Networs but doesn't hint which intermediete sente
 They try to fight the local minima by first running the model with all non-linear oprations removed and later when 
 there is no improvement they enable non-linearity (they call it linear start).
 # Learning to Execute
+LSTM that learns what is the output of the short program. The authors also test the LSTM model on copy task and notice that improvement can come from few heuristics like inversing the 
+input or doubling it. Authors also notice that learning is only possible when applying their new curiculum learning. Authors generate programs automatically that meet some criteria 
+regarding the difficulty. Overall this article seems to be weaker model than for example NTM.
