@@ -91,3 +91,5 @@ Reinforce is used to construct the cost function but it is simply expectation of
 Started but in the end was too hard to follow. Maybe later.
 # Memory networks
 Very generic architecture for memory enhanced models. Components I (input),G(generalization i.e. memory access/write), O (output feature from memory given input), R (response). The memory stores all sequences (if words are given there is a model to discover sequences). Then memory is compared to each sequence in order in the test set . Authors use hashing of the memory to imrove performance. The model is applied to QA tasks.
+# Weakly Supervised Memory Networks
+The same application as Memory Networs but doesn't hint which intermediete sentences help with answering question hence weak. Like Diffrerentiable Neural Computer they try to keep temporal information for memory access.
