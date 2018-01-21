@@ -159,4 +159,3 @@ Overcoming catastrophic forgetting in neural networks
 Memory-based neural networks for robot learning
 Learning Longer Memory in Recurrent Neural Networks
 Neural GPUs Learn Algorithms
-Learning to Transduce with Unbounded Memory
