@@ -353,3 +353,7 @@ Mastering Chess and Shogi by Self-Play with a General Reinforcement Learning Alg
 Net-Trim Convex Pruning of Deep Neural Networks with Performance Guarantee
 Policy gradient methods for reinforcement learning with function approximation
 Large scale distributed deep networks
+Learning matrices and their applications
+Pattern recognition by means of automatic analogue apparatus
+The induction of dynamical recognizers
+Learning Context-free Grammars Capabilities and Limitations of a Recurrent Neural Network with an External Stack Memory
