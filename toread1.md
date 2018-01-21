@@ -1,4 +1,3 @@
-Learning to Execute
 Recent Advances in Recurrent Neural Networks
 End-To-End Memory Networks
 Grid Long Short-Term Memory
