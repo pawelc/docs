@@ -92,10 +92,12 @@ Started but in the end was too hard to follow. Maybe later.
 # Memory networks
 Very generic architecture for memory enhanced models. Components I (input),G(generalization i.e. memory access/write), O (output feature from memory given input), R (response). The memory stores all sequences (if words are given there is a model to discover sequences). Then memory is compared to each sequence in order in the test set . Authors use hashing of the memory to imrove performance. The model is applied to QA tasks.
 # Weakly Supervised Memory Networks
-The same application as Memory Networs but doesn't hint which intermediete sentences help with answering question hence weak (no supervision of the supporting facts). Like Diffrerentiable Neural Computer they try to keep temporal information for memory access.
+The same application as Memory Networs but doesn't hint which intermediate sentences help with answering question hence weak (no supervision of the supporting facts). Like Diffrerentiable Neural Computer they try to keep temporal information for memory access.
 They try to fight the local minima by first running the model with all non-linear oprations removed and later when 
 there is no improvement they enable non-linearity (they call it linear start).
 # Learning to Execute
 LSTM that learns what is the output of the short program. The authors also test the LSTM model on copy task and notice that improvement can come from few heuristics like inversing the 
-input or doubling it. Authors also notice that learning is only possible when applying their new curiculum learning. Authors generate programs automatically that meet some criteria 
-regarding the difficulty. Overall this article seems to be weaker model than for example NTM.
+input or doubling it. Authors also notice that learning is only possible when applying their new curriculum learning (mixing simple curriculum  and some random that can select also difficult 
+examples like in Reinforcement learning neural Turing machines). It looks that combined curriculum  learning is mandatory and naive one can be worse the data distribution one.
+Authors generate programs automatically that meet some criteria  regarding the difficulty. Overall this article seems to be weaker model than for example NTM.
+# Recent Advances in Recurrent Neural Networks

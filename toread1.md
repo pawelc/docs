@@ -1,4 +1,3 @@
-Recent Advances in Recurrent Neural Networks
 Evolving Neural Turing Machines for Reward-based Learning
 Scaling Memory-Augmented Neural Networks with Sparse Reads and Writes
 Can Active Memory Replace Attention
@@ -179,3 +178,4 @@ LSTM with working memory
 Active One-shot Learning
 Position-based Content Attention for Time Series Forecasting with Sequence-to-sequence RNNs
 Self-paced learning for latent variable models
+Delving into adversarial attacks on deep policies

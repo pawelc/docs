@@ -360,3 +360,5 @@ Learning Context-free Grammars Capabilities and Limitations of a Recurrent Neura
 Learning phrase representations using rnn encoder-decoder for statistical machine translation
 Self-paced visual category discovery
 Recurrent neural network based language model
+A unified approach on fast training of feedforward and recurrent networks using EM algorithm
+An overview of gradient descent optimization algorithms
