@@ -172,7 +172,6 @@ On the approximation capability of recurrent neural networks
 Forecasting with Recurrent Neural Networks 12 Tricks
 Gradient Flow in Recurrent Nets: the Difficulty of Learning Long-Term Dependencies
 Fast Model-based Protein Homology Detection without Alignment.
-Offline Handwriting Recognition with Multidimensional Recurrent Neural Networks
 Gradient-Based Learning Algorithms for Recurrent Networks and Their Computational Complexity
 Backpropagation through time: what it does and how to do it
 Fast Curvature Matrix-Vector Products for Second-Order Gradient Descent
@@ -244,7 +243,9 @@ Show, attend and tell: Neural image caption generation with visual attention
 On the properties of neural machine translation: Encoder-decoder approaches
 Gated Feedback Recurrent Neural Networks
 Learning language through pictures
+Deep learning via hessian-free optimization
 Learning recurrent neural networks with Hessian-free optimization
+Training deep and recurrent networks with hessian-free optimization
 Neural Turing machines
 Mapping part-whole hierarchies into connectionist networks
 Ask Me Anything: Dynamic Memory Networks for Natural Language Processing
@@ -362,3 +363,16 @@ Self-paced visual category discovery
 Recurrent neural network based language model
 A unified approach on fast training of feedforward and recurrent networks using EM algorithm
 An overview of gradient descent optimization algorithms
+Some methods of speeding up the convergence of iteration methods
+Safe and Efficient Off-Policy Reinforcement Learning
+Playing Atari with Deep Reinforcement Learning
+Reinforcement learning, efficient coding, and the statistics of natural tasks
+Efficient backprop
+Micro-differential evolution: Diversity enhancement and a comparative study
+Alopex: A correlation-based learning algorithm for feedforward and recurrent neural networks
+Recurrent Convolutional Neural Network for Object Recognition
+A simple way to initialize recurrent networks of rectified linear units
+Improved transition-based parsing by modeling characters instead of words with lstms
+Applying convolutional neural networks concepts to hybrid nn-hmm model for speech recognition
+Learning natural language inference with lstm
+Generative Image Modeling Using Spatial LSTMs

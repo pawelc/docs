@@ -14,6 +14,7 @@ Neural GPUs
 Learning to Remember Rare Events
 GENERATIVE TEMPORAL MODELS WITH MEMORY
 Learning to Transduce with Unbounded Memory
+Evolutionary multi-objective generation of recurrent neural network ensembles for time series prediction
 Simple statistical gradient-following algorithms for connectionist reinforcement learning
 Self-Delimiting Neural Networks
 Optimal ordered problem solver
@@ -27,6 +28,7 @@ Modeling Missing Data in Clinical Time Series with RNNs
 Doctor AI: Predicting Clinical Events via Recurrent Neural Networks
 DeepCare A Deep Dynamic Memory Model for Predictive Medicine
 Directly Modeling Missing Data in Sequences with RNNs Improved Classification of Clinical Time Series
+Differential recurrent neural networks for action recognition
 https://machinelearningmastery.com/promise-recurrent-neural-networks-time-series-forecasting/
 Supervised learning from incomplete data via an EM approach
 Visualizing and Understanding Recurrent Networks (also video https://skillsmatter.com/skillscasts/6611-visualizing-and-understanding-recurrent-networks)
@@ -179,3 +181,16 @@ Active One-shot Learning
 Position-based Content Attention for Time Series Forecasting with Sequence-to-sequence RNNs
 Self-paced learning for latent variable models
 Delving into adversarial attacks on deep policies
+Kalman filters improve lstm network performance in problems unsolvable by traditional recurrent nets
+Sequential Neural Models with Stochastic Layers
+Memory-Efficient Backpropagation Through Time
+The Future of Memory Remembering, Imagining, and the Brain
+Is the brain a good model for machine intelligence
+Evidence integration in model-based tree search
+Artificial intelligence Deep neural reasoning
+Mastering the game of Go with deep neural networks and tree search
+Kalman filtering and neural networks
+Training recurrent networks using the extended kalman filter
+An evolutionary algorithm that constructs recurrent neural networks
+Evolutionary optimization of long short-term memory neural network language model
+Long Short-Term Memory Over Tree Structures
