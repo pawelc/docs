@@ -1,3 +1,4 @@
+Learning to Predict by the Methods of Temporal Differences
 Evolving Neural Turing Machines for Reward-based Learning
 Scaling Memory-Augmented Neural Networks with Sparse Reads and Writes
 Can Active Memory Replace Attention
@@ -15,7 +16,6 @@ Learning to Remember Rare Events
 GENERATIVE TEMPORAL MODELS WITH MEMORY
 Learning to Transduce with Unbounded Memory
 Evolutionary multi-objective generation of recurrent neural network ensembles for time series prediction
-Simple statistical gradient-following algorithms for connectionist reinforcement learning
 Self-Delimiting Neural Networks
 Optimal ordered problem solver
 Applications of quantum inspired computational intelligence: a survey
@@ -193,7 +193,6 @@ The Future of Memory Remembering, Imagining, and the Brain
 Is the brain a good model for machine intelligence
 Evidence integration in model-based tree search
 Artificial intelligence Deep neural reasoning
-Mastering the game of Go with deep neural networks and tree search
 Kalman filtering and neural networks
 Training recurrent networks using the extended kalman filter
 An evolutionary algorithm that constructs recurrent neural networks

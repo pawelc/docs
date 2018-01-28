@@ -102,3 +102,5 @@ examples like in Reinforcement learning neural Turing machines). It looks that c
 Authors generate programs automatically that meet some criteria  regarding the difficulty. Overall this article seems to be weaker model than for example NTM.
 # Recent Advances in Recurrent Neural Networks
 Nice review of RNN from the historic models upto the state of the art like memory networks.
+# Mastering the game of Go with deep neural networks and tree search
+Use value, policy networks together with Monte Carlo Tree Search and other techniques to achieve the best ever AI go player. First policy network is trained supervised on database of games. It is seed to policy network which is learnt using RL with self play. On these self play games value network is trained. 
