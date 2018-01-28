@@ -101,3 +101,4 @@ input or doubling it. Authors also notice that learning is only possible when ap
 examples like in Reinforcement learning neural Turing machines). It looks that combined curriculum  learning is mandatory and naive one can be worse the data distribution one.
 Authors generate programs automatically that meet some criteria  regarding the difficulty. Overall this article seems to be weaker model than for example NTM.
 # Recent Advances in Recurrent Neural Networks
+Nice review of RNN from the historic models upto the state of the art like memory networks.

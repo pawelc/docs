@@ -20,9 +20,12 @@ Self-Delimiting Neural Networks
 Optimal ordered problem solver
 Applications of quantum inspired computational intelligence: a survey
 Deep Learning for Time-Series Analysis
+Modeling temporal dependencies in high-dimensional sequences: Application to polyphonic music generation and transcription
 One-shot Learning with Memory-Augmented Neural Networks
 Cortical microcircuits as gated-recurrent neural networks
 Learning to Diagnose with LSTM Recurrent Neural Networks
+Recurrent generative adversarial networks for proximal learning and automated compressive image recovery
+Generalization of deep neural networks for chest pathology classification in x-rays using generative adversarial networks
 Speech recognition with missing data using recurrent neural nets
 Modeling Missing Data in Clinical Time Series with RNNs
 Doctor AI: Predicting Clinical Events via Recurrent Neural Networks
@@ -49,6 +52,8 @@ From Bayesian Sparsity to Gated Recurrent Nets
 Recurrent Additive Networks
 Mixture density networks for distribution and uncertainty estimation
 Long-term Recurrent Convolutional Networks for Visual Recognition and Description
+Translating videos to natural language using deep recurrent neural networks
+Video description generation incorporating spatiotemporal features and a soft-attention mechanism
 Sequence to Sequence -- Video to Text
 Recurrent Models of Visual Attention
 Multiple Object Recognition with Visual Attention
@@ -194,3 +199,17 @@ Training recurrent networks using the extended kalman filter
 An evolutionary algorithm that constructs recurrent neural networks
 Evolutionary optimization of long short-term memory neural network language model
 Long Short-Term Memory Over Tree Structures
+Differential recurrent neural networks for action recognition
+Semantic object parsing with local-global long short-term memory
+Lstm time and frequency recurrence for automatic speech recognition
+Convolutional lstm network: A machine learning approach for precipitation nowcasting
+Towards ai-complete question answering a set of prerequisite toy tasks
+Ask me anything: Dynamic memory networks for natural language processing
+Recurrent memory network for language modeling
+Learning longer memory in recurrent neural networks
+Unitary evolution recurrent neural networks
+Gated Orthogonal Recurrent Units: On Learning to Forget
+Improving neural networks with dropout
+Rnndrop: A novel dropout for rnns in asr
+Recurrent dropout without memory loss
+Regularizing rnns by stabilizing activations

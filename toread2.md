@@ -159,7 +159,7 @@ Sequence Learning lectures (book) -  Bidirectional Dynamics for Protein Secondar
 Capturing Long-term Dependencies for Protein Secondary Structure Prediction
 Bidirectional Long Short-Term Memory Networks for Predicting the Subcellular Localization of Eukaryotic Proteins
 Experiments on Learning by Back Propagation
-Oﬄine handwriting recognition with multidimensional recurrent neural networks
+Offline handwriting recognition with multidimensional recurrent neural networks
 Unconstrained on-line handwriting recognition with recurrent neural networks
 Speech recognition with deep recurrent neural networks Graves
 Exploiting the past and the future in protein secondary structure prediction
@@ -238,6 +238,7 @@ Facial Expression Recognition Using Pseudo 3-D Hidden Markov Models
 Multi-Dimensional Dependency-Tree Hidden Markov Models
 Hierarchical models of object recognition in cortex
 Towards end-to-end speech recognition with recurrent neural networks
+Long short-term memory based recurrent neural network architectures for large vocabulary speech recognition
 Show and Tell: A Neural Image Caption Generator
 Show, attend and tell: Neural image caption generation with visual attention
 On the properties of neural machine translation: Encoder-decoder approaches
@@ -376,3 +377,24 @@ Improved transition-based parsing by modeling characters instead of words with l
 Applying convolutional neural networks concepts to hybrid nn-hmm model for speech recognition
 Learning natural language inference with lstm
 Generative Image Modeling Using Spatial LSTMs
+Empirical evaluation and combination of advanced language modeling techniques
+Extensions of recurrent neural network language model
+Generating text with recurrent neural networks
+Lstm neural networks for language modeling
+Connectionist temporal classification: labelling unsegmented sequence data with recurrent neural networks
+A neural transducer
+Survey on speech emotion recognition: Features, classification schemes, and databases
+Adieu features? end-to-end speech emotion recognition using a deep convolutional recurrent network
+Abandoning emotion classes-towards continuous emotion recognition with modelling of long-range dependencies
+High-level feature representation using recurrent neural network for speech emotion recognition
+Fast second order stochastic backpropagation for variational inference
+Text-to-speech conversion with neural networks: A recurrent tdnn approach
+Speech synthesis using artificial neural networks trained on cepstral coefficients
+Unidirectional long short-term memory recurrent neural network with recurrent output layer for low-latency speech synthesis
+Prosody contour prediction with long short-term memory, bi-directional, deep recurrent neural networks
+Wavenet: A generative model for raw audio
+A first look at music composition using lstm recurrent neural networks
+Dag-recurrent neural networks for scene labeling
+Quaddirectional 2d-recurrent neural networks for image labeling
+Scene labeling with lstm recurrent neural networks
+Pixel recurrent neural networks
