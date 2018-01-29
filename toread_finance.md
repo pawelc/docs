@@ -10,3 +10,5 @@ Dual Stochastic Dominance and Related Mean-Risk Models
 Frontiers of Stochastically Nondominated Portfolios
 From stochastic dominance to mean-risk models: Semideviations as risk measures
 The out-of-sample failure of empirical exchange rate models
+Technical trading rule profitability and foreign exchange intervention
+Using genetic algorithms to find technical trading rules
