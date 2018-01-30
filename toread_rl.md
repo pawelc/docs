@@ -15,3 +15,5 @@ World-championship-caliber Scrabble
 Modification of UCT with patterns in Monte-Carlo Go
 Multi-armed bandits with episode context
 Mastering Chess and Shogi by Self-Play with a General Reinforcement Learning Algorithm
+Monte Carlo chess
+https://medium.com/applied-data-science/how-to-build-your-own-alphazero-ai-using-python-and-keras-7f664945c188
