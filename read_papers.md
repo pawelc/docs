@@ -104,3 +104,15 @@ Authors generate programs automatically that meet some criteria  regarding the d
 Nice review of RNN from the historic models upto the state of the art like memory networks.
 # Mastering the game of Go with deep neural networks and tree search
 Use value, policy networks together with Monte Carlo Tree Search and other techniques to achieve the best ever AI go player. First policy network is trained supervised on database of games. It is seed to policy network which is learnt using RL with self play. On these self play games value network is trained. 
+# Adaptive systems for foreign exchange trading
+Technical indicators alone are not enough to make strategy profitable. But if we use market maker's inside info of client flow and order book then we can
+create profitable strategy. Authors check cointegration tests for flows and market moves and find the some particular flow like hedge fund and funds can conintegrate
+nicely with price action. For sterling the most important flows were institutional and corporate.
+# Intraday FX Trading: An Evolutionary Reinforcement Learning Approach in "IDEAL 2002 Intelligent Data Engineering and Automated Learning"
+Trading agent that buys/sells/keeps neutral using RL with Q lerarning. The state of the system are signals from the technical indicators. This solution
+has poor generalization. Using GA algorithm to select which indicators to use helps much out of sample performance.
+# Agent Inspired Trading Using Recurrent Reinforcement Learning and LSTM Neural Networks
+Value function approach to RL like Q-learning, dynamic programing, TD-learning can have problems in finance because of noise, and nostationary data and the policy 
+can change dramarically when value function changes only a bit. Actor/critic is indermediete method when actor is learning policy and critic is learning value function.
+The recurrent reinforcment learning  (type of direct reinforcment learning when we learn directly policy functuin) can be better apprach.
+Authors setup sharp ratio and system tries to optimise it.

@@ -398,3 +398,4 @@ Dag-recurrent neural networks for scene labeling
 Quaddirectional 2d-recurrent neural networks for image labeling
 Scene labeling with lstm recurrent neural networks
 Pixel recurrent neural networks
+Outrageously Large Neural Networks: The Sparsely-Gated Mixture-of-Experts Layer

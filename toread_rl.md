@@ -17,3 +17,16 @@ Multi-armed bandits with episode context
 Mastering Chess and Shogi by Self-Play with a General Reinforcement Learning Algorithm
 Monte Carlo chess
 https://medium.com/applied-data-science/how-to-build-your-own-alphazero-ai-using-python-and-keras-7f664945c188
+End-to-end deep neural network for automatic learning in chess
+DeepChess End-to-End Deep Neural Network for Automatic Learning in Chess
+Deep Reinforcement Learning: An Overview
+Reinforcement learning: A survey
+Learning from Delayed Reward
+Neural Architecture Search with Reinforcement Learning
+Neural Optimizer Search with Reinforcement Learning
+A Deep Reinforcement Learning Framework for the Financial Portfolio Management Problem
+Portfolio Management using Reinforcement Learning
+https://chatbotslife.com/deep-learning-in-finance-learning-to-trade-with-q-rl-and-dqns-6c6cff4a1429
+https://github.com/Prediction-Machines/Trading-Gym
+https://github.com/jjakimoto/DQN
+https://github.com/filangel/qtrader

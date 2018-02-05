@@ -179,7 +179,6 @@ Associative Long Short-Term Memory
 Meta-Learning with Memory-Augmented Neural Networks
 Feedforward Sequential Memory Networks: A New Structure to Learn Long-term Dependency
 Hierarchical Memory Networks
-Deep Reinforcement Learning: An Overview
 Memory-augmented Neural Machine Translation
 LSTM with working memory
 Active One-shot Learning
@@ -212,3 +211,6 @@ Improving neural networks with dropout
 Rnndrop: A novel dropout for rnns in asr
 Recurrent dropout without memory loss
 Regularizing rnns by stabilizing activations
+PRNN Recurrent Neural Network with Persistent Memory
+Cascade Dynamics Modeling with Attention-based Recurrent Neural Network
+Attention-based Mixture Density Recurrent Networks for History-based Recommendation
