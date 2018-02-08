@@ -173,7 +173,6 @@ Forecasting with Recurrent Neural Networks 12 Tricks
 Gradient Flow in Recurrent Nets: the Difficulty of Learning Long-Term Dependencies
 Fast Model-based Protein Homology Detection without Alignment.
 Gradient-Based Learning Algorithms for Recurrent Networks and Their Computational Complexity
-Backpropagation through time: what it does and how to do it
 Fast Curvature Matrix-Vector Products for Second-Order Gradient Descent
 An Analysis of Noise in Recurrent Neural Networks: Convergence and Generalization
 A comparison of preprocessors for the cambridge recurrent error propagation network speech recognition system

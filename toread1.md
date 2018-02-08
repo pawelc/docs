@@ -1,3 +1,5 @@
+Neural GPUs Learn Algorithms
+Backpropagation through time: what it does and how to do it
 Learning to Predict by the Methods of Temporal Differences
 Evolving Neural Turing Machines for Reward-based Learning
 Scaling Memory-Augmented Neural Networks with Sparse Reads and Writes
@@ -168,7 +170,6 @@ Distilling a Neural Network Into a Soft Decision Tree
 Overcoming catastrophic forgetting in neural networks
 Memory-based neural networks for robot learning
 Learning Longer Memory in Recurrent Neural Networks
-Neural GPUs Learn Algorithms
 Ask Me Anything: Dynamic Memory Networks for Natural Language Processing
 Prediction with a Short Memory
 Can recurrent neural networks warp time?

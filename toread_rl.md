@@ -30,3 +30,10 @@ https://chatbotslife.com/deep-learning-in-finance-learning-to-trade-with-q-rl-an
 https://github.com/Prediction-Machines/Trading-Gym
 https://github.com/jjakimoto/DQN
 https://github.com/filangel/qtrader
+Reinforcement Learning for Trading
+Benchmarking Deep Reinforcement Learning for Continuous Control
+Dynamic programming and optimal control
+Human-level control through deep reinforcement learning
+Trust Region Policy Optimization
+Asynchronous Methods for Deep Reinforcement Learning
+Algorithm Trading using Q-Learning and Recurrent Reinforcement Learning

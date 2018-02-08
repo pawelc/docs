@@ -115,4 +115,14 @@ has poor generalization. Using GA algorithm to select which indicators to use he
 Value function approach to RL like Q-learning, dynamic programing, TD-learning can have problems in finance because of noise, and nostationary data and the policy 
 can change dramarically when value function changes only a bit. Actor/critic is indermediete method when actor is learning policy and critic is learning value function.
 The recurrent reinforcment learning  (type of direct reinforcment learning when we learn directly policy functuin) can be better apprach.
-Authors setup sharp ratio and system tries to optimise it.
+Authors setup sharp ratio and system tries to optimise it. Authors try various functions for functionally select decision (what position to have at time t) 
+using RNN and LSTM. They use gradient descent to optimize across runs. They find learnt strategies profitable. 
+They want to try in the future evolution type optimization and learn multi asset trading agent.
+# FX trading via recurrent reinforcement learning
+Authors optimize differential sharp ratio. They use simple FF NN with one and two layers. It is found that NN with 1 layer achieves better 
+results because possibly works better with noise. It gives hint for the future that when using complex models we need good ways of regularization 
+(like dropout or noise in the gradient). Authors also find that strategies are profitable when movement/spread ratios are bigger. 
+Authors also train model in the online fashion also during test time.
+# Making financial trading by recurrent reinforcement learning
+Authors use RRL but not using Sharpe ration but ratio of sum of the positive and negative absolute returns. Authors in the same way compute the ratio 
+using moving average. They try to minimize the maximum drawdown.
