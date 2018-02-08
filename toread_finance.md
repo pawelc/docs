@@ -1,4 +1,3 @@
-Learning to trade via direct reinforcement
 Minimizing Downside Risk via Stochastic Dynamic Programming
 Deep Direct Reinforcement Learning for Financial Signal Representation and Trading
 Evolutionary Reinforcement Learning in FX Order Book and Order Flow Analysis

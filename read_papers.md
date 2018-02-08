@@ -126,3 +126,4 @@ Authors also train model in the online fashion also during test time.
 # Making financial trading by recurrent reinforcement learning
 Authors use RRL but not using Sharpe ration but ratio of sum of the positive and negative absolute returns. Authors in the same way compute the ratio 
 using moving average. They try to minimize the maximum drawdown.
+# Learning to trade via direct reinforcement
