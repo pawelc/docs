@@ -1,3 +1,4 @@
+http://karpathy.github.io/2016/05/31/rl/
 On-line Policy Improvement using Monte-Carlo Search
 Efficient selectivity and backup operators in Monte-Carlo tree search
 Bandit based Monte-Carlo planning
@@ -37,3 +38,4 @@ Human-level control through deep reinforcement learning
 Trust Region Policy Optimization
 Asynchronous Methods for Deep Reinforcement Learning
 Algorithm Trading using Q-Learning and Recurrent Reinforcement Learning
+Reinforcement Learning An Introduction Second edition (http://www.incompleteideas.net/book/ https://github.com/ShangtongZhang/reinforcement-learning-an-introduction )

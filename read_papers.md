@@ -127,3 +127,6 @@ Authors also train model in the online fashion also during test time.
 Authors use RRL but not using Sharpe ration but ratio of sum of the positive and negative absolute returns. Authors in the same way compute the ratio 
 using moving average. They try to minimize the maximum drawdown.
 # Learning to trade via direct reinforcement
+Authors argue that direct reinforcement i.e. method learning directly policy is better for problems when agent receives immediate estimates of
+incremental performance compared to methods using value function like TD-Learning, Q-Learning. Agent to incorporate trading cost, market impact must have recurrent 
+structure. Methods using value function is better when reward is deferred considerably in the future, DR is better when we have signal at each step.

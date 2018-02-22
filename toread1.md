@@ -215,3 +215,4 @@ Regularizing rnns by stabilizing activations
 PRNN Recurrent Neural Network with Persistent Memory
 Cascade Dynamics Modeling with Attention-based Recurrent Neural Network
 Attention-based Mixture Density Recurrent Networks for History-based Recommendation
+a learning algorithm for continually running fully recurrent neural networks

@@ -398,3 +398,4 @@ Quaddirectional 2d-recurrent neural networks for image labeling
 Scene labeling with lstm recurrent neural networks
 Pixel recurrent neural networks
 Outrageously Large Neural Networks: The Sparsely-Gated Mixture-of-Experts Layer
+Identification and control of dynamical systems using neural networks
