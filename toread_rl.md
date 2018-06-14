@@ -1,4 +1,7 @@
-http://karpathy.github.io/2016/05/31/rl/
+Policy Gradients with Variance Related Risk Criteria
+Playing Atari with Six Neurons
+The Mirage of Action-Dependent Baselines in Reinforcement Learning
+Mastering Chess and Shogi by Self-Play with a General Reinforcement Learning Algorithm
 On-line Policy Improvement using Monte-Carlo Search
 Efficient selectivity and backup operators in Monte-Carlo tree search
 Bandit based Monte-Carlo planning
@@ -7,6 +10,7 @@ Pachi: State of the Art Open Source Go Program
 Fuego—An Open-Source Framework for Board Games and Go Engine Based on Monte Carlo Tree Search
 Simple statistical gradient-following algorithms for connectionist reinforcement learning
 Policy gradient methods for reinforcement learning with function approximation
+High-Dimensional Continuous Control Using Generalized Advantage Estimation
 Markov games as a framework for multi-agent reinforcement learning
 An analysis of alpha-beta pruning
 Multi-armed bandits with episode contex
@@ -15,7 +19,6 @@ Monte Carlo tree search with heuristic evaluations using implicit minimax backup
 World-championship-caliber Scrabble
 Modification of UCT with patterns in Monte-Carlo Go
 Multi-armed bandits with episode context
-Mastering Chess and Shogi by Self-Play with a General Reinforcement Learning Algorithm
 Monte Carlo chess
 https://medium.com/applied-data-science/how-to-build-your-own-alphazero-ai-using-python-and-keras-7f664945c188
 End-to-end deep neural network for automatic learning in chess
@@ -39,3 +42,17 @@ Trust Region Policy Optimization
 Asynchronous Methods for Deep Reinforcement Learning
 Algorithm Trading using Q-Learning and Recurrent Reinforcement Learning
 Reinforcement Learning An Introduction Second edition (http://www.incompleteideas.net/book/ https://github.com/ShangtongZhang/reinforcement-learning-an-introduction )
+Building Machines That Learn and Think Like People
+Gradient Estimation Using Stochastic Computation Graphs
+Deterministic Policy Gradient Algorithms
+Variance Reduction Techniques for Gradient Estimates in Reinforcement Learning
+Continuous control with deep reinforcement learning
+Learning Continuous Control Policies by Stochastic Value Gradients
+Adaptive representations for reinforcement learning
+Importance Sampling for Reinforcement Learning with Multiple Objectives
+Stronger bidding strategies through empirical game-theoretic analysis and reinforcement learning
+Adaptive Representations for Reinforcement Learning
+Reward design via online gradient ascent
+A reinforcement learning extension to the Almgren-Chriss model for optimal trade execution
+Learning to Follow Language Instructions with Adversarial Reward Induction
+Reinforcement Learning Turing Machine

@@ -75,14 +75,24 @@ Network of capsules that learns to transform images. Capsule has recognition and
 # Matrix capsules with EM routing
 Reach source of references on how to improve CNNs by adding other types of invariances. Only read beginning.
 # Neural Turing Machine
-Nice experiments tesing if network can learn to copy, use associative memory, model n-gram. Simple differentiable controller which can read and write to memory using location addressing (shift) and associative addressing. Controller learns to output weights over the memory and its output is the output of the model or can be mixed with output of some other net?
+Nice experiments tesing if network can learn to copy, use associative memory, model n-gram. Simple differentiable controller which can read and write to 
+memory using location addressing (shift) and associative addressing. Controller learns to output weights over the memory and its output is the output of the 
+model or can be mixed with output of some other net?
 # Hybrid computing using a neural network with dynamic external memory
-This is the Neural Turing Machine with improved addressing (link Matrix keeping the order in which memory was accessed, removing convolutional shift). The link matrix can be sparse without decrease of the performance. Model is learned using supervised learning and also reinforce algorithms.
+This is the Neural Turing Machine with improved addressing (link Matrix keeping the order in which memory was accessed, removing convolutional shift). 
+The link matrix can be sparse without decrease of the performance. Model is learned using supervised learning and also reinforce algorithms.
+DNC also keeps track of used memory and can free memory when no more needed.
+The tests are on graphs (underground map), family tree model and inference of relations, block puzzle where model has to learn how to meet different constraints
+for the blocks, also finding shortest path 
 # Neural Random-Access Machines
-There is a controller, modules (operations), registers. Controller orchestrates operations over registers using operations and the results are written back to the registers.
-The circuits are like mini algorithms (subroutine) that are executed step by step. More difficult problems are hard to learn possibly because of weak optimization. Possibly QA can help.
+There is a controller, modules (operations), registers. Controller orchestrates operations over registers using operations and the results are written back to the 
+registers.
+The circuits are like mini algorithms (subroutine) that are executed step by step. More difficult problems are hard to learn possibly because of weak optimization. 
+Possibly QA can help.
 # Adding Gradient Noise Improves Learning for Very Deep Networks
-This uses annealed noise added to gradient. Maybe it can be compared to QA. Added gradient noise is similar to simulated annealing. Adding noise only helps with very deep architectures h > 5. For simple FFNN It looks that using good init and grad clipping achieves the same results as the same with grad noise. Grad noise helps when only simple init. But it is still useful when network is complex and we are not sure about proper init. But this is not true for more complex architectures where finding perfect init values is much harder.
+This uses annealed noise added to gradient. Maybe it can be compared to QA. Added gradient noise is similar to simulated annealing. 
+Adding noise only helps with very deep architectures h > 5. For simple FFNN It looks that using good init and grad clipping achieves the same results as the same with 
+grad noise. Grad noise helps when only simple init. But it is still useful when network is complex and we are not sure about proper init. But this is not true for more complex architectures where finding perfect init values is much harder.
 # Reinforcement learning neural Turing machines 
 Important because continuous-discrete learning. This model is very difficult to train for more complex problems so could be could candidate for QA. 
 Curriculum learning is very important to be able to learn. It is also important to decrease the variance of the gradient estimator.
@@ -90,7 +100,9 @@ Reinforce is used to construct the cost function but it is simply expectation of
 # Quantum machine learning : what quantum computing means to datamining / Peter Wittek
 Started but in the end was too hard to follow. Maybe later.
 # Memory networks
-Very generic architecture for memory enhanced models. Components I (input),G(generalization i.e. memory access/write), O (output feature from memory given input), R (response). The memory stores all sequences (if words are given there is a model to discover sequences). Then memory is compared to each sequence in order in the test set . Authors use hashing of the memory to imrove performance. The model is applied to QA tasks.
+Very generic architecture for memory enhanced models. Components I (input),G(generalization i.e. memory access/write), O (output feature from memory given input), 
+R (response). The memory stores all sequences (if words are given there is a model to discover sequences). 
+Then memory is compared to each sequence in order in the test set . Authors use hashing of the memory to imrove performance. The model is applied to QA tasks.
 # Weakly Supervised Memory Networks
 The same application as Memory Networs but doesn't hint which intermediate sentences help with answering question hence weak (no supervision of the supporting facts). Like Diffrerentiable Neural Computer they try to keep temporal information for memory access.
 They try to fight the local minima by first running the model with all non-linear oprations removed and later when 
@@ -130,3 +142,91 @@ using moving average. They try to minimize the maximum drawdown.
 Authors argue that direct reinforcement i.e. method learning directly policy is better for problems when agent receives immediate estimates of
 incremental performance compared to methods using value function like TD-Learning, Q-Learning. Agent to incorporate trading cost, market impact must have recurrent 
 structure. Methods using value function is better when reward is deferred considerably in the future, DR is better when we have signal at each step.
+# http://karpathy.github.io/2016/05/31/rl/
+Karpaty also thinks that Policy gradient is much better than DQN. Policy gradient is sum A_i P(y_i|x_i) where y_i is sampled action, x_i is input and A_i is 
+advantage i.e. the reward at the end. So we discourage all moves which in the end made us lost and encourage all movements that led to win. So here RL
+is like supervised learning. When discounting all the rewards we can standadize them so we encourage half of the actions and discourage half of the actions.
+This decreases variance of the policy gradient estimator. Policy gradient is score function gradient estimation. grad_x expectation_p(x) f(x) = 
+expectation_p(x) ( f(x) * grad_x log p(x) )
+# Deep Recurrent Q-Learning for Partially Observable MDPs
+Using RNN on top of the DQN (CNN for modeling Q values). The paper shows experiments where RNN model helps with partial observability of the environment. They
+do it but randomly clearing screens given to the model. In DQN paper authors had to give few previous frames from the video game to capute dynamics of the system,
+RNN can model it implicitly.
+# Machine Learning for Trading
+Using Q learning (discrete actions and states) for trading function. Author derives what reward function should be used in case of concave utility function. 
+Author models the market as random mean reverting process. He also models the market impact. 
+# Equity market impact Almgren R, CThum, E Hauptmann and H Li 2005
+Modeling temporary and persistent market impact by power functions
+
+# Almgren R and N Chriss 1999 Value under liquidation
+Value of the portfolio taking into consideration the cost of the liquidation
+
+# Multiperiod Portfolio Selection and Bayesian Dynamic Models
+Multiperiod portfolio optimization using HMM.
+# Market Making via Reinforcement Learning
+Using TD/Q learning to build market making agent. Authors discover that techniques like tile encoding, eligibility traces and reward function that
+discourages holding of positions can improve performance of the model.
+
+# FX Spot Trading and Risk Management from A Market Maker’s Perspective
+Nice review of FX markets. Comprehensive way of simulating the environment of FX market maker.
+Comparison of performance of market maker without hedging, with hedging and with VaR (using extreme value apprach)
+
+# Uncertainty in Deep Learning
+Mapping VI with Stochastic Regularization Techniques like dropout. Should  be implementable for DNC.
+There are a lot of references in this work worth reading. It would be nice to read later to the end especially about usage 
+
+# Bayesian Methods for Adaptive Models
+Bayesian model inference of parameters and model comparison. Hasn't finished because was too difficult.
+
+# Probabilistic Interpretations of Recurrent Neural Networks
+Framing RNN as capable of forward computations of state space models like HMM. Also comparing RNN to particle filters.
+Authors perform experiments where RNN predicts hidden state of HMM given data. After training RNN the predicted states were the same as from
+hmm forward algo.
+
+# GENERATIVE TEMPORAL MODELS WITH MEMORY
+
+This paper combines stochastic variational inference with memory-augmented recurrent neural networks. 
+The authors test 4 variants of their models against the Variational Recurrent Neural Network on 7 artificial tasks requiring long term memory. 
+The reported log-likelihood lower bound is not obviously improved by the new models on all tasks but is slightly better on tasks requiring high capacity memory.
+
+# Tutorial on Variational Autoencoders
+Explained VAE and CVAE. very nice
+
+# A Recurrent Latent Variable Model for Sequential Data
+Added random hidden variables to rnn to model the distribution of data better and in generative way. Using VAE to learn
+parameters of the model and aproximate posterior. Got better resylts than standard RNNs.
+
+# A statistical view of deep learning 
+DNN = Recursive Generalized Linear Models
+Autoencoders as Variational approach to learning generative models.
+RNN as state space models with deterministic dynamics.
+Maximum likelihood, MAP and overfitting. But they lack transformation invariance.
+Thoughts when model is deep.
+
+# A neural network is a monference, not a model
+NN as model with inference. Shows that RNN directly recovere inference of HMM (filtering) with the same precision. The same as in 
+"Probabilistic Interpretations of Recurrent Neural Networks"
+
+There was a workshop about memomy https://nips2015.sched.com/event/4G4h/reasoning-attention-memory-ram-workshop
+
+# Generating sequences with recurrent neural networks
+The RNN generates sequenes by letter. it predict next input given previusly geneated output. Network has skip connections from input to all hidden
+layers and from all hidden layers to output.
+The network output parametrizes required distribution. Shown nicely how to parametrize network for real  and categorical data.
+Not read everything but wortth later.
+
+# Analysis of Recurrent Neural Networks for Probabilistic Modeling of Driver Behavior
+Authors experiment with application of RNNs (LSTMS) to build model for behaviours of car drivers in terms of their accelaration
+when following other vehicle. This is necessary for contemporary cars so they can build mechanisms to brake autonomously or warn drivers.
+The models are later used for simulations. So far people used fixed models (specific formulae with tunable parameters) or NN with history.
+It looks that using RNN improves different benchmarks. Authors use fifferent parametrizatations of output densities like mixture of Gaussians according to
+"Mixture Density Networks" the same as in "Generating sequences with recurrent neural networks" or piecewise uniform.
+It looks that FFNN given enough history coped better or the same as LSTM.
+
+# Variational inference for Monte Carlo objectives
+Using multi sample stochastic lower bound for log likelihood. It can deal with discreate and continuous hidden variables.
+
+# Variational Memory Addressing in Generative Models
+Generative model enhanced with memory trained using Using multi sample stochastic lower bound for log likelihood. The memory
+is addressed by discrete random variable which also have approximate posterior. So it uses hard attention. Tehy mention that their addressing
+would be plugin replacement for soft addressing used in "GENERATIVE TEMPORAL MODELS WITH MEMORY" 

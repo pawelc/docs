@@ -1,10 +1,27 @@
+REINFORCEMENT LEARNING NEURAL TURING MACHINES - read once again
+Learning context-free grammars: Capabilities and limitations of a recurrent neural network with an external stack memory
+End-To-End Memory Networks
+Hybrid computing using a neural network with dynamic external memory
+Bidirectional Recurrent Neural Networks as Generative Models - Reconstructing Gaps in Time Series
+Predictive State Recurrent Neural Networks
+http://www.deeplearningpatterns.com/doku.php?id=memory
+The Kanerva Machine: A Generative Distributed Memory
+What Uncertainties Do We Need in Bayesian Deep Learning for Computer Vision
+Learning Stochastic Recurrent Networks
+Variational Recurrent Auto-Encoders
+DRAW: A Recurrent Neural Network For Image Generation
+Learning visual motion in recurrent neural networks
+Modeling temporal dependencies in high-dimensional sequences: Application to polyphonic music generation and transcription
+Bayesian Data Analysis Straight-line Fitting
 Neural GPUs Learn Algorithms
+Learning Wake-Sleep Recurrent Attention Models
+Learning Structured Output Representation using Deep Conditional Generative Models
+An Uncertain Future: Forecasting from Static Images using Variational Autoencoders
 Backpropagation through time: what it does and how to do it
 Learning to Predict by the Methods of Temporal Differences
 Evolving Neural Turing Machines for Reward-based Learning
 Scaling Memory-Augmented Neural Networks with Sparse Reads and Writes
 Can Active Memory Replace Attention
-End-To-End Memory Networks
 Grid Long Short-Term Memory
 Pointer networks
 Neural Machine Translation by Jointly Learning to Align and Translate
@@ -15,14 +32,13 @@ LIE-ACCESS NEURAL TURING MACHINES
 Neural Programmer
 Neural GPUs
 Learning to Remember Rare Events
-GENERATIVE TEMPORAL MODELS WITH MEMORY
 Learning to Transduce with Unbounded Memory
 Evolutionary multi-objective generation of recurrent neural network ensembles for time series prediction
 Self-Delimiting Neural Networks
 Optimal ordered problem solver
 Applications of quantum inspired computational intelligence: a survey
 Deep Learning for Time-Series Analysis
-Modeling temporal dependencies in high-dimensional sequences: Application to polyphonic music generation and transcription
+One-Shot Generalization in Deep Generative Models
 One-shot Learning with Memory-Augmented Neural Networks
 Cortical microcircuits as gated-recurrent neural networks
 Learning to Diagnose with LSTM Recurrent Neural Networks
@@ -59,7 +75,6 @@ Video description generation incorporating spatiotemporal features and a soft-at
 Sequence to Sequence -- Video to Text
 Recurrent Models of Visual Attention
 Multiple Object Recognition with Visual Attention
-DRAW: A Recurrent Neural Network For Image Generation
 https://deepmind.com/blog/differentiable-neural-computers/
 https://www.youtube.com/watch?v=steioHoiEms
 https://github.com/deepmind/dnc
@@ -72,8 +87,6 @@ Learning Phrase Representations using RNN Encoder–Decoder for Statistical Mach
 Empirical evaluation of gated recurrent neural networks on sequence modeling
 Depth-Gated LSTM
 A clockwork RNN
-A Recurrent Latent Variable Model for Sequential Data
-Learning Stochastic Recurrent Networks
 A Long Short-Term Memory Recurrent Neural Network Framework for Network Traffic Matrix Prediction
 Structural-RNN: Deep Learning on Spatio-Temporal Graphs
 Adaptive Computation Time for Recurrent Neural Networks
@@ -146,7 +159,6 @@ Modeling Progression Free Survival in Breast Cancer with Tensorized Recurrent Ne
 End-to-end attention-based large vocabulary speech recognition
 Attention-Based Models for Speech Recognition
 Sequence to Sequence Learning with Neural Networks
-Generating sequences with recurrent neural networks
 A note on the evaluation of generative models
 Mind’s Eye: A Recurrent Visual Representation for Image Caption Generation
 Time Series for Macroeconomics and Finance
@@ -164,9 +176,9 @@ Banishing the homunculus: making working memory work
 Continuous attractors and oculomotor control
 Expressive power of recurrent neural networks
 https://arxiv.org/find/cs/1/au:+Fulcher_B/0/1/0/all/0/1
-Variational Memory Addressing in Generative Models
 https://github.com/openai/blocksparse
 Distilling a Neural Network Into a Soft Decision Tree
+Bengio, Y., Louradour, J., Collobert, R. & Weston, J. Curriculum learning
 Overcoming catastrophic forgetting in neural networks
 Memory-based neural networks for robot learning
 Learning Longer Memory in Recurrent Neural Networks
@@ -182,6 +194,7 @@ Feedforward Sequential Memory Networks: A New Structure to Learn Long-term Depen
 Hierarchical Memory Networks
 Memory-augmented Neural Machine Translation
 LSTM with working memory
+Learning to Generate with Memory
 Active One-shot Learning
 Position-based Content Attention for Time Series Forecasting with Sequence-to-sequence RNNs
 Self-paced learning for latent variable models
@@ -216,3 +229,11 @@ PRNN Recurrent Neural Network with Persistent Memory
 Cascade Dynamics Modeling with Attention-based Recurrent Neural Network
 Attention-based Mixture Density Recurrent Networks for History-based Recommendation
 a learning algorithm for continually running fully recurrent neural networks
+Tieleman, T. & Hinton, G. RmsProp: divide the gradient by a running average of its recent magnitude. Lecture 6.5 of Neural Networks for Machine Learning(COURSERA, 2012); available at http://www.cs.toronto.edu/~ tijmen/csc321/slides/lecture_slides_lec6.pdf
+Nonlinear Statistical Models
+In All Likelihood: Statistical Modelling and Inference Using Likelihood
+Concrete problems in ai safety
+Time-series Extreme Event Forecasting with Neural Networks at Uber
+A neural probabilistic language model
+Distilling the Knowledge in a Neural Network
+Neural Variational Inference and Learning in Belief Networks

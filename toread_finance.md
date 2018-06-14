@@ -1,4 +1,6 @@
+Price signatures
 Optimization of trading systems and portfolios
+Making financial trading by recurrent reinforcement learning
 Performance functions and reinforcement learning for trading systems and portfolios
 Minimizing Downside Risk via Stochastic Dynamic Programming
 Deep Direct Reinforcement Learning for Financial Signal Representation and Trading
@@ -31,10 +33,57 @@ Financial Portfolio Optimization Computationally guided agents to investigate, a
 Implications of the Sharpe Ratio as a Performance Measure in Multi-Period Settings
 Optimizing the Sharpe Ratio for a Rank Based Trading System
 Intertemporal portfolio theory and asset pricing
-
-H. M. Markowitz,Portfolio Selection: Efficient Diversification of Investments. New York: Wiley, 1959
-F. A. Sortino and R. van der Meer, “Downside risk—capturing what’s at stake in investment situations,” J. Portfolio Management, vol. 17, pp. 27–31, 1991
+Portfolio Selection: Efficient Diversification of Investments
 D. Nawrocki, “Optimal algorithms and lower partial moment: Ex post results,” Appl. Economics, vol. 23, pp. 465–470, 1991
-“The characteristics of portfolios selected by n-degree lower par- tial moment,” Int. Rev. Financial Anal., vol. 1, pp. 195–209, 1992.
+“The characteristics of portfolios selected by n-degree lower partial moment,” Int. Rev. Financial Anal., vol. 1, pp. 195–209, 1992.
 F. A. Sortino and H. J. Forsey, “On the use and misuse of downside risk,” J. Portfolio Management, vol. 22, pp. 35–42, 1996
 D. Nawrocki, “A brief history of downside risk measures,” J. Investing, pp. 9–26, Fall 1999
+A Bayesian Market Maker
+A Generalisation of the Mean‐Variance Analysis
+A Practical Liquidity-Sensitive Automated Market Maker
+Adaptive Market Making via Online Learning
+Allocative Efficiency of Markets with Zero-Intelligence Traders Market as a Partial Substitute for Individual Rationality
+An Electronic Market-Maker
+Automated Market Making Theory and Practice
+Buy Low, Sell High A High Frequency Trading Perspective
+Dealing with the inventory risk A solution to the market making problem
+Direct estimation of equity market impact
+Dynamic trading with predictable returns and transaction costs
+Global portfolio optimization
+High-frequency trading in a limit order book
+High Frequency Trading: A Practical Guide to Algorithmic Strategies and Trading Systems
+Limit order books - book
+Limit order books - article
+Liquidity and Market Structure
+Machine Learning for Trading
+Market Making and Mean Reversion
+Market Making via Reinforcement Learning
+Multiperiod Portfolio Selection and Bayesian Dynamic Models
+Optimal dealer pricing under transactions and return uncertainty
+Optimal Execution of Portfolio Transactions
+Optimal high-frequency trading with limit and market orders
+Reinforcement Learning for Optimized Trade Execution
+Risk Metrics and Fine Tuning of High-Frequency Trading Strategies
+Strategic bidding in continuous double auctions
+Three Automated Stock-Trading Agents A Comparative Study
+Trading financial indices with reinforcement learning agents
+Value under liquidation
+ZIP60 an enhanced variant of the ZIP trading algorithm
+The electronic trading systems and bid-ask spreads in the foreign exchange market
+High frequency fx trading Technology, techniques and data
+Focus on Last Look
+Financial Risk Management: A Practitioner's Guide to Managing Market and Credit Risk Second Edition
+Modelling the High-Frequency FX Market An Agent-Based Approach
+Market Structure and Inefficiency in the Foreign Exchange Market
+Multi-Agent based simulation of FOREX exchange market
+Effects on Profitability from Network Latency
+Trading in Foreign Exchange Markets
+Foreign Exchange Market Microstructure and the WM Reuters 4pm Fix
+Value at risk and extreme returns
+From value at risk to stress testing: The extreme value approach
+Garch 101, the use of arch garch models in applied econometrics
+The econometrics of financial markets
+Estimation of tail-related risk measure for heteroscedastic financial time series, an extreme value approach
+Autoregressive Conditional Heteroscedasticity with Estimates of the Variance of United Kingdom Inflation
+Generalized autoregressive conditional heteroscedasticity
+Expected Returns: An Investor's Guide to Harvesting Market Rewards

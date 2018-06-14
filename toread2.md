@@ -399,3 +399,18 @@ Scene labeling with lstm recurrent neural networks
 Pixel recurrent neural networks
 Outrageously Large Neural Networks: The Sparsely-Gated Mixture-of-Experts Layer
 Identification and control of dynamical systems using neural networks
+https://www.oreilly.com/learning/introduction-to-local-interpretable-model-agnostic-explanations-lime
+http://fxcmpy.tpq.io/00_quick_start.html
+Python for Finance: Analyze Big Financial Data new version
+https://www.wiley.com/en-gb/Advances+in+Financial+Machine+Learning-p-9781119482086
+celery, dask, ray python lib
+Gaussian processes for machine learning
+Drawing connections for regression in deep NN, kernel methods and Gaussian processes. All methods are connected and can be derived
+from each other.
+Elements of Statistical Learning
+Probability Theory: the Logic of Science
+Generative adversarial nets
+Variational inference with normalizing flows
+Improving variational inference with inverse autoregressive flow
+Variational inference for Monte Carlo objectives
+IMPORTANCE WEIGHTED AUTOENCODERS
