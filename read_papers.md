@@ -94,9 +94,13 @@ This uses annealed noise added to gradient. Maybe it can be compared to QA. Adde
 Adding noise only helps with very deep architectures h > 5. For simple FFNN It looks that using good init and grad clipping achieves the same results as the same with 
 grad noise. Grad noise helps when only simple init. But it is still useful when network is complex and we are not sure about proper init. But this is not true for more complex architectures where finding perfect init values is much harder.
 # Reinforcement learning neural Turing machines 
+This model uses hard attention to address the memory. Most external interfaces are discrete so very useful. It combines backpropagation with reinforce.
 Important because continuous-discrete learning. This model is very difficult to train for more complex problems so could be could candidate for QA. 
 Curriculum learning is very important to be able to learn. It is also important to decrease the variance of the gradient estimator.
-Reinforce is used to construct the cost function but it is simply expectation of the actions over the cumulative rewards.
+Reinforce ie policy gradient is used to construct the cost function but it is simply expectation of the actions over the cumulative rewards.
+They had to hack controller a bit to be able to solve the tasks. They call it direct access controler because it can for example copy directly input to memory
+modulated only by variable from the controller.
+Can read further how they make method more stable and how to implement it.
 # Quantum machine learning : what quantum computing means to datamining / Peter Wittek
 Started but in the end was too hard to follow. Maybe later.
 # Memory networks

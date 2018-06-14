@@ -1,4 +1,3 @@
-REINFORCEMENT LEARNING NEURAL TURING MACHINES - read once again
 Learning context-free grammars: Capabilities and limitations of a recurrent neural network with an external stack memory
 End-To-End Memory Networks
 Hybrid computing using a neural network with dynamic external memory
