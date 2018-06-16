@@ -83,40 +83,20 @@ Capsules are routed using Hebbian rules i.e. the connection between capsules on 
 Network of capsules that learns to transform images. Capsule has recognition and generative units. It has also boolean gate to recognize if entity is on the picture. When applied in CNN way there is no weight sharing?
 # Matrix capsules with EM routing
 Reach source of references on how to improve CNNs by adding other types of invariances. Only read beginning.
-# Neural Random-Access Machines
-There is a controller, modules (operations), registers. Controller orchestrates operations over registers using operations and the results are written back to the 
-registers.
-The circuits are like mini algorithms (subroutine) that are executed step by step. More difficult problems are hard to learn possibly because of weak optimization. 
-Possibly QA can help.
 # Adding Gradient Noise Improves Learning for Very Deep Networks
 This uses annealed noise added to gradient. Maybe it can be compared to QA. Added gradient noise is similar to simulated annealing. 
 Adding noise only helps with very deep architectures h > 5. For simple FFNN It looks that using good init and grad clipping achieves the same results as the same with 
 grad noise. Grad noise helps when only simple init. But it is still useful when network is complex and we are not sure about proper init. But this is not true for more complex architectures where finding perfect init values is much harder.
-# Reinforcement learning neural Turing machines 
-This model uses hard attention to address the memory. Most external interfaces are discrete so very useful. It combines backpropagation with reinforce.
-Important because continuous-discrete learning. This model is very difficult to train for more complex problems so could be could candidate for QA. 
-Curriculum learning is very important to be able to learn. It is also important to decrease the variance of the gradient estimator.
-Reinforce ie policy gradient is used to construct the cost function but it is simply expectation of the actions over the cumulative rewards.
-They had to hack controller a bit to be able to solve the tasks. They call it direct access controler because it can for example copy directly input to memory
-modulated only by variable from the controller.
-Can read further how they make method more stable and how to implement it.
 # Quantum machine learning : what quantum computing means to datamining / Peter Wittek
 Started but in the end was too hard to follow. Maybe later.
-# Memory networks
-Very generic architecture for memory enhanced models. Components I (input),G(generalization i.e. memory access/write), O (output feature from memory given input), 
-R (response). The memory stores all sequences (if words are given there is a model to discover sequences). 
-Then memory is compared to each sequence in order in the test set . Authors use hashing of the memory to improve performance. The model is applied to QA tasks.
-# Weakly Supervised Memory Networks
-The same application as Memory Networs but doesn't hint which intermediate sentences help with answering question hence weak (no supervision of the supporting facts). Like Diffrerentiable Neural Computer they try to keep temporal information for memory access.
-They try to fight the local minima by first running the model with all non-linear oprations removed and later when 
-there is no improvement they enable non-linearity (they call it linear start).
+
 # Learning to Execute
-LSTM that learns what is the output of the short program. The authors also test the LSTM model on copy task and notice that improvement can come from few heuristics like inversing the 
-input or doubling it. Authors also notice that learning is only possible when applying their new curriculum learning (mixing simple curriculum  and some random that can select also difficult 
-examples like in Reinforcement learning neural Turing machines). It looks that combined curriculum  learning is mandatory and naive one can be worse the data distribution one.
+LSTM that learns what is the output of the short program. The authors also test the LSTM model on copy task and notice that improvement can come from few heuristics 
+like inversing the input or doubling it. Authors also notice that learning is only possible when applying their new curriculum learning (mixing simple curriculum  
+and some random that can select also difficult examples like in Reinforcement learning neural Turing machines). It looks that combined curriculum  learning is mandatory 
+and naive one can be worse the data distribution one.
 Authors generate programs automatically that meet some criteria  regarding the difficulty. Overall this article seems to be weaker model than for example NTM.
-# Recent Advances in Recurrent Neural Networks
-Nice review of RNN from the historic models upto the state of the art like memory networks.
+
 # Mastering the game of Go with deep neural networks and tree search
 Use value, policy networks together with Monte Carlo Tree Search and other techniques to achieve the best ever AI go player. First policy network is trained supervised on database of games. It is seed to policy network which is learnt using RL with self play. On these self play games value network is trained. 
 # Adaptive systems for foreign exchange trading
@@ -186,12 +166,6 @@ Framing RNN as capable of forward computations of state space models like HMM. A
 Authors perform experiments where RNN predicts hidden state of HMM given data. After training RNN the predicted states were the same as from
 hmm forward algo.
 
-# GENERATIVE TEMPORAL MODELS WITH MEMORY
-
-This paper combines stochastic variational inference with memory-augmented recurrent neural networks. 
-The authors test 4 variants of their models against the Variational Recurrent Neural Network on 7 artificial tasks requiring long term memory. 
-The reported log-likelihood lower bound is not obviously improved by the new models on all tasks but is slightly better on tasks requiring high capacity memory.
-
 # Tutorial on Variational Autoencoders
 Explained VAE and CVAE. very nice
 
@@ -216,7 +190,7 @@ There was a workshop about memomy https://nips2015.sched.com/event/4G4h/reasonin
 The RNN generates sequenes by letter. it predict next input given previusly geneated output. Network has skip connections from input to all hidden
 layers and from all hidden layers to output.
 The network output parametrizes required distribution. Shown nicely how to parametrize network for real  and categorical data.
-Not read everything but wortth later.
+Not read everything but worth later.
 
 # Analysis of Recurrent Neural Networks for Probabilistic Modeling of Driver Behavior
 Authors experiment with application of RNNs (LSTMS) to build model for behaviours of car drivers in terms of their accelaration
@@ -228,19 +202,3 @@ It looks that FFNN given enough history coped better or the same as LSTM.
 
 # Variational inference for Monte Carlo objectives
 Using multi sample stochastic lower bound for log likelihood. It can deal with discreate and continuous hidden variables.
-
-# Variational Memory Addressing in Generative Models
-Generative model enhanced with memory trained using Using multi sample stochastic lower bound for log likelihood. The memory
-is addressed by discrete random variable which also have approximate posterior. So it uses hard attention. Tehy mention that their addressing
-would be plugin replacement for soft addressing used in "GENERATIVE TEMPORAL MODELS WITH MEMORY" 
-
-# Learning context-free grammars: Capabilities and limitations of a recurrent neural network with an external stack memory
-Im this paper from 1992 authors already used RNN with external memory (stack in this case). RNN at each time step receives previous state,
-input and value from the stack. The output is the output, state and the categorical action which is used to decide if we should push, pop, or no-op
-from the stack. It looks they also used curriculum learning. They called it Neural Network Pushdown Automaton.
-
-# End-To-End Memory Networks
-The authors propose differentiable architecture for question answersing. All sentences are encoded into internal representation, the output is encoded
-separately. Based on internal representation we create weight vector over the output. Question is also embeded and this embeding is summed with output.
-This computation can be chained like in RNN but input at each level is output from the previous layer and all the input sentences. Authors
-try different kinds of parameter tieing between layers. The layers represent number of think times before network computes the answer.
