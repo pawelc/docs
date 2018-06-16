@@ -1,6 +1,5 @@
-Learning context-free grammars: Capabilities and limitations of a recurrent neural network with an external stack memory
-End-To-End Memory Networks
-Hybrid computing using a neural network with dynamic external memory
+Hybrid computing using a neural net
+work with dynamic external memory
 Bidirectional Recurrent Neural Networks as Generative Models - Reconstructing Gaps in Time Series
 Predictive State Recurrent Neural Networks
 http://www.deeplearningpatterns.com/doku.php?id=memory
@@ -28,7 +27,7 @@ Hard attention:
 Inferring Algorithmic Patterns with Stack-Augmented Recurrent Nets   
 Show, Attend and Tell: Neural Image Caption Generation with Visual Attention
 LIE-ACCESS NEURAL TURING MACHINES
-Neural Programmer
+Neural programmer: Inducing latent programs with gradient descent
 Neural GPUs
 Learning to Remember Rare Events
 Learning to Transduce with Unbounded Memory
@@ -236,3 +235,9 @@ Time-series Extreme Event Forecasting with Neural Networks at Uber
 A neural probabilistic language model
 Distilling the Knowledge in a Neural Network
 Neural Variational Inference and Learning in Belief Networks
+Inserting rules into recurrent neural networks
+Rule refinement with recurrent neural networks
+On Learning to Think Algorithmic Information Theory for Novel Combinations of Reinforcement Learning Controllers and Recurrent Neural World Models
+The time dimension of neural network models
+Learning Sequence Representations
+Learning Algorithms from Data

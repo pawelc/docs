@@ -27,7 +27,9 @@ Performing inference in HMM using NN. Replaces transition and emission matrices 
 Using CNN for observation distribution and RNN (LTSM) for transition model (effectively replacing 1 step Markov with dependence on all previous data) … but does it mean that data have to be fed sequentially and we cannot do stochastic optimization like we do.
 Lessons learnt by authors could be important to our previous work because they found that when using NN in unsupervised model it is more important to use dropout and proper weight initialization compared to supervised models.
 # A survey of hybrid ANN/HMM models for automatic speech recognition
-Such models were developed already in 80s and beginning of 90s. Authors described different combinations if HMM and ANN and different ways of training. Separate (HMM and ANN params are learned separately) and global schemes are described (all parameters are learned together). Are hybrid systems worth considering a research topic or obsolete?
+Such models were developed already in 80s and beginning of 90s. Authors described different combinations if HMM and ANN and different ways of training. 
+Separate (HMM and ANN params are learned separately) and global schemes are described (all parameters are learned together). 
+Are hybrid systems worth considering a research topic or obsolete?
 # A Connectionist Approach to Speech Recognition
 Integration prior knowledge with learning: constraints on architecture, constraints that guide training, prior knowledge used to initialize free parameters. Different interesting ideas I haven’t heard before like: adding special outputs, smoothing the inputs to help with regularization. Partitioning of large system into smaller networks is described and training it globally and each part separately. Different architectures for processing sequences, more interesing: TDNN, RNN
 # Supervised Sequence Labelling with Recurrent Neural Networks
@@ -53,18 +55,25 @@ GRU (forget and input gate are merged into update gate)
 pseudo LSTM (state and output are not the same, output goes through squashing function)
 Should reread it.
 # LSTM: A Search Space Odyssey
-Very important paper if someone wants to extend LSTM because it checks all of its components how performance deteriorates when components are removed. Very nice framework for comparing the model. Not that important: peephole. Can merge input and forget (GRU) without loosing too much accuracy. Gates are important. For most data sets nonlinearities (input/output are important). The most important hyper parameter is learning rate then the size of the hidden layer. Momentum proved be not that important and input noise. Interaction between learning rate and hidden size is the biggest but not much structure so can choose learning rate on smaller network and then use it on bigger networks.
+Very important paper if someone wants to extend LSTM because it checks all of its components how performance deteriorates when components are removed. 
+Very nice framework for comparing the model. Not that important: peephole. Can merge input and forget (GRU) without loosing too much accuracy. 
+Gates are important. For most data sets nonlinearities (input/output are important). 
+The most important hyper parameter is learning rate then the size of the hidden layer. Momentum proved be not that important and input noise. 
+Interaction between learning rate and hidden size is the biggest but not much structure so can choose learning rate on smaller network and then use it on bigger networks.
 # Recurrent Neural Networks for Missing or Asynchronous Data
-Full probabilistic approach where we learn the joint (requires lots of parameters) vs discriminant approach where we learn for example only boundaries (requires fewer parameters). The easiest method when missing data is simply to use unconditional means for missing data. 
+Full probabilistic approach where we learn the joint (requires lots of parameters) vs discriminant approach where we learn for example only boundaries 
+(requires fewer parameters). The easiest method when missing data is simply to use unconditional means for missing data. 
 Somehow the missing data is filled in by feedback links from hidden and output units into input units.
 # Recurrent Neural Networks for Multivariate Time Series with Missing Values
-Informative missingness as additional information for the model. Authors here use GRU and apply exponential decaying on input variables and hidden variables. The input are variables, masking bits (missing/available), and time since observation was available. 
+Informative missingness as additional information for the model. Authors here use GRU and apply exponential decaying on input variables and hidden variables. 
+The input are variables, masking bits (missing/available), and time since observation was available. 
 Contain references to interesting free medical data with time series records. Interesting experiments that I can redo on my problem.
 Computing correlation between missing rate for each variable vs target variable to show that missingness has some information.
 # A Solution for Missing Data in Recurrent Neural Networks With an Application to Blood Glucose Prediction
 RNN is used to model nonlinear dynamic of the system and KF is used to model linear error model. The models are learned alternatively. I should revisit this paper when learn more about Kalman filter.
 # Professor Forcing A New Algorithm for Training Recurrent Networks
-Improving long term dependencies in the generated samples. It helps hidden states to stay in the same region as in training during the sampling (they use t-SNE to demonstrate it). Professor forcing  uses GAN approach by have generative model training using teacher forcing and discriminative model classifying if generative is running in the teacher forcing mode.
+Improving long term dependencies in the generated samples. It helps hidden states to stay in the same region as in training during the sampling 
+(they use t-SNE to demonstrate it). Professor forcing  uses GAN approach by have generative model training using teacher forcing and discriminative model classifying if generative is running in the teacher forcing mode.
 There are some ad-hoc rules like thresholds used when to use gradients from the discriminant network which doesn’t look too good.
 # A learning algorithm for continually running fully recurrent neural  networks
 The algorithm presented here allows for the missing data i.e. error is computed only over outputs that are given at the time and 0 otherwise (it shows the the separate problem of missing inputs and missing outputs). They use teacher forcing to improve the results. Each weight depends on the entire recurrent matrix and all errors so it is not local.
@@ -74,16 +83,6 @@ Capsules are routed using Hebbian rules i.e. the connection between capsules on 
 Network of capsules that learns to transform images. Capsule has recognition and generative units. It has also boolean gate to recognize if entity is on the picture. When applied in CNN way there is no weight sharing?
 # Matrix capsules with EM routing
 Reach source of references on how to improve CNNs by adding other types of invariances. Only read beginning.
-# Neural Turing Machine
-Nice experiments tesing if network can learn to copy, use associative memory, model n-gram. Simple differentiable controller which can read and write to 
-memory using location addressing (shift) and associative addressing. Controller learns to output weights over the memory and its output is the output of the 
-model or can be mixed with output of some other net?
-# Hybrid computing using a neural network with dynamic external memory
-This is the Neural Turing Machine with improved addressing (link Matrix keeping the order in which memory was accessed, removing convolutional shift). 
-The link matrix can be sparse without decrease of the performance. Model is learned using supervised learning and also reinforce algorithms.
-DNC also keeps track of used memory and can free memory when no more needed.
-The tests are on graphs (underground map), family tree model and inference of relations, block puzzle where model has to learn how to meet different constraints
-for the blocks, also finding shortest path 
 # Neural Random-Access Machines
 There is a controller, modules (operations), registers. Controller orchestrates operations over registers using operations and the results are written back to the 
 registers.
@@ -106,7 +105,7 @@ Started but in the end was too hard to follow. Maybe later.
 # Memory networks
 Very generic architecture for memory enhanced models. Components I (input),G(generalization i.e. memory access/write), O (output feature from memory given input), 
 R (response). The memory stores all sequences (if words are given there is a model to discover sequences). 
-Then memory is compared to each sequence in order in the test set . Authors use hashing of the memory to imrove performance. The model is applied to QA tasks.
+Then memory is compared to each sequence in order in the test set . Authors use hashing of the memory to improve performance. The model is applied to QA tasks.
 # Weakly Supervised Memory Networks
 The same application as Memory Networs but doesn't hint which intermediate sentences help with answering question hence weak (no supervision of the supporting facts). Like Diffrerentiable Neural Computer they try to keep temporal information for memory access.
 They try to fight the local minima by first running the model with all non-linear oprations removed and later when 
@@ -234,3 +233,14 @@ Using multi sample stochastic lower bound for log likelihood. It can deal with d
 Generative model enhanced with memory trained using Using multi sample stochastic lower bound for log likelihood. The memory
 is addressed by discrete random variable which also have approximate posterior. So it uses hard attention. Tehy mention that their addressing
 would be plugin replacement for soft addressing used in "GENERATIVE TEMPORAL MODELS WITH MEMORY" 
+
+# Learning context-free grammars: Capabilities and limitations of a recurrent neural network with an external stack memory
+Im this paper from 1992 authors already used RNN with external memory (stack in this case). RNN at each time step receives previous state,
+input and value from the stack. The output is the output, state and the categorical action which is used to decide if we should push, pop, or no-op
+from the stack. It looks they also used curriculum learning. They called it Neural Network Pushdown Automaton.
+
+# End-To-End Memory Networks
+The authors propose differentiable architecture for question answersing. All sentences are encoded into internal representation, the output is encoded
+separately. Based on internal representation we create weight vector over the output. Question is also embeded and this embeding is summed with output.
+This computation can be chained like in RNN but input at each level is output from the previous layer and all the input sentences. Authors
+try different kinds of parameter tieing between layers. The layers represent number of think times before network computes the answer.
