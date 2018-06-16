@@ -414,3 +414,8 @@ Variational inference with normalizing flows
 Improving variational inference with inverse autoregressive flow
 Variational inference for Monte Carlo objectives
 IMPORTANCE WEIGHTED AUTOENCODERS
+Missing values in nonlinear factor analysis
+Training energy-based models for time-series imputation
+Multi-prediction deep boltzmann machines
+A deep and tractable density estimator
+Generalized denoising auto-encoders as generative models

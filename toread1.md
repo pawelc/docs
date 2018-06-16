@@ -1,6 +1,3 @@
-Hybrid computing using a neural net
-work with dynamic external memory
-Bidirectional Recurrent Neural Networks as Generative Models - Reconstructing Gaps in Time Series
 Predictive State Recurrent Neural Networks
 http://www.deeplearningpatterns.com/doku.php?id=memory
 The Kanerva Machine: A Generative Distributed Memory
@@ -241,3 +238,4 @@ On Learning to Think Algorithmic Information Theory for Novel Combinations of Re
 The time dimension of neural network models
 Learning Sequence Representations
 Learning Algorithms from Data
+First-pass large vocabulary continuous speech recognition using bi-directional recurrent dnns
