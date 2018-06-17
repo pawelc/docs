@@ -1,8 +1,3 @@
-# Bidirectional Recurrent Neural Networks as Generative Models - Reconstructing Gaps in Time Series
-Authors use BRNN to model sequence of observations. The model smoothing distribution.
-The model purpose is to fill in the gaps in multidimensional time series data. Gaps can be of consecutive vectors which depend on each other so it is difficult
-problem. Authors use 2 methods Generative Stochastic Network and Neural Autoregreesive Density Estimator. In GSN they fill in the gaps with random value and then
-by sampling the missing values at random from learned distribution of P(x_t | {x_o o!= t}.
 # Modeling Long- and Short-Term Temporal Patterns with Deep Neural Networks
 https://arxiv.org/abs/1703.07015
 Models multivariate time series using combination of CNN and RNN.
@@ -74,3 +69,14 @@ The models are later used for simulations. So far people used fixed models (spec
 It looks that using RNN improves different benchmarks. Authors use fifferent parametrizatations of output densities like mixture of Gaussians according to
 "Mixture Density Networks" the same as in "Generating sequences with recurrent neural networks" or piecewise uniform.
 It looks that FFNN given enough history coped better or the same as LSTM.
+# Bidirectional Recurrent Neural Networks as Generative Models - Reconstructing Gaps in Time Series
+Authors use BRNN to model sequence of binary observations. They model smoothing distribution.
+The model purpose is to fill in the gaps in multidimensional time series data. Gaps are of consecutive vectors which depend on each other so it is difficult
+problem. Authors use 2 methods Generative Stochastic Network and Neural Autoregressive Density Estimator. In GSN they fill in the gaps with random value and then
+by sampling the missing values at random from learned distribution of P(x_t | {x_o o!= t}. 
+They compare their methods to few baseline models like Bayesian MCMC(method to compute smoothing distribution using forward RNN), 
+simply computing unnormalized probability for each value and then normalizing using RNN.
+The first experiment is using categorical data taken as all Wikipedia text. What is interesting the use only error from the last elements of the sequence in case
+of RNN (for example 3/4) or middle elements in case of BRNN. They do it to only backpropagate error with long time dependencies.
+To train with NADA they add one dimension as missing values indicator. Mark 5 consecutive step every 25 steps as gaps. Error is only propagated from the gaps.
+They uniformly sample within the gaps which one of them to set actually to missing.

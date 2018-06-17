@@ -419,3 +419,16 @@ Training energy-based models for time-series imputation
 Multi-prediction deep boltzmann machines
 A deep and tractable density estimator
 Generalized denoising auto-encoders as generative models
+Understanding the difficulty of training deep feedforward neural networks
+A unifying review of linear gaussian models
+A new approach to linear filtering and prediction problems
+Predictive representations of state
+Closing the learning planning loop with predictive state representations
+An online spectral learning algorithm for partially observable nonlinear dynamical systems
+Supervised learning for dynamical system learning
+A hilbert space embedding for distributions
+Theory of reproducing kernels
+Hilbert space embeddings of predictive state representations
+A hmm-based pre-training approach for sequential data
+Random features for large-scale kernel machines
+Predictive State Recurrent Neural Networks

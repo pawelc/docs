@@ -1,4 +1,3 @@
-Predictive State Recurrent Neural Networks
 http://www.deeplearningpatterns.com/doku.php?id=memory
 The Kanerva Machine: A Generative Distributed Memory
 What Uncertainties Do We Need in Bayesian Deep Learning for Computer Vision
@@ -239,3 +238,4 @@ The time dimension of neural network models
 Learning Sequence Representations
 Learning Algorithms from Data
 First-pass large vocabulary continuous speech recognition using bi-directional recurrent dnns
+Recurrent Ladder Networks
