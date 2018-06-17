@@ -59,3 +59,5 @@ The reported log-likelihood lower bound is not obviously improved by the new mod
 Generative model enhanced with memory trained using Using multi sample stochastic lower bound for log likelihood. The memory
 is addressed by discrete random variable which also have approximate posterior. So it uses hard attention. Tehy mention that their addressing
 would be plugin replacement for soft addressing used in "GENERATIVE TEMPORAL MODELS WITH MEMORY" 
+
+There was a workshop about memomy https://nips2015.sched.com/event/4G4h/reasoning-attention-memory-ram-workshop
