@@ -1,4 +1,3 @@
-http://www.deeplearningpatterns.com/doku.php?id=memory
 The Kanerva Machine: A Generative Distributed Memory
 What Uncertainties Do We Need in Bayesian Deep Learning for Computer Vision
 Learning Stochastic Recurrent Networks

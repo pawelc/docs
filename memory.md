@@ -1,3 +1,6 @@
+# http://www.deeplearningpatterns.com/doku.php?id=memory 
+Website for the future book about DL. It contain references and summary of papers for each aspect of DL including memory enhanced models.
+
 # Learning context-free grammars: Capabilities and limitations of a recurrent neural network with an external stack memory
 Im this paper from 1992 authors already used RNN with external memory (stack in this case). RNN at each time step receives previous state,
 input and value from the stack. The output is the output, state and the categorical action which is used to decide if we should push, pop, or no-op
@@ -61,3 +64,5 @@ is addressed by discrete random variable which also have approximate posterior. 
 would be plugin replacement for soft addressing used in "GENERATIVE TEMPORAL MODELS WITH MEMORY" 
 
 There was a workshop about memomy https://nips2015.sched.com/event/4G4h/reasoning-attention-memory-ram-workshop
+
+# [Key-Value Memory Networks for Directly Reading Documents](https://arxiv.org/abs/1606.03126)
