@@ -104,7 +104,6 @@ Deeply-Supervised Nets
 Global continuation for distance geometry problems
 A Theoretical Analysis of Optimization by Gaussian Continuation
 Neural network learning control of robot manipulators using gradually increasing task difficulty
-Learning to execute
 Recurrent Neural Network Regularization
 LSTM A Search Space Odyssey
 https://www.tensorflow.org/tutorials/seq2seq
@@ -434,3 +433,4 @@ Random features for large-scale kernel machines
 Predictive State Recurrent Neural Networks
 Introduction to information retrieval
 Hyperdimensional computing An introduction to computing in distributed representation with high-dimensional random vectors
+CPU versus GPU: which can perform matrix computation faster—performance comparison for basic linear algebra subprograms

@@ -15,7 +15,6 @@ Learning to Predict by the Methods of Temporal Differences
 Evolving Neural Turing Machines for Reward-based Learning
 Scaling Memory-Augmented Neural Networks with Sparse Reads and Writes
 Can Active Memory Replace Attention
-Grid Long Short-Term Memory
 Pointer networks
 Neural Machine Translation by Jointly Learning to Align and Translate
 Neural Variational Inference for Text Processing
@@ -46,6 +45,8 @@ Attentive Memory Networks Efficient Machine Reading for Conversational Search
 Recurrent Memory Addressing for describing videos
 Dynamic Neural Turing Machine with Continuous and Discrete Addressing Schemes
 Learning Operations on a Stack with Neural Turing Machines
+Deep Multi-Task Learning with Shared Memory
+A Theory of Sequence Indexing and Working Memory in Recurrent Neural Networks
 
 Self-Delimiting Neural Networks
 Optimal ordered problem solver

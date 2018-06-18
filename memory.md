@@ -85,3 +85,8 @@ The update equations are similar to regular LSTM but we also have additional key
 comples vector by constraining them to be with maximum modulus of 1.
 Copy task as ultimate basic task to check. If it is failed that model is very poor.
 They use XML prediction task to check if model can forget correctly.
+The other task is sequence of "set variable to value" instructions followed by query command to recall asigned value.
+Authors compare their model to NTM. NTM can show very unstable learning compared to the Associative LSTM. But
+NTM can show better generalization on longer sequences in algorithmic tasks.
+
+# [Grid Long Short-Term Memory](https://arxiv.org/abs/1507.01526)
