@@ -77,4 +77,11 @@ Authors test different ways of of encoding keys/values and compare the methods o
 Authors improve LSTM models by adding associative memory and not increasing the number of parameters.
 They use ideas from the Holographic Reduced Representations which uses fixed sized array to store
 associative array. It uses complex algebra to store and retrieve memories (multiplication of complex vectors and
-inverse of the key times the memory to retrieve value).
+inverse of the key times the memory to retrieve value). Authors reduce the retrieval noise by
+soring multiple copies and when retrieving taking an average.
+Compared to NTM it is not necessary to look for free locations.
+The Error is controled by items stored in the memory and number of copies.
+The update equations are similar to regular LSTM but we also have additional key vectors and also function that bounds
+comples vector by constraining them to be with maximum modulus of 1.
+Copy task as ultimate basic task to check. If it is failed that model is very poor.
+They use XML prediction task to check if model can forget correctly.
