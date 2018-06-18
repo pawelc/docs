@@ -66,7 +66,11 @@ would be plugin replacement for soft addressing used in "GENERATIVE TEMPORAL MOD
 There was a workshop about memomy https://nips2015.sched.com/event/4G4h/reasoning-attention-memory-ram-workshop
 
 # [Key-Value Memory Networks for Directly Reading Documents](https://arxiv.org/abs/1606.03126)
-Authors propose new architecture that enables learning QA system directly from the documents. Other possibilities like building Knowledge Based
-are problematic because we need to create algorithms to create automatically KB which are often too rigid. It is based on end to end memory network architecture.
-The main difference is that array used for addressing is composed of keys and second array used for output is composed of values.
-Authors point out importance of the hashing for model performance. The final output is multiplied by each candidate output and the best is chosed as an answer.
+Authors propose new architecture that enables learning QA system directly from the documents. Other possibilities like building Knowledge Bases
+are problematic because we need to create algorithms to create automatically KB which are often too rigid or build them manually. 
+It is based on end to end memory network architecture. The main difference is that array used for addressing is composed of keys and second array used for output is composed of 
+values. Authors point out importance of the hashing for model performance in terms of speed of data retrieval. 
+The final output is multiplied by each candidate output and the best is chosed as an answer.
+Authors test different ways of of encoding keys/values and compare the methods of directly reading documents or KB. 
+
+# [Associative Long Short-Term Memory](https://arxiv.org/abs/1602.03032)

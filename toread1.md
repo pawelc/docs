@@ -35,6 +35,17 @@ Recurrent memory network for language modeling
 Learning longer memory in recurrent neural networks
 Large-scale Simple Question Answering with Memory Networks
 Evaluating Prerequisite Qualities for Learning End-to-End Dialog Systems
+Automatic Rule Extraction from Long Short Term Memory Networks
+Neural Map Structured Memory for Deep Reinforcement Learning
+Condensed Memory Networks for Clinical Diagnostic Inferencing
+Frustratingly Short Attention Spans in Neural Language Modeling
+Gated End-to-End Memory Networks
+Dynamic Key-Value Memory Networks for Knowledge Tracing
+Lie Access Neural Turing Machine
+Attentive Memory Networks Efficient Machine Reading for Conversational Search
+Recurrent Memory Addressing for describing videos
+Dynamic Neural Turing Machine with Continuous and Discrete Addressing Schemes
+Learning Operations on a Stack with Neural Turing Machines
 
 Self-Delimiting Neural Networks
 Optimal ordered problem solver
@@ -190,7 +201,6 @@ Can recurrent neural networks warp time?
 Building machines that learn and think like people
 Matching Networks for One Shot Learning
 Learning Simple Algorithms from Examples
-Associative Long Short-Term Memory
 Meta-Learning with Memory-Augmented Neural Networks
 Feedforward Sequential Memory Networks: A New Structure to Learn Long-term Dependency
 Hierarchical Memory Networks
