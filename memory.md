@@ -90,3 +90,10 @@ Authors compare their model to NTM. NTM can show very unstable learning compared
 NTM can show better generalization on longer sequences in algorithmic tasks.
 
 # [Grid Long Short-Term Memory](https://arxiv.org/abs/1507.01526)
+Grid LSTMs are different than multidmiensional LSTM or stacked LSTM. Here the memory and hidden vectors are passed across all dimensions. The input to each dimension is
+concatenation of the all hidden vectors from the previous blocks. It doesn't suffer from the exponential eplosion as multidimensional LSTM. We can have any number of dimensions.
+In a task to sum up 2 integers network while predicting is not given previous predicted digit as input so it makes the task more chalanging becuase it has to remember previous
+digits. The tied grid 2-LSTM achieves much better results than stack LSTM.
+This paper shows many tests to check performance of sequence model.
+
+# [Ask Me Anything: Dynamic Memory Networks for Natural Language Processing](https://arxiv.org/abs/1506.07285)

@@ -29,7 +29,6 @@ Learning to Transduce with Unbounded Memory
 Evolutionary multi-objective generation of recurrent neural network ensembles for time series prediction
 The Goldilocks Principle Reading Children's Books with Explicit Memory Representations
 Towards ai-complete question answering a set of prerequisite toy tasks
-Ask me anything: Dynamic memory networks for natural language processing
 Recurrent memory network for language modeling
 Learning longer memory in recurrent neural networks
 Large-scale Simple Question Answering with Memory Networks
@@ -47,6 +46,11 @@ Dynamic Neural Turing Machine with Continuous and Discrete Addressing Schemes
 Learning Operations on a Stack with Neural Turing Machines
 Deep Multi-Task Learning with Shared Memory
 A Theory of Sequence Indexing and Working Memory in Recurrent Neural Networks
+Recurrent Memory Array Structures
+Improving the Neural GPU Architecture for Algorithm Learning
+Extensions and Limitations of the Neural GPU
+Learning Efficient Algorithms with Hierarchical Attentive Memory
+Reasoning with Memory Augmented Neural Networks for Language Comprehension
 
 Self-Delimiting Neural Networks
 Optimal ordered problem solver
@@ -196,7 +200,6 @@ Bengio, Y., Louradour, J., Collobert, R. & Weston, J. Curriculum learning
 Overcoming catastrophic forgetting in neural networks
 Memory-based neural networks for robot learning
 Learning Longer Memory in Recurrent Neural Networks
-Ask Me Anything: Dynamic Memory Networks for Natural Language Processing
 Prediction with a Short Memory
 Can recurrent neural networks warp time?
 Building machines that learn and think like people
@@ -254,3 +257,12 @@ Learning Sequence Representations
 Learning Algorithms from Data
 First-pass large vocabulary continuous speech recognition using bi-directional recurrent dnns
 Recurrent Ladder Networks
+Recurrent continuous translation models
+Recurrent Memory Networks for Language Modeling
+Multiplicative LSTM for sequence modelling
+Optimizing Performance of Recurrent Neural Networks on GPUs
+Interpretable Structure-Evolving LSTM
+Neural Program Lattices
+Improved TDNNs using Deep Kernels and Frequency Dependent Grid-RNNs
+Nested LSTMs
+Deep Neural Architectures for Algorithms and Sequential Data

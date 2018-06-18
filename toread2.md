@@ -247,7 +247,6 @@ Learning recurrent neural networks with Hessian-free optimization
 Training deep and recurrent networks with hessian-free optimization
 Neural Turing machines
 Mapping part-whole hierarchies into connectionist networks
-Ask Me Anything: Dynamic Memory Networks for Natural Language Processing
 A survey on the application of recurrent neural networks to statistical language modeling
 Gradient calculations for dynamic recurrent neural networks: A survey
 Learning meanings for sentences
@@ -434,3 +433,4 @@ Predictive State Recurrent Neural Networks
 Introduction to information retrieval
 Hyperdimensional computing An introduction to computing in distributed representation with high-dimensional random vectors
 CPU versus GPU: which can perform matrix computation faster—performance comparison for basic linear algebra subprograms
+Neural Machine Translation in Linear Time
