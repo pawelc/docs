@@ -18,6 +18,7 @@ Can Active Memory Replace Attention
 Grid Long Short-Term Memory
 Pointer networks
 Neural Machine Translation by Jointly Learning to Align and Translate
+Neural Variational Inference for Text Processing
 Hard attention: 
 Inferring Algorithmic Patterns with Stack-Augmented Recurrent Nets   
 Show, Attend and Tell: Neural Image Caption Generation with Visual Attention
@@ -27,6 +28,14 @@ Neural GPUs
 Learning to Remember Rare Events
 Learning to Transduce with Unbounded Memory
 Evolutionary multi-objective generation of recurrent neural network ensembles for time series prediction
+The Goldilocks Principle Reading Children's Books with Explicit Memory Representations
+Towards ai-complete question answering a set of prerequisite toy tasks
+Ask me anything: Dynamic memory networks for natural language processing
+Recurrent memory network for language modeling
+Learning longer memory in recurrent neural networks
+Large-scale Simple Question Answering with Memory Networks
+Evaluating Prerequisite Qualities for Learning End-to-End Dialog Systems
+
 Self-Delimiting Neural Networks
 Optimal ordered problem solver
 Applications of quantum inspired computational intelligence: a survey
@@ -208,10 +217,6 @@ Differential recurrent neural networks for action recognition
 Semantic object parsing with local-global long short-term memory
 Lstm time and frequency recurrence for automatic speech recognition
 Convolutional lstm network: A machine learning approach for precipitation nowcasting
-Towards ai-complete question answering a set of prerequisite toy tasks
-Ask me anything: Dynamic memory networks for natural language processing
-Recurrent memory network for language modeling
-Learning longer memory in recurrent neural networks
 Unitary evolution recurrent neural networks
 Gated Orthogonal Recurrent Units: On Learning to Forget
 Improving neural networks with dropout

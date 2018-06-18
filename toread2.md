@@ -432,3 +432,4 @@ Hilbert space embeddings of predictive state representations
 A hmm-based pre-training approach for sequential data
 Random features for large-scale kernel machines
 Predictive State Recurrent Neural Networks
+Introduction to information retrieval
