@@ -74,3 +74,7 @@ The final output is multiplied by each candidate output and the best is chosed a
 Authors test different ways of of encoding keys/values and compare the methods of directly reading documents or KB. 
 
 # [Associative Long Short-Term Memory](https://arxiv.org/abs/1602.03032)
+Authors improve LSTM models by adding associative memory and not increasing the number of parameters.
+They use ideas from the Holographic Reduced Representations which uses fixed sized array to store
+associative array. It uses complex algebra to store and retrieve memories (multiplication of complex vectors and
+inverse of the key times the memory to retrieve value).

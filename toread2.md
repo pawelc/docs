@@ -433,3 +433,4 @@ A hmm-based pre-training approach for sequential data
 Random features for large-scale kernel machines
 Predictive State Recurrent Neural Networks
 Introduction to information retrieval
+Hyperdimensional computing An introduction to computing in distributed representation with high-dimensional random vectors
