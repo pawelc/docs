@@ -434,3 +434,6 @@ Neural Machine Translation in Linear Time
 Recursive Neural Networks Can Learn Logical Semantics
 A Distributed Representation of Temporal Context
 A bayesian analysis of dynamics in free recall
+Random Forests
+Hogwild: A lock-free approach to parallelizing stochastic gradient descent
+Large-scale machine learning with stochastic gradient descent
