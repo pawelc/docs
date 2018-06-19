@@ -60,6 +60,7 @@ https://distill.pub/2016/augmented-rnns/?nsukey=D6xGO%2F6W0UCGXFGbzvaVZVPD1FlXd2
 Match memory recurrent networks
 Going deeper: Autonomous steering with neural memory networks
 Memory-Augmented Neural Networks for Predictive Process Analytics
+Gated Feedback Recurrent Neural Networks
 
 Self-Delimiting Neural Networks
 Optimal ordered problem solver
@@ -208,7 +209,6 @@ Distilling a Neural Network Into a Soft Decision Tree
 Bengio, Y., Louradour, J., Collobert, R. & Weston, J. Curriculum learning
 Overcoming catastrophic forgetting in neural networks
 Memory-based neural networks for robot learning
-Learning Longer Memory in Recurrent Neural Networks
 Prediction with a Short Memory
 Can recurrent neural networks warp time?
 Building machines that learn and think like people
@@ -276,3 +276,10 @@ Improved TDNNs using Deep Kernels and Frequency Dependent Grid-RNNs
 Nested LSTMs
 Deep Neural Architectures for Algorithms and Sequential Data
 Quasi-Recurrent Neural Networks
+Mechanisms for sentence processing
+Context-free parsing in connectionist networks
+A recurrent network that performs a context-sensitive prediction task
+A recurrent neural network that learns to count
+Toward a connectionist model of recursion in human linguistic performance
+Fractal encoding of context-free grammars in connectionist networks
+Context-free and context-sensitive dynamics in recurrent neural networks

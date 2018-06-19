@@ -238,7 +238,6 @@ Towards end-to-end speech recognition with recurrent neural networks
 Long short-term memory based recurrent neural network architectures for large vocabulary speech recognition
 Show and Tell: A Neural Image Caption Generator
 On the properties of neural machine translation: Encoder-decoder approaches
-Gated Feedback Recurrent Neural Networks
 Learning language through pictures
 Deep learning via hessian-free optimization
 Learning recurrent neural networks with Hessian-free optimization
@@ -353,7 +352,7 @@ Large scale distributed deep networks
 Learning matrices and their applications
 Pattern recognition by means of automatic analogue apparatus
 The induction of dynamical recognizers
-Learning Context-free Grammars Capabilities and Limitations of a Recurrent Neural Network with an External Stack Memory
+Discrete recurrent neural networks for grammatical inference
 Self-paced visual category discovery
 Recurrent neural network based language model
 A unified approach on fast training of feedforward and recurrent networks using EM algorithm
@@ -437,3 +436,5 @@ A bayesian analysis of dynamics in free recall
 Random Forests
 Hogwild: A lock-free approach to parallelizing stochastic gradient descent
 Large-scale machine learning with stochastic gradient descent
+Using prior knowledge in a nnpda to learn context-free languages
+Designing a counter: Another case study of dynamics and activation landscapes in recurrent networks

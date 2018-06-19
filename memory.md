@@ -109,3 +109,8 @@ They had inspiration from the neuroscience. They perform experiments on QA, POS 
 done by this model.
 
 # [Inferring Algorithmic Patterns with Stack-Augmented Recurrent Nets](https://arxiv.org/abs/1503.01007)
+Authors enhanced RNN with memory (stack or list) to show that it helps solve some simple tasks not tackled by previous
+architectures. They generate sequences with some algorithms (context free and context sensitive grammars) so models can try to learn it. 
+Because sequences are generated algorithmically some of the symbols can be predicted deterministically. 
+Model presented has unbounded memory which is different for example from NTM. Authors also notice the in the NTM
+paper authors didn't rationalize the usage of such complex model to the problems they studied.
