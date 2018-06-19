@@ -18,8 +18,7 @@ Can Active Memory Replace Attention
 Pointer networks
 Neural Machine Translation by Jointly Learning to Align and Translate
 Neural Variational Inference for Text Processing
-Hard attention: 
-Inferring Algorithmic Patterns with Stack-Augmented Recurrent Nets   
+Hard attention:    
 Show, Attend and Tell: Neural Image Caption Generation with Visual Attention
 LIE-ACCESS NEURAL TURING MACHINES
 Neural programmer: Inducing latent programs with gradient descent
@@ -51,6 +50,16 @@ Improving the Neural GPU Architecture for Algorithm Learning
 Extensions and Limitations of the Neural GPU
 Learning Efficient Algorithms with Hierarchical Attentive Memory
 Reasoning with Memory Augmented Neural Networks for Language Comprehension
+Deep Networks with Internal Selective Attention through Feedback Connections
+Learning phrase representations using rnn encoder-decoder for statistical machine translation
+A Multi-World Approach to Question Answering about Real-World Scenes based on Uncertain Input
+Learning a recurrent visual representation for image caption generation
+Stacked attention networks for image question answering
+Teaching machines to read and comprehend
+https://distill.pub/2016/augmented-rnns/?nsukey=D6xGO%2F6W0UCGXFGbzvaVZVPD1FlXd2Es%2BZe%2Bf8lMLDtd7lhGqbcgsLpc8JS7pEztig9AdXxj0%2FdaoI2%2FLzsWZzFhtpesLCf25CuVq%2Bkv%2Ftk2m1BGEroLX9HffuXPqb5Wdw%2BagXhAeUF3LW5NOk59TzAZy5VtGHQ4Up%2BykSMewIs%3D
+Match memory recurrent networks
+Going deeper: Autonomous steering with neural memory networks
+Memory-Augmented Neural Networks for Predictive Process Analytics
 
 Self-Delimiting Neural Networks
 Optimal ordered problem solver
@@ -266,3 +275,4 @@ Neural Program Lattices
 Improved TDNNs using Deep Kernels and Frequency Dependent Grid-RNNs
 Nested LSTMs
 Deep Neural Architectures for Algorithms and Sequential Data
+Quasi-Recurrent Neural Networks

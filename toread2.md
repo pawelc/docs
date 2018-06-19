@@ -112,7 +112,6 @@ http://colah.github.io/posts/2014-07-NLP-RNNs-Representations/
 http://ruder.io/word-embeddings-1/
 On Using Very Large Target Vocabulary for Neural Machine Translation
 Long Short-Term Memory-Networks for Machine Reading
-Show, Attend and Tell: Neural Image Caption Generation with Visual Attention
 PatternNet and PatternLRP Improving the interpretability of neural networks
 EXPLAINING AND HARNESSING ADVERSARIAL EXAMPLES
 Deep Neural Networks are Easily Fooled: High Confidence Predictions for Unrecognizable Images
@@ -238,7 +237,6 @@ Hierarchical models of object recognition in cortex
 Towards end-to-end speech recognition with recurrent neural networks
 Long short-term memory based recurrent neural network architectures for large vocabulary speech recognition
 Show and Tell: A Neural Image Caption Generator
-Show, attend and tell: Neural image caption generation with visual attention
 On the properties of neural machine translation: Encoder-decoder approaches
 Gated Feedback Recurrent Neural Networks
 Learning language through pictures
@@ -356,7 +354,6 @@ Learning matrices and their applications
 Pattern recognition by means of automatic analogue apparatus
 The induction of dynamical recognizers
 Learning Context-free Grammars Capabilities and Limitations of a Recurrent Neural Network with an External Stack Memory
-Learning phrase representations using rnn encoder-decoder for statistical machine translation
 Self-paced visual category discovery
 Recurrent neural network based language model
 A unified approach on fast training of feedforward and recurrent networks using EM algorithm
@@ -434,3 +431,6 @@ Introduction to information retrieval
 Hyperdimensional computing An introduction to computing in distributed representation with high-dimensional random vectors
 CPU versus GPU: which can perform matrix computation faster—performance comparison for basic linear algebra subprograms
 Neural Machine Translation in Linear Time
+Recursive Neural Networks Can Learn Logical Semantics
+A Distributed Representation of Temporal Context
+A bayesian analysis of dynamics in free recall

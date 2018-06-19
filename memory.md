@@ -97,3 +97,15 @@ digits. The tied grid 2-LSTM achieves much better results than stack LSTM.
 This paper shows many tests to check performance of sequence model.
 
 # [Ask Me Anything: Dynamic Memory Networks for Natural Language Processing](https://arxiv.org/abs/1506.07285)
+Authors propose model composed of modules: input module, question module, episodic memory module, answer module.
+Input module encodes the sentence(s) using RNN using output of hidden states per word if sentence and hidden per sentence if multiple
+sentences. The question module also uses RNN but return only the last hidden state. Both input and question modules
+use the same embeding matrix. Episodic memory module is composed of the NN which takes input special features vector representing
+similarities between question, memory and input representation. The output of this network acts as gating mechanism for hidden
+states of the GRU network which takes input codes and memory as its input. The memory stops iterating when it chooses 
+terminal symbol. The answer module is also GRU network which at each time step takes input as question, previous hidden state and
+previous predicted output. The answer module can be run at the end of memory processing or at each iteration of memory pass.
+They had inspiration from the neuroscience. They perform experiments on QA, POS tagging and sentiment analysis. All can be
+done by this model.
+
+# [Inferring Algorithmic Patterns with Stack-Augmented Recurrent Nets](https://arxiv.org/abs/1503.01007)
