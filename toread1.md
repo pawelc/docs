@@ -315,3 +315,4 @@ Neural Programmer-Interpreters
 DeepCoder: Learning to Write Programs
 Recurrent Neural Network for Text Classification with Multi-Task Learning
 Tracking the World State with Recurrent Entity Networks
+Deep generative stochastic networks trainable by backprop

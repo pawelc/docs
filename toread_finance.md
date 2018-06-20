@@ -87,3 +87,4 @@ Estimation of tail-related risk measure for heteroscedastic financial time serie
 Autoregressive Conditional Heteroscedasticity with Estimates of the Variance of United Kingdom Inflation
 Generalized autoregressive conditional heteroscedasticity
 Expected Returns: An Investor's Guide to Harvesting Market Rewards
+https://www.zerohedge.com/news/2018-05-22/unexpected-warning-goldman-sachs-something-not-quite-right

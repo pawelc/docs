@@ -1,3 +1,5 @@
+https://github.com/tspooner/rl_markets
+https://github.com/Kismuz/btgym
 Policy Gradients with Variance Related Risk Criteria
 Playing Atari with Six Neurons
 The Mirage of Action-Dependent Baselines in Reinforcement Learning
