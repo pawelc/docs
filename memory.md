@@ -118,4 +118,10 @@ The first model is almost the same as Pushdown Automaton from 90s. The differenc
 to be poped or pushed (stack in the old model contained value and value indicating the weight of the value).
 Authors also show parametrization of the model with linked-list which has the head which movement, read and write operations are parametrized by NN.
 Authors also find that SGD is not enough for complex tasks and they need to use search algorithms. They also use discretization of conntinuous operations
-on stacks during test time to improve results which they call rounding.
+on stacks during test time to improve results which they call rounding. They hypothetize that learning more complex algorithms possibly would
+require combining continuous and dicrete optimization algorithms.
+On simple examples authors set recurrent (in RNN) matrix to 0 to isolate the effects of the memory.
+Based on memorization and binary addition tasks authors conclude the stack enhanced RNN generalized better than list enhanced RNNs.
+Both models are generalizing better (train test with up 20 length sequences and test set with up 60 length) than regular RNN and LSTM.
+For the addition task the same way of checking generalization. Authors visualise internals by showing how stacks are used to remeber summands and do
+operations like carry. Albeit the proposed model is worse than LSTM and SRCN in language modeling task.

@@ -56,7 +56,7 @@ A Multi-World Approach to Question Answering about Real-World Scenes based on Un
 Learning a recurrent visual representation for image caption generation
 Stacked attention networks for image question answering
 Teaching machines to read and comprehend
-https://distill.pub/2016/augmented-rnns/?nsukey=D6xGO%2F6W0UCGXFGbzvaVZVPD1FlXd2Es%2BZe%2Bf8lMLDtd7lhGqbcgsLpc8JS7pEztig9AdXxj0%2FdaoI2%2FLzsWZzFhtpesLCf25CuVq%2Bkv%2Ftk2m1BGEroLX9HffuXPqb5Wdw%2BagXhAeUF3LW5NOk59TzAZy5VtGHQ4Up%2BykSMewIs%3D
+Attention and Augmented Recurrent Neural Networks https://distill.pub/2016/augmented-rnns
 Match memory recurrent networks
 Going deeper: Autonomous steering with neural memory networks
 Memory-Augmented Neural Networks for Predictive Process Analytics
@@ -66,6 +66,11 @@ Recursive Bayesian Recurrent Neural Networks for Time-Series Modeling
 https://en.wikipedia.org/wiki/Differentiable_neural_computer
 https://www.reddit.com/r/MachineLearning/comments/5ebmdr/discussion_uncertainty_propagation_in_lstmbased/
 https://openreview.net/forum?id=BkDB51WR-
+Lstm recurrent networks learn simple context-free and context-sensitive languages
+Memory Augmented Neural Networks with Wormhole Connections
+Feedforward Sequential Memory Neural Networks without Recurrent Feedback
+Cumulative distribution networks
+Cumulative distribution networks and the derivative-sum-product algorithm
 
 Self-Delimiting Neural Networks
 Optimal ordered problem solver
@@ -112,7 +117,6 @@ https://deepmind.com/blog/differentiable-neural-computers/
 https://www.youtube.com/watch?v=steioHoiEms
 https://github.com/deepmind/dnc
 https://www.youtube.com/watch?v=QuvRWevJMZ4 - attention
-https://distill.pub/2016/augmented-rnns/
 Generative Adversarial Networks
 Domain-Adversarial Neural Networks
 Domain-Adversarial Training of Neural Networks
@@ -303,3 +307,11 @@ https://www.quora.com/What-is-a-neural-Turing-machine
 https://summerofcode.withgoogle.com/archive/2017/projects/6637623116300288/
 https://stats.stackexchange.com/questions/241286/how-are-controllers-attached-to-read-write-heads-in-neural-turing-machines
 https://trollheaven.wordpress.com/2017/12/15/neural-turing-machine/
+A Novel Fractional Gradient-Based Learning Algorithm for Recurrent Neural Networks
+Tree Memory Networks for Modelling Long-term Temporal Dependencies
+On the memory properties of recurrent neural models
+Divide and Conquer Networks
+Neural Programmer-Interpreters
+DeepCoder: Learning to Write Programs
+Recurrent Neural Network for Text Classification with Multi-Task Learning
+Tracking the World State with Recurrent Entity Networks

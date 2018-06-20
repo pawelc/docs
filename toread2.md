@@ -177,7 +177,6 @@ A comparison of preprocessors for the cambridge recurrent error propagation netw
 Learning Long-Term Dependencies in NARX Recurrent Neural Networks
 Learning long-term dependencies is not as diﬃcult with NARX recurrent neural networks
 Induction of Multiscale Temporal Structure
-LSTM recurrent networks learn simple context-free and context-sensitive languages
 Finding temporal structure in music: blues improvisation with LSTM recurrent networks
 Reinforcement Learning with Long Short-Term Memory
 A Novel Approach to On-Line Handwriting Recognition Based on Bidirectional Long Short-Term Memory Networks
@@ -438,3 +437,9 @@ Large-scale machine learning with stochastic gradient descent
 Using prior knowledge in a nnpda to learn context-free languages
 Designing a counter: Another case study of dynamics and activation landscapes in recurrent networks
 Beyond prediction: A framework for inference with variational approximations in mixture models
+A Roadmap Towards Machine Intelligence
+Learning to Optimize
+Inferring and Executing Programs for Visual Reasoning
+End-to-end Differentiable Proving
+Learning Explanatory Rules from Noisy Data
+AP: Artificial Programming
