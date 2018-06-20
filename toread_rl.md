@@ -57,3 +57,5 @@ A reinforcement learning extension to the Almgren-Chriss model for optimal trade
 Learning to Follow Language Instructions with Adversarial Reward Induction
 Reinforcement Learning Turing Machine
 Programmatically Interpretable Reinforcement Learning
+A reinforcement learning extension to the Almgren-Chriss framework for optimal trade execution
+https://medium.com/@gaurav1086/machine-learning-for-algorithmic-trading-f79201c8bac6

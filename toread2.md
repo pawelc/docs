@@ -320,7 +320,6 @@ Strategies for Handling Missing Data in Electronic Health Record Derived Data
 Deep Neural Networks for Acoustic Modeling in Speech Recognition The Shared Views of Four Research Groups
 Optimal and Robust Estimation With an Introduction to Stochastic Control Theory (book)
 Estimating or Propagating Gradients Through Stochastic Neurons for Conditional Computation
-Recursive Bayesian Recurrent Neural Networks for Time-Series Modeling
 Forecasting wind speed with recurrent neural networks
 Training second-order recurrent neural networks using hints
 Using Recurrent Artificial Neural Networks to Forecast Household Electricity Consumption
@@ -438,3 +437,4 @@ Hogwild: A lock-free approach to parallelizing stochastic gradient descent
 Large-scale machine learning with stochastic gradient descent
 Using prior knowledge in a nnpda to learn context-free languages
 Designing a counter: Another case study of dynamics and activation landscapes in recurrent networks
+Beyond prediction: A framework for inference with variational approximations in mixture models

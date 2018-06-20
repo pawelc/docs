@@ -61,6 +61,11 @@ Match memory recurrent networks
 Going deeper: Autonomous steering with neural memory networks
 Memory-Augmented Neural Networks for Predictive Process Analytics
 Gated Feedback Recurrent Neural Networks
+Bayesian Recurrent Neural Networks
+Recursive Bayesian Recurrent Neural Networks for Time-Series Modeling
+https://en.wikipedia.org/wiki/Differentiable_neural_computer
+https://www.reddit.com/r/MachineLearning/comments/5ebmdr/discussion_uncertainty_propagation_in_lstmbased/
+https://openreview.net/forum?id=BkDB51WR-
 
 Self-Delimiting Neural Networks
 Optimal ordered problem solver
@@ -135,7 +140,8 @@ Extraction of rules from discrete-time recurrent neural networks
 Deep learning in neural networks An overview
 Learning Context Free Grammars Limitations of a Recurrent Neural Network with an External Stack Memory
 A Connectionist Symbol Manipulator That Discovers the Structure of Context-Free Languages
-Learning to control fast-weight memories: An alternative to recurrent nets
+Learning to coBayesian Recurrent Neural Networks
+Recursive Bayesian Recurrent Neural Networks for Time-Series Modelingntrol fast-weight memories: An alternative to recurrent nets
 Learning Precise Timing with LSTM Recurrent Networks
 An introspective network that can learn to run its own weight change algorithm
 Learning To Learn Using Gradient Descent
@@ -283,3 +289,17 @@ A recurrent neural network that learns to count
 Toward a connectionist model of recursion in human linguistic performance
 Fractal encoding of context-free grammars in connectionist networks
 Context-free and context-sensitive dynamics in recurrent neural networks
+Generalization of backpropagation with application to a recurrent gas market model
+https://www.basicbooks.com/titles/judea-pearl/the-book-of-why/9780465097609/
+https://www.quantamagazine.org/to-build-truly-intelligent-machines-teach-them-cause-and-effect-20180515/
+https://medium.com/applied-data-science/how-to-build-your-own-alphazero-ai-using-python-and-keras-7f664945c188
+http://colah.github.io/posts/2015-08-Understanding-LSTMs/
+https://medium.com/@aidangomez/the-neural-turing-machine-79f6e806c0a1
+https://blog.aidangomez.ca/2016/04/17/Backpropogating-an-LSTM-A-Numerical-Example/
+https://www.reddit.com/r/MachineLearning/comments/4xnuv2/what_is_the_general_belief_on_value_of_neural/
+https://www.reddit.com/r/MachineLearning/comments/64lkry/d_explanation_of_deepminds_neural_turing_machine/
+https://discuss.pytorch.org/t/neural-turing-machines-ntm-implementation/8276
+https://www.quora.com/What-is-a-neural-Turing-machine
+https://summerofcode.withgoogle.com/archive/2017/projects/6637623116300288/
+https://stats.stackexchange.com/questions/241286/how-are-controllers-attached-to-read-write-heads-in-neural-turing-machines
+https://trollheaven.wordpress.com/2017/12/15/neural-turing-machine/

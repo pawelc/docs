@@ -114,3 +114,8 @@ architectures. They generate sequences with some algorithms (context free and co
 Because sequences are generated algorithmically some of the symbols can be predicted deterministically. 
 Model presented has unbounded memory which is different for example from NTM. Authors also notice the in the NTM
 paper authors didn't rationalize the usage of such complex model to the problems they studied.
+The first model is almost the same as Pushdown Automaton from 90s. The difference is that we don't use values saying how many elements have
+to be poped or pushed (stack in the old model contained value and value indicating the weight of the value).
+Authors also show parametrization of the model with linked-list which has the head which movement, read and write operations are parametrized by NN.
+Authors also find that SGD is not enough for complex tasks and they need to use search algorithms. They also use discretization of conntinuous operations
+on stacks during test time to improve results which they call rounding.
