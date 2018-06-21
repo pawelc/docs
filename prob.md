@@ -6,4 +6,6 @@ Authors show how to convert model with probabilistic continuous hidden variables
 with deterministic variables (Differentiable not Centered Parametrization) by adding auxiliary variables and using Jackobian
 of the function in DNCP.
 There are different ways of converting CP to DNCP like: tractable and differentiable inverse of CDF, location-scale parametric family 
-with auxiliary variable, composition. 
+with auxiliary variable, composition.
+Using this approach the dropout network can be seen as bayesian network.
+Using this parametrization we obtain differentiable MC likelihood estimator that can be used to learn parameters. 

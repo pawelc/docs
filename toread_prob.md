@@ -5,3 +5,4 @@ Hybrid Monte Carlo
 The no-U-turn sampler Adaptively setting path lengths in Hamiltonian Monte Carlo
 A Monte Carlo implementation of the EM algorithm and the poor man’s data augmentation algorithms
 Sample-based non-uniform random variate generation
+Learning stochastic feedforward neural networks
