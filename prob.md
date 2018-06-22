@@ -9,3 +9,4 @@ There are different ways of converting CP to DNCP like: tractable and differenti
 with auxiliary variable, composition.
 Using this approach the dropout network can be seen as bayesian network.
 Using this parametrization we obtain differentiable MC likelihood estimator that can be used to learn parameters. 
+TODO: Read it later because too time consuming for now.
