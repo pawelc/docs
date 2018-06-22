@@ -49,6 +49,8 @@ Nonlinear dynamic boltzmann machines for time-series prediction
 Finding structure in time
 Deep, Convolutional, and Recurrent Models for Human Activity Recognition using Wearables
 Learning from hints in neural networks
+Hints and the VC Dimension
+Financial Market Applications of Learning from Hints
 Including Hints in Training Neural Nets
 Sparse Kalman Filtering Approaches to Covariance Estimation from High Frequency Data in the Presence of Jumps
 Generalization and network design strategies
@@ -444,3 +446,7 @@ End-to-end Differentiable Proving
 Learning Explanatory Rules from Noisy Data
 AP: Artificial Programming
 Learning with marginalized corrupted features
+Neural Networks and the Bias-Variance Dilemma
+The Lack of A Priori Distinctions Between Learning Algorithms
+Monotonicity Hints
+Feasibility of using Adaptive Logic Networks to Predict Compressor Unit Failure
