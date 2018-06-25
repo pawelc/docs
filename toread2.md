@@ -217,7 +217,6 @@ LeRec: a NN/HMM hybrid for on-line handwriting recognition
 Global Optimization of a Neural Network{Hidden Markov Model Hybrid
 A new training algorithm for hybrid HMM/ANN speech recognition systems
 Estimation of global posteriors and forward-backward training of hybrid HMM/ANN systems
-Robust combination of neural networks and hidden Markov models for speech recognition
 Reading checks with multilayer graph transformer networks
 Gradient-Based Learning Applied to Document Recognition
 Graph Transformer Networks for Image Recognition
