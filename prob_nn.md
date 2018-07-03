@@ -1,3 +1,18 @@
+# [Mixture Density Networks](https://publications.aston.ac.uk/373/1/NCRG_94_004.pdf)
+1994.02
+
+Authors notice that while for classification problems output of the model is correct posterior, in case of the regression
+average conditional on the output might be very wrong if multiple outputs are possible. Authors also derive error function from different perspectives:
+conventional least squares, ML, cross entropy. 
+The Mixture Density Network is NN that parametrizes the mixture of Gaussians. Its outputs are parameters depending on x for mixing
+probabilities and Gaussian parameters. Everything is analytically derived. Author shows derivation for empirical cost and limt
+case using expectations. Having this distribution we can compute specific values like conditional mean, most probable value, variance of the
+density about the conditional variance.
+Paper depict 2 interesting examples of inverse mapping where forward mapping is proper function (i.e. only one value for each vector in the domain
+but inverse problem having possible many outputs for each input). First is increasing sinus function. The other is kinematics of robot arm
+with 2 joints where angles of joints are input and position of end of arm is output. Paper shows that it is beneficial to gave conditional 
+distribution instead of only conditional mean which can be completely misleading.
+
 # [Monotonic Networks](https://papers.nips.cc/paper/1358-monotonic-networks.pdf)
 1998
 
@@ -14,6 +29,30 @@ The max operator allows to model convex part of monotone function and min allows
 can approximate any continuous and with finite first partial derivative functions to a desired accuracy.
 Authors notice that swapping min and max operator would also work. And leave it for future research to find out why/when to use which.
 Also given model has few hyper-parameters that has to be decided like: number of groups or number of hyper-planes within the group.
+
+# [Probability Density Estimation using Artificial Neural Networks](http://www.cs.uoi.gr/~arly/papers/CPC2001.pdf)
+2000.07.18
+
+Authors propose pdf estimation using NN. They notice that it is more robust for example than mixture of Gaussians which cannot
+efficiently approximate for example uniform distribution. The problem with NN estimator is that it doesn't integrate so we have to do 
+it numerically. Authors also mention about the method that uses classification NN to compute pdf by learning discriminator between
+data distribution and well known distribution. Using Bayes rule we can compute pdf(x). But their method is different and more
+standard because it uses maximum likelihood.
+The proposed model computes pdf using NN with 1 hidden layer and normalizes the probability by integrating over compact subset (assumption).
+So the minimization is split into 2 parts i.e. simple derivatives of NN wrt parameters and complicated derivative of the log integral
+over the whole compact space of the inputs. The integral is approximated using simple equidistant point trapezoidal rule. The points in grid
+for integral approximation are chosen for each computation so optimization does not depend on them.
+The compact set is created by hyperrectangle containing all training data plus some margin for pdf to fade out.
+They initialize the NN with data created by using regular non parametric approximator (PZ with Gaussian).
+Authors notice nice artifact, the cost function makes pdf large at training data and 0 on integration points. Because of it when
+there are a lot of points in the integration grid and non integration point than pdf can spike in this place. One way to tackle this 
+problem is to put integration points where data is but it only can be done efficiently in 1d. 
+They test the model using several test sets generated from: mixture of uniforms and gaussians. The accuracy of approximation was
+checked by plots of pdfs (gaussian mixture shows very wiggly behavior while NN approximation is very close to the generating pdf.) and
+by comparing the model log likelihood to the true one.
+The last example show 2-d uniform where NN again wins over mixture of Gaussians.
+The method is better alternative for low dimensions aprox. upto 4. Above that the problem is numerical quadrature used to compute normalizing
+integral.
 
 # [Density estimation and random variate generation using multilayer networks](https://ieeexplore.ieee.org/abstract/document/1000120/)
 2002.08.07
@@ -82,6 +121,11 @@ Using this approach the dropout network can be seen as bayesian network.
 Using this parametrization we obtain differentiable MC likelihood estimator that can be used to learn parameters. 
 TODO: Read it later because too time consuming for now.
 
+# [Conditional probability density estimation using artificial neural network](https://ieeexplore.ieee.org/document/7338597/)
+2015.10.14
+
+They show some method of transforming real values to vectors by bucketing. The paper is very weak.
+
 [Soft-Constrained Nonparametric Density Estimation with Artificial Neural Networks](https://link.springer.com/chapter/10.1007/978-3-319-46182-3_6)
 2016.09.09
 
@@ -125,8 +169,13 @@ approximation but haven't checked the derivation.
 
 Authors improve on method described in "Density estimation and random variate generation using multilayer networks". 
 They improve upon this method by **making the output monotone** (so no hyperparameter tuning is necessary) increasing 
-(by constraining the weight to be positive) and devise algorithm to compute high order derivative to compute pdf from the CDF (by using
-someone else algorithm  to determine coefficients of the polynomial, we need it to compute n-th derivative of tgh which is needed
-to compute **higher order derivative**). Authors also notice that using sigmoid functions can be inefficient for approximating
+(by constraining the weight to be positive) and point to algorithm to compute efficiently high order derivative to compute pdf 
+from the CDF (by using someone's else algorithm  to determine coefficients of the polynomial, we need it to compute n-th derivative of tgh which is needed
+to compute **higher order derivative**, but they don't show this apprach in the experiments). 
+Authors also notice that using sigmoid functions can be inefficient for approximating
 strong non-smoothness like uniform distribution. They use combination of tanh and -1,x,1 function. They made also combination
 parametrized to it can be fine tuned by running optimization.
+As examples authors generate different mixtures of well known distributions. When using mixture with uniform which is not differentiable
+using special activation function with tunable parameters helps a lot and almost ideal pdf is reached.
+Currently author is working on efficient high order differentiation. Also the future work will be focused on deep nets and making it
+possible to do higher order differentiation in them.

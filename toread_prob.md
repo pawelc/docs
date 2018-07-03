@@ -26,3 +26,7 @@ monte carlo methods in statistical physics
 Vegas revisited Adaptive Monte Carlo integration beyond factorization
 Simulation and the Monte Carlo Method
 the nature of statistical learning theory
+Nonparametric and Semiparametric Models
+Mixture Densities, Maximum Likelihood and the Em Algorithm
+Mixture Density Estimation Based on Maximum Likelihood and Sequential Test Statistics
+http://cocosci.berkeley.edu/tom/bayes.html
