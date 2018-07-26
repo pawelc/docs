@@ -13,22 +13,15 @@ but inverse problem having possible many outputs for each input). First is incre
 with 2 joints where angles of joints are input and position of end of arm is output. Paper shows that it is beneficial to gave conditional 
 distribution instead of only conditional mean which can be completely misleading.
 
-# [Monotonic Networks](https://papers.nips.cc/paper/1358-monotonic-networks.pdf)
-1998
+# [A Neural Network Method of Density Estimation for Univariate Unimodal Data](https://link.springer.com/article/10.1007/BF01415012)
+1994.02.04
+They new already at this time that more hidden neurons implies less local minima. Authors **learn CDF by using NN and compute
+derivative to compute pdf**. To obtain target labels for NN they computer empirical CDF from the data. They smooth it before feeding 
+into NN (checking if points are concave upwards before mode and downwards after mode). **They also use monotonicity and concavity constraint** 
+where unimodal cdf had to be convex before mode and concave after mode. They add new point to the training data where the mode is found
+ by some additional method. They also normalize the data to fall into (0,1) to (0.2,0.8) ranges.
+They use one hidden layer with known approximation of required number of hidden neurons to be (N-1)/3 where N is rank of the training data.
 
-Authors propose new model that encodes the prior that learnt function has to be monotone i.e. for increasing input the output 
-cannot be decreasing. The prior is necessary to make learning efficient. Authors test their model on the prediction of bond rating and achieve 
-better results that other models. They compare it to linear model and NNs with different sizes. They find that NN trained to achieve
-best result on the training data achieves worse result on test data than linear model. Using validation data and early stopping makes NN better
-than linear model but still worse than monotone.
-The inputs are first transformed linearly to multiple groups by using constraint weights which are positive for increasing
-monotonicity and negative for decreasing monotonicity (weight constraints are enforced by using exp of free parameter).
-The groups are processed by max operator and then by min operator.
-The whole model can be learned by the gradient descent.
-The max operator allows to model convex part of monotone function and min allows to model concave part. Authors prove that their model
-can approximate any continuous and with finite first partial derivative functions to a desired accuracy.
-Authors notice that swapping min and max operator would also work. And leave it for future research to find out why/when to use which.
-Also given model has few hyper-parameters that has to be decided like: number of groups or number of hyper-planes within the group.
 
 # [Probability Density Estimation using Artificial Neural Networks](http://www.cs.uoi.gr/~arly/papers/CPC2001.pdf)
 2000.07.18
@@ -57,6 +50,7 @@ integral.
 # [Density estimation and random variate generation using multilayer networks](https://ieeexplore.ieee.org/abstract/document/1000120/)
 2002.08.07
 
+The same paper as "Neural Networks for Density Estimation in Financial Markets" from 1998.
 Authors describe 2 new methods for pdf estimation using NN. Paper contains nice review of literature of density estimation using
 standard methods and NNs. Authors finds bound on estimation error and prove it and compare to other methods.
 The first method uses NN do model distribution function of the data. The input to the NN is data. We know that for NN to be CDF

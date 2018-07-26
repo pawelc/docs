@@ -88,3 +88,7 @@ Autoregressive Conditional Heteroscedasticity with Estimates of the Variance of 
 Generalized autoregressive conditional heteroscedasticity
 Expected Returns: An Investor's Guide to Harvesting Market Rewards
 https://www.zerohedge.com/news/2018-05-22/unexpected-warning-goldman-sachs-something-not-quite-right
+Integrating Economic Knowledge in Data Mining Algorithms
+Risk Management Based on Expert Rules and Data Mining: A Case Study in Insurance
+Correlation and dependence in risk management: properties and pitfalls
+Quantitative Risk Management: Concepts, Techniques and Tools (book - http://www.qrmtutorial.org/)

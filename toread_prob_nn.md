@@ -1,12 +1,29 @@
+Neural network copula portfolio optimization for exchange traded funds
+Copula Bayesian Networks
+Copulas-based ensemble of Artificial Neural Networks for forecasting real world time series
+Copula Bayesian Networks
+Deep Lattice Networks and Partial Monotonic Functions
+Monotonic Recurrent Bounded Derivative Neural Network
 Neural Autoregressive Distribution Estimation
 MADE Masked Autoencoder for Distribution Estimation
 Neural Networks for Density Estimation
 Recursive Neural Networks for Density Estimation Over Generalized Random Graphs
+Estimating monotonic functions and their bounds
+The Capacity of Monotonic Functions
+TensorFlow Distributions
+https://medium.com/tensorflow/introducing-tensorflow-probability-dca4c304e245
 A neural network approach to statistical pattern classification by semiparametric estimation of probability density functions
 Modelling Conditional Probability Densities with Neural Networks
 Better Conditional Density Estimation for Neural Networks
 A Neural Bayesian Estimator for Conditional Probability Densities
+Multilayer perceptron training with inaccurate derivative information
 Estimating Conditional Distributions by Neural Networks
+Learning bias in neural networks and an approach to controlling its effect in monotonic classification
+Neural networks for two-group classification problems with monotonicity hints
+Application of the backpropagation neural network algorithm with monotonicity constraints for two-group classification problems
+Positive Neural Networks in Discrete Time Implement Monotone-Regular Behaviors
+Partially monotonic decision trees
+Partially monotone networks applied to breast cancer detection on mammograms
 Neural Network for Estimating Conditional Distributions
 Solving Partially Monotone Problems with Neural Networks
 Probability density estimation using a Gaussian clustering algorithm
@@ -36,3 +53,4 @@ Derivative Polynomials for Tanh, Tan, Sech and Sec in Explicit form
 Density estimation in high and ultra high dimensions, regularization, and the L1 asymptotics
 Assessment of probability density estimation methods Parzen window and Finite Gaussian Mixtures
 On the determination of probability density functions by using Neural Networks
+Embedding monotonicity and concavity information in the training of multiphase flow neural network cor- relations by means of genetic algorithms

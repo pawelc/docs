@@ -48,8 +48,6 @@ Something about TDNN
 Nonlinear dynamic boltzmann machines for time-series prediction
 Finding structure in time
 Deep, Convolutional, and Recurrent Models for Human Activity Recognition using Wearables
-Learning from hints in neural networks
-Hints and the VC Dimension
 Financial Market Applications of Learning from Hints
 Including Hints in Training Neural Nets
 Sparse Kalman Filtering Approaches to Covariance Estimation from High Frequency Data in the Presence of Jumps
@@ -79,7 +77,6 @@ Delving Deep into Rectifiers: Surpassing Human-Level Performance on ImageNet Cla
 Natural Neural Networks
 Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift
 On the diﬃculty of training Recurrent Neural Networks
-Adam: A method for stochastic optimization
 From Machine Learning to Machine Reasoning 
 Natural Language Processing (almost) from Scratch
 A Tutorial on Energy-Based Learning 
@@ -447,5 +444,4 @@ AP: Artificial Programming
 Learning with marginalized corrupted features
 Neural Networks and the Bias-Variance Dilemma
 The Lack of A Priori Distinctions Between Learning Algorithms
-Monotonicity Hints
 Feasibility of using Adaptive Logic Networks to Predict Compressor Unit Failure

@@ -24,7 +24,6 @@ LIE-ACCESS NEURAL TURING MACHINES
 Neural programmer: Inducing latent programs with gradient descent
 Neural GPUs
 Learning to Remember Rare Events
-Learning to Transduce with Unbounded Memory
 Evolutionary multi-objective generation of recurrent neural network ensembles for time series prediction
 The Goldilocks Principle Reading Children's Books with Explicit Memory Representations
 Towards ai-complete question answering a set of prerequisite toy tasks
@@ -311,7 +310,6 @@ A Novel Fractional Gradient-Based Learning Algorithm for Recurrent Neural Networ
 Tree Memory Networks for Modelling Long-term Temporal Dependencies
 On the memory properties of recurrent neural models
 Divide and Conquer Networks
-Neural Programmer-Interpreters
 DeepCoder: Learning to Write Programs
 Recurrent Neural Network for Text Classification with Multi-Task Learning
 Tracking the World State with Recurrent Entity Networks

@@ -1,3 +1,4 @@
+The t Copula and Related Copulas
 Reverend Bayes on inference engines: A distributed hierarchical approach
 Expectation propagation for approximate bayesian inference
 Probabilistic inference using Markov Chain Monte Carlo methods
@@ -30,3 +31,7 @@ Nonparametric and Semiparametric Models
 Mixture Densities, Maximum Likelihood and the Em Algorithm
 Mixture Density Estimation Based on Maximum Likelihood and Sequential Test Statistics
 http://cocosci.berkeley.edu/tom/bayes.html
+Density estimation for statistics and data analysis
+How to approximate a histogram by a normal density
+A generalized unimodality
+Do robust estimators work with real data
