@@ -1,3 +1,4 @@
+Modelling dependence with copulas and applications to risk management
 Price signatures
 Optimization of trading systems and portfolios
 Making financial trading by recurrent reinforcement learning
