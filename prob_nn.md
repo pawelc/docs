@@ -100,6 +100,9 @@ They prove the determinant of the Jackobian of the transformation is equal to th
 They equal it to the previous performance index.
 Using NN with hidden layer of size at least as the input/output to increase probability that learnt function is invertible.
 
+# [RNADE The real-valued neural autoregressive density-estimator](https://arxiv.org/abs/1306.0186)
+2013.06.02
+
 # [Efficient Gradient-Based Inference through Transformations between Bayes Nets and Neural Nets](https://arxiv.org/abs/1402.0480)
 2014.02.03
  

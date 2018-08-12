@@ -35,3 +35,5 @@ Density estimation for statistics and data analysis
 How to approximate a histogram by a normal density
 A generalized unimodality
 Do robust estimators work with real data
+Probabilistic graphical models: principles and techniques
+Estimation of a multivariate density

@@ -204,7 +204,6 @@ An Actor-Critic Algorithm for Sequence Prediction
 Search-based structured prediction
 A Reduction of Imitation Learning and Structured Prediction to No-Regret Online Learning
 How (not) to Train your Generative Model: Scheduled Sampling, Likelihood, Adversary?
-The neural autoregressive distribution estimator
 Zoneout Regularizing RNNs by Randomly Preserving Hidden Activations
 Recurrent neural networks with limited numerical precision
 Batch normalized recurrent neural networks

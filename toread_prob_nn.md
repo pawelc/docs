@@ -1,3 +1,11 @@
+The neural autoregressive distribution estimator
+Does the wake-sleep algorithm produce good density estimators
+Modeling high-dimensional discrete data with multi-layer neural networks
+Discussion of the neural autoregressive distribution estimator
+A neural autoregressive topic model
+Cumulative Distribution Networks and the Derivative-sum-product Algorithm Models and Inference for Cumulative Distribution Functions on Graphs
+Mixed Cumulative Distribution Networks
+cumulative density networks - read about them
 Neural network copula portfolio optimization for exchange traded funds
 Copula Bayesian Networks
 Copulas-based ensemble of Artificial Neural Networks for forecasting real world time series

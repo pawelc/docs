@@ -12,3 +12,14 @@ Methods of Conjugate Gradients for Solving Linear Systems
 TensorFlow Estimators Managing Simplicity vs. Flexibility in High-Level Machine Learning Frameworks
 Bayesian Filtering and Smoothing
 TFX: A TensorFlow-Based Production-Scale Machine Learning Platform
+From learning models of natural image patches to whole image restoration
+On the quantitative analysis of deep belief networks
+Mixtures of Conditional Gaussian Scale Mixtures Applied to Multiscale Image Representations
+Gaussian process networks
+Evaluating probabilities under high-dimensional latent variable models
+In all likelihood, deep belief is not enough
+Modeling pixel means and covariances using factorized third-order Boltzmann machines
+A spike and slab restricted Boltzmann machine
+SHORTEN simple lossless and nearlossless waveform compression
+Deep mixtures of factor analysers
+Natural images, Gaussian mixtures and dead leaves
