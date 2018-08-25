@@ -1,3 +1,6 @@
+Connectionist multivariate density-estimation and its application to speech synthesis
+On composite marginal likelihoods
+An overview of composite likelihood methods
 The neural autoregressive distribution estimator
 Does the wake-sleep algorithm produce good density estimators
 Modeling high-dimensional discrete data with multi-layer neural networks

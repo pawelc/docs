@@ -22,4 +22,12 @@ Modeling pixel means and covariances using factorized third-order Boltzmann mach
 A spike and slab restricted Boltzmann machine
 SHORTEN simple lossless and nearlossless waveform compression
 Deep mixtures of factor analysers
+The EM algorithm for mixtures of factor analyzers
+Mixture of factor analyzers Matlab implementation (http://lear.inrialpes.fr/ verbeek/code)
 Natural images, Gaussian mixtures and dead leaves
+No More Pesky Learning Rate
+Exploring the Limits of Weakly Supervised Pretraining
+Evaluation and Selection of Biases in Machine Learning
+The lack of a priori distinctions between learning algorithms
+The need for biases in learning generalizations
+Information Theory, Inference, and Learning Algorithms

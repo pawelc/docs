@@ -37,3 +37,8 @@ A generalized unimodality
 Do robust estimators work with real data
 Probabilistic graphical models: principles and techniques
 Estimation of a multivariate density
+Theory of Probability (book)
+Probability Theory: The Logic of Science
+Learning Structured Prediction Models A Large Margin
+On the mathematical foundations of theoretical statistics
+Philosophy and the practice of Bayesian statistics

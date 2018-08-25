@@ -93,3 +93,4 @@ Integrating Economic Knowledge in Data Mining Algorithms
 Risk Management Based on Expert Rules and Data Mining: A Case Study in Insurance
 Correlation and dependence in risk management: properties and pitfalls
 Quantitative Risk Management: Concepts, Techniques and Tools (book - http://www.qrmtutorial.org/)
+Portfolio selection

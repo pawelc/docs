@@ -103,6 +103,10 @@ Using NN with hidden layer of size at least as the input/output to increase prob
 # [RNADE The real-valued neural autoregressive density-estimator](https://arxiv.org/abs/1306.0186)
 2013.06.02
 
+The ides is based on Mixture Density Network and factorial representation of the pdf i.e. P(X)=P(X_1)P(X_1|X_2)P(X_3|X_1X_2) ...
+Authors compare their model to Mixture Factor analyzers, MoG. They use MoG and MoL as the representation of the pdf in the last 
+NN layer. They use various data sets for the comparison.
+
 # [Efficient Gradient-Based Inference through Transformations between Bayes Nets and Neural Nets](https://arxiv.org/abs/1402.0480)
 2014.02.03
  

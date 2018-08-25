@@ -12,4 +12,7 @@ Financial Market Applications of Learning from Hints Neural Networks in the Capi
 Knowledge Incorporation into Neural Networks From Fuzzy Rules
 Application of MLP networks to bond rating and house pricing
 Multilayer feedforward networks are universal approximators
-Calibrating artificial neural networks by global optimization
+Calibrating artificial neural networks by global optimization   
+https://deepmind.com/blog/population-based-training-neural-networks/
+Practical Recommendations for Gradient-Based Training of Deep Architectures
+Learning Inductive Biases with Simple Neural Networks
