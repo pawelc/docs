@@ -31,3 +31,11 @@ Evaluation and Selection of Biases in Machine Learning
 The lack of a priori distinctions between learning algorithms
 The need for biases in learning generalizations
 Information Theory, Inference, and Learning Algorithms
+Reweighted wake-sleep
+Bayesian Reasoning and Machine Learning
+Graphical Models for Machine Learning and Digital Communication
+A Tutorial on Energy-Based Learning 
+A learning algorithm for Boltzmann machines
+Learning and relearning in Boltzmann machines
+Machine learning: a probabilistic perspective
+EM algorithms for ML factor analysis

@@ -42,3 +42,11 @@ Probability Theory: The Logic of Science
 Learning Structured Prediction Models A Large Margin
 On the mathematical foundations of theoretical statistics
 Philosophy and the practice of Bayesian statistics
+Statistical Inference
+Probability and Measure
+Density Estimation for Statistics and Data Analysis
+Pattern Classification
+Probabilistic graphical models principles and techniques
+Copula Theory and its Applications
+Learning mixtures of spherical Gaussians: moment methods and spectral decompositions
+Some methods of constructing multivariate distributions

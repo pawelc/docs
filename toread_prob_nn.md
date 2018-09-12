@@ -65,3 +65,5 @@ Density estimation in high and ultra high dimensions, regularization, and the L1
 Assessment of probability density estimation methods Parzen window and Finite Gaussian Mixtures
 On the determination of probability density functions by using Neural Networks
 Embedding monotonicity and concavity information in the training of multiphase flow neural network cor- relations by means of genetic algorithms
+Bayesian Learning for Neural Networks
+Bayesian methods for supervised neural networks

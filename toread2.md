@@ -79,7 +79,6 @@ Batch Normalization: Accelerating Deep Network Training by Reducing Internal Cov
 On the diﬃculty of training Recurrent Neural Networks
 From Machine Learning to Machine Reasoning 
 Natural Language Processing (almost) from Scratch
-A Tutorial on Energy-Based Learning 
 Improving Stochastic Gradient Descent with Feedback
 Primal-dual subgradient methods for convex problems (how to make models sparse)
 Ad Click Prediction: a View from the Trenches (how to make models sparse), look at FTRLOptimizer in TensorFlow
@@ -163,7 +162,6 @@ Exploiting the past and the future in protein secondary structure prediction
 ReNet: A recurrent neural network based alternative to convolutional networks
 Markovian Models for Sequential Data
 Probable Networks and Plausible Predictions - a Review of Practical Bayesian Methods for Supervised Neural Networks
-Bayesian Learning for Neural Networks
 The Echo State Approach to Analysing and Training Recurrent Neural Networks
 On the approximation capability of recurrent neural networks
 Forecasting with Recurrent Neural Networks 12 Tricks
