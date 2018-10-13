@@ -50,3 +50,5 @@ Probabilistic graphical models principles and techniques
 Copula Theory and its Applications
 Learning mixtures of spherical Gaussians: moment methods and spectral decompositions
 Some methods of constructing multivariate distributions
+Stochastic relaxation, Gibbs distributions, and the Bayesian restoration of images
+Sinh-arcsinh distributions

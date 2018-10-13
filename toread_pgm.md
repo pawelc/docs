@@ -1,0 +1,2 @@
+Approximating discrete probability distributions with dependence trees
+Theory refinement on Bayesian networks

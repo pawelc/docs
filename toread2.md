@@ -45,7 +45,6 @@ Non-linear input transformations for discriminative HMMs
 Hidden neural networks: a framework for HMM/NN hybrids
 Maximum mutual information neural networks for hybrid connectionist-HMM speech recognition systems
 Something about TDNN
-Nonlinear dynamic boltzmann machines for time-series prediction
 Finding structure in time
 Deep, Convolutional, and Recurrent Models for Human Activity Recognition using Wearables
 Financial Market Applications of Learning from Hints
@@ -115,7 +114,6 @@ EXPLAINING AND HARNESSING ADVERSARIAL EXAMPLES
 Deep Neural Networks are Easily Fooled: High Confidence Predictions for Unrecognizable Images
 https://medium.com/merantix/picasso-a-free-open-source-visualizer-for-cnns-d8ed3a35cfc5
 https://github.com/merantix/picasso
-Maxout networks
 A Theoretical Analysis of Feature Pooling in Visual Recognition
 Ask the locals: multi-way local pooling for image recognition
 Beyond spatial pyramids: Receptive ﬁeld learning for pooled image features
@@ -355,7 +353,6 @@ Some methods of speeding up the convergence of iteration methods
 Safe and Efficient Off-Policy Reinforcement Learning
 Playing Atari with Deep Reinforcement Learning
 Reinforcement learning, efficient coding, and the statistics of natural tasks
-Efficient backprop
 Micro-differential evolution: Diversity enhancement and a comparative study
 Alopex: A correlation-based learning algorithm for feedforward and recurrent neural networks
 Recurrent Convolutional Neural Network for Object Recognition
@@ -404,8 +401,6 @@ Variational inference for Monte Carlo objectives
 IMPORTANCE WEIGHTED AUTOENCODERS
 Missing values in nonlinear factor analysis
 Training energy-based models for time-series imputation
-Multi-prediction deep boltzmann machines
-A deep and tractable density estimator
 Generalized denoising auto-encoders as generative models
 Understanding the difficulty of training deep feedforward neural networks
 A unifying review of linear gaussian models

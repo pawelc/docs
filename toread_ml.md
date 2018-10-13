@@ -17,9 +17,6 @@ On the quantitative analysis of deep belief networks
 Mixtures of Conditional Gaussian Scale Mixtures Applied to Multiscale Image Representations
 Gaussian process networks
 Evaluating probabilities under high-dimensional latent variable models
-In all likelihood, deep belief is not enough
-Modeling pixel means and covariances using factorized third-order Boltzmann machines
-A spike and slab restricted Boltzmann machine
 SHORTEN simple lossless and nearlossless waveform compression
 Deep mixtures of factor analysers
 The EM algorithm for mixtures of factor analyzers
@@ -31,11 +28,20 @@ Evaluation and Selection of Biases in Machine Learning
 The lack of a priori distinctions between learning algorithms
 The need for biases in learning generalizations
 Information Theory, Inference, and Learning Algorithms
-Reweighted wake-sleep
 Bayesian Reasoning and Machine Learning
 Graphical Models for Machine Learning and Digital Communication
-A Tutorial on Energy-Based Learning 
-A learning algorithm for Boltzmann machines
-Learning and relearning in Boltzmann machines
 Machine learning: a probabilistic perspective
 EM algorithms for ML factor analysis
+Evaluation and selection of biases in machine learning
+Maximum likelihood from incomplete data via the EM algorithm
+Annealing between distributions by averaging moments
+Exponential family harmoniums with an application to information retrieval
+Learning multiple layers of features from tiny 
+GTM the generative topographic mapping
+Probabilistic Reasoning in Intelligent Systems
+Causal feature selection
+No more pesky learning rates
+Random search for hyper-parameter optimization
+Practical Bayesian optimization of machine learning algorithms
+Improved Gaussian mixture density estimates using Bayesian penalty terms and network averaging
+Linearly combining density estimators via stacking

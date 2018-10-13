@@ -107,6 +107,11 @@ The ides is based on Mixture Density Network and factorial representation of the
 Authors compare their model to Mixture Factor analyzers, MoG. They use MoG and MoL as the representation of the pdf in the last 
 NN layer. They use various data sets for the comparison.
 
+# [A Deep and Tractable Density Estimator](https://arxiv.org/abs/1310.1757)
+Extension to the RNADE to deep models and any order of variables in autoregressive representation. This is simple multi layer
+neural network with specially designed learning procedure that allows to share weights for all orderings of autoregressive
+model.
+
 # [Efficient Gradient-Based Inference through Transformations between Bayes Nets and Neural Nets](https://arxiv.org/abs/1402.0480)
 2014.02.03
  
@@ -126,6 +131,19 @@ TODO: Read it later because too time consuming for now.
 2015.10.14
 
 They show some method of transforming real values to vectors by bucketing. The paper is very weak.
+
+# [Connectionist multivariate density-estimation and its application to speech synthesis](https://www.era.lib.ed.ac.uk/handle/1842/15868)
+2016
+
+PhD Thesis about RNADE. Good overview of the connectionist density estimation methods. Author discusses his and other
+methods strong and weak points, computational cost. Overview of many autoregressive methods like LARN.
+The interesting point is comparison of the deep RNADE method to the denoising autoencoder or drop out. In all cases some values
+are masked but the rationale is a bit different.
+
+This thesis is composed of 3 papers:
+* RNADE The real-valued neural autoregressive density-estimator
+* A Deep and Tractable Density Estimator
+* Modelling acoustic feature dependencies with artificial neural networks: Trajectory-RNADE
 
 [Soft-Constrained Nonparametric Density Estimation with Artificial Neural Networks](https://link.springer.com/chapter/10.1007/978-3-319-46182-3_6)
 2016.09.09

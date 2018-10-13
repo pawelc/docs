@@ -16,3 +16,8 @@ Calibrating artificial neural networks by global optimization
 https://deepmind.com/blog/population-based-training-neural-networks/
 Practical Recommendations for Gradient-Based Training of Deep Architectures
 Learning Inductive Biases with Simple Neural Networks
+Rectified linear units improve restricted Boltzmann machines
+Improving deep neural networks for LVCSR using rectified linear units and dropout
+Deep learning via Hessian-free optimization
+Extracting and composing robust features with denoising autoencoders
+Efficient backprop

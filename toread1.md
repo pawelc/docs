@@ -174,7 +174,6 @@ Deep Residual Learning for Image Recognition
 Highway Networks
 Learning Long-Term Dependencies with Gradient Descent is Difficult.
 Protein Secondary Structure Prediction with Long Short Term Memory Networks
-Random search for hyper-parameter optimization
 An Efficient Approach for Assessing Hyperparameter Importance
 Generalized Functional ANOVA Diagnostics for High-Dimensional Functions of Dependent Variables
 Recurrent Highway Networks (https://github.com/julian121266/RecurrentHighwayNetworks)
@@ -312,4 +311,3 @@ Divide and Conquer Networks
 DeepCoder: Learning to Write Programs
 Recurrent Neural Network for Text Classification with Multi-Task Learning
 Tracking the World State with Recurrent Entity Networks
-Deep generative stochastic networks trainable by backprop

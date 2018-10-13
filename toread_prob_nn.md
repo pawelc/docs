@@ -1,7 +1,8 @@
-Connectionist multivariate density-estimation and its application to speech synthesis
+Bayesian neural networks and density networks
 On composite marginal likelihoods
 An overview of composite likelihood methods
 The neural autoregressive distribution estimator
+Learning representations by maximizing compression
 Does the wake-sleep algorithm produce good density estimators
 Modeling high-dimensional discrete data with multi-layer neural networks
 Discussion of the neural autoregressive distribution estimator
@@ -67,3 +68,14 @@ On the determination of probability density functions by using Neural Networks
 Embedding monotonicity and concavity information in the training of multiphase flow neural network cor- relations by means of genetic algorithms
 Bayesian Learning for Neural Networks
 Bayesian methods for supervised neural networks
+https://github.com/tensorflow/magenta/tree/master/magenta/models/coconet
+Recurrent Estimation of Distributions
+Probabilistic Deep Learning using Random Sum-Product Networks
+Density estimation using Real NVP
+Deep autoregressive networks
+Stochastic backpropagation and approximate inference in deep generative models
+Auto-encoding variational bayes
+Generalized denoising autoencoders as generative models
+Deep generative stochastic networks trainable by backprop
+Integrating Probabilistic Rules into Neural Networks: A Stochastic EM Learning Algorithm 
+Modelling the uncertainty in recovering articulation from acoustics
