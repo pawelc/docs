@@ -1,3 +1,4 @@
+Simple, Distributed, and Accelerated Probabilistic Programming
 The t Copula and Related Copulas
 Reverend Bayes on inference engines: A distributed hierarchical approach
 Expectation propagation for approximate bayesian inference
@@ -52,3 +53,28 @@ Learning mixtures of spherical Gaussians: moment methods and spectral decomposit
 Some methods of constructing multivariate distributions
 Stochastic relaxation, Gibbs distributions, and the Bayesian restoration of images
 Sinh-arcsinh distributions
+Understanding the Metropolis-Hastings algorithm
+Stochastic volatility: Bayesian computation using automatic differentiation and the extended Kalman filter
+Amortized inference in probabilistic reasoning
+Learning stochastic inverses
+Inference compilation and universal probabilistic programming
+Deep amortized inference for probabilistic programs
+Probabilistic programming
+Stan: A probabilistic programming language
+Nonstandard interpretations of probabilistic programs for efficient inference
+Automatic differentiation variational inference
+Probabilistic programming in Python using PyMC3
+http://pyro.ai/
+Learning disentangled representations with semi-supervised deep generative models
+REBAR: Low-variance, unbiased gradient estimates for discrete latent variable models
+Backpropagation through the void: Optimizing control variates for black-box gradient estimation
+Understanding Probability
+From Laplace To Supernova Sn 1987A Bayesian Inference In Astrophysics
+understandinguncertainty.org
+Causality: Models, Reasoning and Inference
+The Foundations of Statistics
+Causation, Prediction and Search
+Multivariate Models and Dependence Concepts
+TrueSkillTM: A Bayesian skill rating system
+All of Statistics: A Concise Course in Statistical Inference
+Probability, Random Variables and Stochastic Processes

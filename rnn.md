@@ -80,3 +80,5 @@ The first experiment is using categorical data taken as all Wikipedia text. What
 of RNN (for example 3/4) or middle elements in case of BRNN. They do it to only backpropagate error with long time dependencies.
 To train with NADA they add one dimension as missing values indicator. Mark 5 consecutive step every 25 steps as gaps. Error is only propagated from the gaps.
 They uniformly sample within the gaps which one of them to set actually to missing.
+# On the difficulty of training recurrent neural networks
+The crucial property for learning time series is ability to “discover temporal correlations between events that are possibly far away from each other in the data”

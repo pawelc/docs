@@ -61,3 +61,17 @@ Reinforcement Learning Turing Machine
 Programmatically Interpretable Reinforcement Learning
 A reinforcement learning extension to the Almgren-Chriss framework for optimal trade execution
 https://medium.com/@gaurav1086/machine-learning-for-algorithmic-trading-f79201c8bac6
+Automatic differentiation of explicit Runge-Kutta methods for optimal control
+Influence diagrams
+Bayesian Networks and Influence Diagrams : A Guide to Construction and Analysis
+From Influence Diagrams to Junction Trees
+Simulation-based Algorithms for Markov Decision Processes.
+Solving Very Large Weakly Coupled Markov Decision Processes
+Efficient Inference in Markov Control Problems
+Using Expectation-Maximization for Reinforcement Learning
+Probabilistic inference for solving (PO)MDPs
+Solving deterministic policy (po)mpds using expectation-maximisation and antifreeze
+Variational methods for Reinforcement Learning
+Lagrange Dual Decomposition for Finite Horizon Markov Decision Processes
+Planning and acting in partially observable stochastic domains
+Q-learning

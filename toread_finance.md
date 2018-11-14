@@ -94,3 +94,9 @@ Risk Management Based on Expert Rules and Data Mining: A Case Study in Insurance
 Correlation and dependence in risk management: properties and pitfalls
 Quantitative Risk Management: Concepts, Techniques and Tools (book - http://www.qrmtutorial.org/)
 Portfolio selection
+Automatic differentiation for computational finance
+Adjoints and automatic (algorithmic) differentiation in computational finance
+Fast Greeks by algorithmic differentiation
+Option Pricing: A Simplified Approach
+The Pricing of Options and Corporate Liabilities
+Options, Futures, and Other Derivatives

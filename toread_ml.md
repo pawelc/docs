@@ -40,8 +40,14 @@ Learning multiple layers of features from tiny
 GTM the generative topographic mapping
 Probabilistic Reasoning in Intelligent Systems
 Causal feature selection
-No more pesky learning rates
 Random search for hyper-parameter optimization
 Practical Bayesian optimization of machine learning algorithms
 Improved Gaussian mixture density estimates using Bayesian penalty terms and network averaging
 Linearly combining density estimators via stacking
+Regression quantiles
+Theoretical comparison between the Gini Index and Information Gain criteria
+Optimization for Machine Learning
+Optimization methods for large-scale machine learning
+Accelerated training of conditional random fields with stochastic gradient methods
+Gaussian processes for machine learning
+https://medium.com/deep-learning-turkey/google-colab-free-gpu-tutorial-e113627b9f5d

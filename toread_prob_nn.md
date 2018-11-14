@@ -7,8 +7,6 @@ Does the wake-sleep algorithm produce good density estimators
 Modeling high-dimensional discrete data with multi-layer neural networks
 Discussion of the neural autoregressive distribution estimator
 A neural autoregressive topic model
-Cumulative Distribution Networks and the Derivative-sum-product Algorithm Models and Inference for Cumulative Distribution Functions on Graphs
-Mixed Cumulative Distribution Networks
 cumulative density networks - read about them
 Neural network copula portfolio optimization for exchange traded funds
 Copula Bayesian Networks
@@ -73,9 +71,11 @@ Recurrent Estimation of Distributions
 Probabilistic Deep Learning using Random Sum-Product Networks
 Density estimation using Real NVP
 Deep autoregressive networks
-Stochastic backpropagation and approximate inference in deep generative models
-Auto-encoding variational bayes
 Generalized denoising autoencoders as generative models
 Deep generative stochastic networks trainable by backprop
 Integrating Probabilistic Rules into Neural Networks: A Stochastic EM Learning Algorithm 
 Modelling the uncertainty in recovering articulation from acoustics
+Probabilistic interpretation of feedforward classification network outputs, with relationships to statistical pattern recognition
+Modeling Temporal Dependencies in High-Dimensional Sequences Application to Polyphonic Music Generation and Transcription
+Multimodal transitions for generative stochastic networks
+Iterative neural autoregressive distribution estimator NADE-k

@@ -74,3 +74,4 @@ variables can be approximated with NN with at most k hidden layers and positive 
 to determine monotonicity of individual independent variables. They demonstrate that partially monotone NN achieve smaller
 errors and variance than unconstrained NNs. I haven't read the paper 100% because a lot of proofs which I don't need at the momemnt.
 Although there are some interesting results about partial monotonicity which could be beneficial for conditional modeling.
+
