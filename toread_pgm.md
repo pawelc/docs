@@ -13,7 +13,6 @@ Ancestral Graph Markov Models
 D. R. Cox and N. Wermuth. Multivariate Dependencies. Chapman and Hall, 1996
 J. Whittaker. Graphical Models in Applied Multivariate Statistics. John Wiley & Sons, 1990
 Gibbs and Markov Random Systems with Constraints
-Multi-prediction deep boltzmann machines
 Nonlinear dynamic boltzmann machines for time-series prediction
 A learning algorithm for Boltzmann machines
 Learning and relearning in Boltzmann machines
@@ -28,9 +27,10 @@ Improved learning of Gaussian-Bernoulli restricted Boltzmann machines
 An analysis of Gaussian-binary restricted Boltzmann machines for natural images
 A fast learning algorithm for deep belief nets
 Deep Boltzmann machines
+Modeling documents with a deep boltzmann machine
+Multi-prediction deep boltzmann machines
 The Helmholtz machine
 Varieties of Helmholtz machine
-Neural variational inference and learning in belief networks
 Reweighted wake-sleep
 A new learning algorithm for mean-field Boltzmann machines
 In all likelihood, deep belief is not enough
@@ -59,6 +59,12 @@ Structural Equations with Latent Variables
 Causal reasoning with ancestral graphs
 Finding latent causes in causal networks: an efficient approach based on Markov blankets
 Wishart distributions for covariance graph models
-Learning with tree-averaged densities and distributions
 On a dualization of graphical Gaussian models
-Factorial mixture of Gaussians and the marginal independence model
+Local Markov property for models satisfying the composition axiom
+Bayesian inference for Gaussian mixed graph models
+Iterative conditional fitting for Gaussian ancestral graph models
+A Monte Carlo method for computing the marginal likelihood in nondecomposable Gaussian graphical models
+Influence Diagrams and d-Separation
+Extending factor graphs so as to unify directed and undirected graphical models
+Local computations with probabilities on graphical structures and their application to expert systems
+Exponential family harmoniums with an application to information retrieval

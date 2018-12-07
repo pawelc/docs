@@ -100,3 +100,4 @@ Fast Greeks by algorithmic differentiation
 Option Pricing: A Simplified Approach
 The Pricing of Options and Corporate Liabilities
 Options, Futures, and Other Derivatives
+Financial Engineering with Copulas Explained

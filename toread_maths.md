@@ -1,3 +1,5 @@
+http://bjlkeng.github.io/posts/the-calculus-of-variations/
+http://julian.tau.ac.il/bqs/functionals/functionals.html
 Practical Methods of Optimization
 Monotonic optimization: problems and solution approaches
 Application of differentiation arithmetic

@@ -9,9 +9,7 @@ Discussion of the neural autoregressive distribution estimator
 A neural autoregressive topic model
 cumulative density networks - read about them
 Neural network copula portfolio optimization for exchange traded funds
-Copula Bayesian Networks
 Copulas-based ensemble of Artificial Neural Networks for forecasting real world time series
-Copula Bayesian Networks
 Deep Lattice Networks and Partial Monotonic Functions
 Monotonic Recurrent Bounded Derivative Neural Network
 Neural Autoregressive Distribution Estimation
@@ -79,3 +77,15 @@ Probabilistic interpretation of feedforward classification network outputs, with
 Modeling Temporal Dependencies in High-Dimensional Sequences Application to Polyphonic Music Generation and Transcription
 Multimodal transitions for generative stochastic networks
 Iterative neural autoregressive distribution estimator NADE-k
+Masked autoregressive flow for density estimation
+Parallel wavenet: Fast high-fidelity speech synthesis
+Generative adversarial nets
+Pixel recurrent neural networks
+One-step neural network inversion with PDF learning and emulation
+High-dimensional probability estimation with deep density models
+PixelCNN++: Improving the PixelCNN with discretized logistic mixture likelihood and other modifications
+Conditional Image Generation with PixelCNN Decoders
+PixelSNAIL An Improved Autoregressive Generative Model
+# [Neural Autoregressive Flows](https://arxiv.org/abs/1804.00779)
+2018.04.03
+Learning stochastic feedforward networks

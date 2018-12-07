@@ -1,3 +1,5 @@
+Fundamentals of Statistical Exponential Families
+http://bjlkeng.github.io/posts/the-expectation-maximization-algorithm/
 Simple, Distributed, and Accelerated Probabilistic Programming
 The t Copula and Related Copulas
 Reverend Bayes on inference engines: A distributed hierarchical approach
@@ -55,14 +57,11 @@ Stochastic relaxation, Gibbs distributions, and the Bayesian restoration of imag
 Sinh-arcsinh distributions
 Understanding the Metropolis-Hastings algorithm
 Stochastic volatility: Bayesian computation using automatic differentiation and the extended Kalman filter
-Amortized inference in probabilistic reasoning
-Learning stochastic inverses
 Inference compilation and universal probabilistic programming
 Deep amortized inference for probabilistic programs
 Probabilistic programming
 Stan: A probabilistic programming language
 Nonstandard interpretations of probabilistic programs for efficient inference
-Automatic differentiation variational inference
 Probabilistic programming in Python using PyMC3
 http://pyro.ai/
 Learning disentangled representations with semi-supervised deep generative models
@@ -74,7 +73,28 @@ understandinguncertainty.org
 Causality: Models, Reasoning and Inference
 The Foundations of Statistics
 Causation, Prediction and Search
-Multivariate Models and Dependence Concepts
 TrueSkillTM: A Bayesian skill rating system
 All of Statistics: A Concise Course in Statistical Inference
-Probability, Random Variables and Stochastic Processes
+Ordered families of distributions
+Stochastic orders and their applications
+Noncentered parameterisations for hierarchical models and data augmentation
+A family of nonparametric density estimation algorithms
+Density estimation by dual ascent of the log-likelihood
+MCMC using hamiltonian dynamics
+NICE: Non-linear independent components estimation
+Correlation and causation
+Bayesian structural equation modeling
+Multivariate Models and Dependence Concepts
+Modelling Multivariate Extreme Value Distributions
+Some analytical properties of bivariate extreme distributions
+MCMC for doubly-intractable distributions
+Families of multivariate distributions
+A MCMC approach for learning the structure of Gaussian acyclic directed mixed graphs
+GaP A Factor Model for Discrete Data
+Monte Carlo Statistical Methods
+Bayesian learning via stochastic gradient Langevin dynamics
+Scalable inference in latent variable models
+On information and sufficiency
+Sampling based approaches to calculating marginal densities
+Conjugate priors for exponential families
+Bayesian Theory

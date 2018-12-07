@@ -306,12 +306,6 @@ RESEARCH IDEA: Test the idea with stochastically adjusting learning rate and mom
 Model with componential hidden state =>  it has an exponentially large state space.
 “Models that use latent variables to propagate information through time”
 
-# An Introduction to Variational Methods for Graphical Models
-Representing neural network as sigmoid belief net. The inference is intractable because during moralization all the parents become connected.
-RESEARCH IDEA: Training neural networks as probabilistic methods using approximate methods like variational methods.
-Variational method can be used to aproximate posterior and intractable energy term and enable tractable inference and learning.
-Variational methods transform local probabilities so the inference becomes tractable and possible we can use exact methods.
-
 # Nonlinear Multilayered Sequence Models
 When building representations for temporal data it is important that every feature vector for every arriving data point uses information from the previous data points and their representations.
 When graphical models with hidden features are fitted to the data their hidden states act as useful features. There is no theory explaining this fact.

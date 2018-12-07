@@ -1,3 +1,4 @@
+Idiosyncrasies and challenges of data driven learning in electronic trading
 https://github.com/tspooner/rl_markets
 https://github.com/Kismuz/btgym
 Policy Gradients with Variance Related Risk Criteria
@@ -75,3 +76,5 @@ Variational methods for Reinforcement Learning
 Lagrange Dual Decomposition for Finite Horizon Markov Decision Processes
 Planning and acting in partially observable stochastic domains
 Q-learning
+Reinforcement Learning for High-Frequency Market Making
+Latent Space Policies for Hierarchical Reinforcement Learning

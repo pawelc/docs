@@ -1,7 +1,6 @@
 The Kanerva Machine: A Generative Distributed Memory
 What Uncertainties Do We Need in Bayesian Deep Learning for Computer Vision
 Learning Stochastic Recurrent Networks
-Variational Recurrent Auto-Encoders
 DRAW: A Recurrent Neural Network For Image Generation
 Learning visual motion in recurrent neural networks
 Modeling temporal dependencies in high-dimensional sequences: Application to polyphonic music generation and transcription
@@ -9,14 +8,12 @@ Bayesian Data Analysis Straight-line Fitting
 Neural GPUs Learn Algorithms
 Learning Wake-Sleep Recurrent Attention Models
 Learning Structured Output Representation using Deep Conditional Generative Models
-An Uncertain Future: Forecasting from Static Images using Variational Autoencoders
 Learning to Predict by the Methods of Temporal Differences
 Evolving Neural Turing Machines for Reward-based Learning
 Scaling Memory-Augmented Neural Networks with Sparse Reads and Writes
 Can Active Memory Replace Attention
 Pointer networks
 Neural Machine Translation by Jointly Learning to Align and Translate
-Neural Variational Inference for Text Processing
 Hard attention:    
 Show, Attend and Tell: Neural Image Caption Generation with Visual Attention
 LIE-ACCESS NEURAL TURING MACHINES
@@ -132,7 +129,6 @@ Curriculum Learning
 Active Learning Literature Survey
 Unifying Count-Based Exploration and Intrinsic Motivation
 Automated Curriculum Learning for Neural Networks
-VIME Variational Information Maximizing Exploration
 https://github.com/salesforce/pytorch-qrnn
 http://people.idsia.ch/~juergen/rnn.html
 Learning to Control Fast-Weight Memories An Alternative to Dynamic Recurrent Networks
@@ -183,7 +179,6 @@ Deep Computational Phenotyping
 An overview and comparative analysis of Recurrent Neural Networks for Short Term Load Forecasting
 Predicting Remaining Useful Life using Time Series Embeddings based on Recurrent Neural Networks
 m-TSNE: A Framework for Visualizing High-Dimensional Multivariate Time Series
-Variational Recurrent Adversarial Deep Domain Adaptation
 Grounded Recurrent Neural Networks
 Second-order training for recurrent neural networks without teacher-forcing
 Modeling Progression Free Survival in Breast Cancer with Tensorized Recurrent Neural Networks and Accelerated Failure Time Models
@@ -257,7 +252,6 @@ Concrete problems in ai safety
 Time-series Extreme Event Forecasting with Neural Networks at Uber
 A neural probabilistic language model
 Distilling the Knowledge in a Neural Network
-Neural Variational Inference and Learning in Belief Networks
 Inserting rules into recurrent neural networks
 Rule refinement with recurrent neural networks
 On Learning to Think Algorithmic Information Theory for Novel Combinations of Reinforcement Learning Controllers and Recurrent Neural World Models
@@ -428,7 +422,7 @@ Convolutional Recurrent Neural Networks: Learning Spatial Dependencies for Image
 Emergence of Complex-Like Cells in a Temporal Product Network with Local Receptive Fields
 Multidimensional, Downsampled Convolution for Autoencoders
 Perception in chess
-Auto Encoding variational bayes with example from the book and “Tutorial on Variational Autoencoders”
+
 Contractive Auto-Encoders: Explicit Invariance During Feature Extraction
 Stacked Convolutional Auto-Encoders for Hierarchical Feature Extraction
 GSNs: Generative Stochastic Networks
@@ -578,7 +572,6 @@ Scaling up spike-and-slab models for unsupervised feature learning
 Generative Models for Discovering Sparse Distributed Representations
 Generating Text with Recurrent Neural Networks
 Exploring Models and Data for Image Question Answering
-An exact mapping between the Variational Renormalization Group and Deep Learning
 Neural Episodic Control
 Towards Biologically Plausible Deep Learning
 Distributional Smoothing with Virtual Adversarial Training
@@ -675,7 +668,6 @@ Survey on speech emotion recognition: Features, classification schemes, and data
 Adieu features? end-to-end speech emotion recognition using a deep convolutional recurrent network
 Abandoning emotion classes-towards continuous emotion recognition with modelling of long-range dependencies
 High-level feature representation using recurrent neural network for speech emotion recognition
-Fast second order stochastic backpropagation for variational inference
 Text-to-speech conversion with neural networks: A recurrent tdnn approach
 Speech synthesis using artificial neural networks trained on cepstral coefficients
 Unidirectional long short-term memory recurrent neural network with recurrent output layer for low-latency speech synthesis
@@ -685,7 +677,6 @@ A first look at music composition using lstm recurrent neural networks
 Dag-recurrent neural networks for scene labeling
 Quaddirectional 2d-recurrent neural networks for image labeling
 Scene labeling with lstm recurrent neural networks
-Pixel recurrent neural networks
 Outrageously Large Neural Networks: The Sparsely-Gated Mixture-of-Experts Layer
 Identification and control of dynamical systems using neural networks
 https://www.oreilly.com/learning/introduction-to-local-interpretable-model-agnostic-explanations-lime
@@ -696,10 +687,6 @@ celery, dask, ray python lib
 Drawing connections for regression in deep NN, kernel methods and Gaussian processes. All methods are connected and can be derived
 from each other.
 Elements of Statistical Learning
-Generative adversarial nets
-Variational inference with normalizing flows
-Improving variational inference with inverse autoregressive flow
-Variational inference for Monte Carlo objectives
 IMPORTANCE WEIGHTED AUTOENCODERS
 Missing values in nonlinear factor analysis
 Training energy-based models for time-series imputation

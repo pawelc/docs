@@ -35,7 +35,6 @@ EM algorithms for ML factor analysis
 Evaluation and selection of biases in machine learning
 Maximum likelihood from incomplete data via the EM algorithm
 Annealing between distributions by averaging moments
-Exponential family harmoniums with an application to information retrieval
 Learning multiple layers of features from tiny 
 GTM the generative topographic mapping
 Probabilistic Reasoning in Intelligent Systems
@@ -51,3 +50,26 @@ Optimization methods for large-scale machine learning
 Accelerated training of conditional random fields with stochastic gradient methods
 Gaussian processes for machine learning
 https://medium.com/deep-learning-turkey/google-colab-free-gpu-tutorial-e113627b9f5d
+Learning to rank using gradient descent
+Adaptivemixtures of local experts
+Trees, Mixtures of Trees and Non-parametric Bayesian Learning
+Probabilistic Networks and Expert Systems
+Posterior Sampling When the Normalizing Constant is Unknown
+Automatic choice of dimensionality for PCA
+A stochastic approximation method
+Differential geometry of curved exponential families-curvatures and information loss
+Introduction to Stochastic Search and Optimization: Estimation, Simulation and Control
+Large scale online learning
+Probabilistic topic models
+Learning the parts of objects by non-negative matrix factorization
+Data Analysis Using Regression and MultilevelHierarchical Models
+Dynamic topic models
+Bayesian probabilistic matrix factorization using Markov chain Monte Carlo
+Largescale feature learning with spike-and-slab sparse coding
+Generalized spike-andslab priors for bayesian group feature selection using expectation propagation
+Information processing in dynamical systems: Foundations of harmony theory
+Decision Trees and Forests: A Probabilistic Perspective
+Bayesian Learning in Probabilistic Decision Trees
+Pachinko Allocation DAG-Structured Mixture Models of Topic Correlations
+Bayesian exponential family PCA
+Applying discrete PCA in data analysis
