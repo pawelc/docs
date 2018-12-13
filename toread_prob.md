@@ -46,7 +46,6 @@ Learning Structured Prediction Models A Large Margin
 On the mathematical foundations of theoretical statistics
 Philosophy and the practice of Bayesian statistics
 Statistical Inference
-Probability and Measure
 Density Estimation for Statistics and Data Analysis
 Pattern Classification
 Probabilistic graphical models principles and techniques
@@ -58,14 +57,11 @@ Sinh-arcsinh distributions
 Understanding the Metropolis-Hastings algorithm
 Stochastic volatility: Bayesian computation using automatic differentiation and the extended Kalman filter
 Inference compilation and universal probabilistic programming
-Deep amortized inference for probabilistic programs
 Probabilistic programming
 Stan: A probabilistic programming language
 Nonstandard interpretations of probabilistic programs for efficient inference
 Probabilistic programming in Python using PyMC3
-http://pyro.ai/
 Learning disentangled representations with semi-supervised deep generative models
-REBAR: Low-variance, unbiased gradient estimates for discrete latent variable models
 Backpropagation through the void: Optimizing control variates for black-box gradient estimation
 Understanding Probability
 From Laplace To Supernova Sn 1987A Bayesian Inference In Astrophysics
@@ -81,7 +77,6 @@ Noncentered parameterisations for hierarchical models and data augmentation
 A family of nonparametric density estimation algorithms
 Density estimation by dual ascent of the log-likelihood
 MCMC using hamiltonian dynamics
-NICE: Non-linear independent components estimation
 Correlation and causation
 Bayesian structural equation modeling
 Multivariate Models and Dependence Concepts
@@ -98,3 +93,4 @@ On information and sufficiency
 Sampling based approaches to calculating marginal densities
 Conjugate priors for exponential families
 Bayesian Theory
+Construction of asymmetric copulas

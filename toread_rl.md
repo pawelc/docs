@@ -46,7 +46,6 @@ Asynchronous Methods for Deep Reinforcement Learning
 Algorithm Trading using Q-Learning and Recurrent Reinforcement Learning
 Reinforcement Learning An Introduction Second edition (http://www.incompleteideas.net/book/ https://github.com/ShangtongZhang/reinforcement-learning-an-introduction )
 Building Machines That Learn and Think Like People
-Gradient Estimation Using Stochastic Computation Graphs
 Deterministic Policy Gradient Algorithms
 Variance Reduction Techniques for Gradient Estimates in Reinforcement Learning
 Continuous control with deep reinforcement learning

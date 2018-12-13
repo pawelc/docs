@@ -1,5 +1,4 @@
 https://en.wikipedia.org/wiki/Universal_approximation_theorem
-Approximation by Superpositions of a Sigmoidal Function
 Approximation capabilities of multilayer feedforward networks
 Universal approximation of an unknown mapping and its derivatives using multilayer feedforward networks
 Degree of approximation results for feedforward networks approximating unknown mappings and their derivatives
@@ -13,7 +12,6 @@ Efficient Pattern Recognition Using a New Transformation Distance
 Financial Market Applications of Learning from Hints Neural Networks in the Capital Markets
 Knowledge Incorporation into Neural Networks From Fuzzy Rules
 Application of MLP networks to bond rating and house pricing
-Multilayer feedforward networks are universal approximators
 Calibrating artificial neural networks by global optimization   
 https://deepmind.com/blog/population-based-training-neural-networks/
 Practical Recommendations for Gradient-Based Training of Deep Architectures
@@ -40,3 +38,13 @@ cuDNN: Efficient primitives for deep learning
 Binaryconnect: Training deep neural networks with binary weights during propagations
 Differentiable optimization as a layer in neural networks
 Transformation invariance in pattern recognition, tangent distance and tangent propagation
+Understanding the difficulty of training deep feedforward neural networks
+Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift
+Perceprrons
+Neural Machine Translation by Jointly Learning to Align and Translate
+A learned representation for artistic style
+Empirical evaluation of rectified activations in convolutional network
+Fast and accurate deep network learning by exponential linear units (elus)
+Hypernetworks
+Learning feed-forward one-shot learners
+Dynamic filter networks

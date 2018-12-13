@@ -9,12 +9,3 @@ gradient with respect to tied parameters like in RNN. Examples showing autodiff 
 
 Good survey of AD methods. How they refer to other methods like backpropagation. History. Application in different areas
 of machine learning. Summarize in my thesis.
-
-# Deep Exponential Families
-Using different distributions from exponential families  for latent variables we can recover different models.
- Bernoulli latent variables recover the classical sigmoid belief network
-Gamma  latent variables give something akin to deep version of nonnegative matrix factorization
-Gaussian latent variables lead to the types of models that have recently been explored in the context Deep Exponential Families of computer vision
-Using sparse gamma (shape less than 1) to model variables and weights
-The explaining away makes inference harder in DEFs then in RBMs but forces a more parsimonious representation where similar features compete to explain the data rather than work in tandem (possibly read  [12, 1] references)
-Somewhat related, we find sigmoid DEFs (with normal weights) to be more difficult to train and deeper version perform poorly (worth to check why)

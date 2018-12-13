@@ -13,6 +13,9 @@ NN as model with inference. Shows that RNN directly recovere inference of HMM (f
 Mapping VI with Stochastic Regularization Techniques like dropout. Should  be implementable for DNC.
 There are a lot of references in this work worth reading. It would be nice to read later to the end especially about usage 
 
+# [Multilayer Feedforward Networks are Universal Approximators]
+The rigorous proof using advanced math of the NN being universal approximators on Borel measurable functions.
+
 # [Monotonicity Hints](https://papers.nips.cc/paper/1270-monotonicity-hints.pdf)
 1997
 Authors derive cost function so the NN can meet monotonicity constraint in a soft way by penalizing cost function if not met.

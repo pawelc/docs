@@ -13,12 +13,10 @@ Copulas-based ensemble of Artificial Neural Networks for forecasting real world 
 Deep Lattice Networks and Partial Monotonic Functions
 Monotonic Recurrent Bounded Derivative Neural Network
 Neural Autoregressive Distribution Estimation
-MADE Masked Autoencoder for Distribution Estimation
 Neural Networks for Density Estimation
 Recursive Neural Networks for Density Estimation Over Generalized Random Graphs
 Estimating monotonic functions and their bounds
 The Capacity of Monotonic Functions
-TensorFlow Distributions
 https://medium.com/tensorflow/introducing-tensorflow-probability-dca4c304e245
 A neural network approach to statistical pattern classification by semiparametric estimation of probability density functions
 Modelling Conditional Probability Densities with Neural Networks
@@ -67,7 +65,6 @@ Bayesian methods for supervised neural networks
 https://github.com/tensorflow/magenta/tree/master/magenta/models/coconet
 Recurrent Estimation of Distributions
 Probabilistic Deep Learning using Random Sum-Product Networks
-Density estimation using Real NVP
 Deep autoregressive networks
 Generalized denoising autoencoders as generative models
 Deep generative stochastic networks trainable by backprop
@@ -77,12 +74,8 @@ Probabilistic interpretation of feedforward classification network outputs, with
 Modeling Temporal Dependencies in High-Dimensional Sequences Application to Polyphonic Music Generation and Transcription
 Multimodal transitions for generative stochastic networks
 Iterative neural autoregressive distribution estimator NADE-k
-Masked autoregressive flow for density estimation
-Parallel wavenet: Fast high-fidelity speech synthesis
 Generative adversarial nets
-Pixel recurrent neural networks
 One-step neural network inversion with PDF learning and emulation
-High-dimensional probability estimation with deep density models
 PixelCNN++: Improving the PixelCNN with discretized logistic mixture likelihood and other modifications
 Conditional Image Generation with PixelCNN Decoders
 PixelSNAIL An Improved Autoregressive Generative Model

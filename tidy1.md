@@ -13,7 +13,6 @@ Evolving Neural Turing Machines for Reward-based Learning
 Scaling Memory-Augmented Neural Networks with Sparse Reads and Writes
 Can Active Memory Replace Attention
 Pointer networks
-Neural Machine Translation by Jointly Learning to Align and Translate
 Hard attention:    
 Show, Attend and Tell: Neural Image Caption Generation with Visual Attention
 LIE-ACCESS NEURAL TURING MACHINES
@@ -96,7 +95,6 @@ Gradient Flow in Recurrent Nets the Difficulty of Learning Long-Term Dependencie
 Stock Price Prediction via Discovering Multi-Frequency Trading Patterns
 Accelerating Recurrent Neural Networks A Memory-Efficient Approach
 Learning compact recurrent neural networks
-Unsupervised Learning in Recurrent Neural Networks
 Real-time interactive sequence generation and control with Recurrent Neural Network ensembles
 From Bayesian Sparsity to Gated Recurrent Nets
 Recurrent Additive Networks
@@ -374,7 +372,6 @@ Big Neural Networks Waste Capacity
 An empirical evaluation of recurrent network architectures
 Delving Deep into Rectifiers: Surpassing Human-Level Performance on ImageNet Classification
 Natural Neural Networks
-Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift
 On the diﬃculty of training Recurrent Neural Networks
 From Machine Learning to Machine Reasoning 
 Natural Language Processing (almost) from Scratch
@@ -386,7 +383,6 @@ A theoretically grounded application of dropout in recurrent neural networks
 Revisiting Distributed Synchronous SGD
 https://petewarden.com/2016/05/03/how-to-quantize-neural-networks-with-tensorflow/
 https://en.wikipedia.org/wiki/Xgboost
-Is object localization for free? – Weakly-supervised learning with convolutional neural networks
 End-to-end people detection in crowded scenes
 Fully Convolutional Networks for Semantic Segmentation
 Very Deep Convolutional Networks for Large-Scale Visual Recognition
@@ -547,7 +543,6 @@ Learning continuous phrase representations and syntactic parsing with recursive 
 Joint Language and Translation Modeling with Recurrent Neural Networks
 Deep visual-semantic alignments for generating image descriptions
 Deep Captioning with Multimodal Recurrent Neural Networks (m-RNN)
-Unsupervised learning of video representations using LSTMs
 Connnectionist Speech Recognition: A Hybrid Approach
 Probabilistic temporal reasoning
 Learning the structure of dynamic probabilistic networks
@@ -568,13 +563,11 @@ Phased LSTM Accelerating Recurrent Network Training for Long or Event-based Sequ
 Incremental construction of LSTM recurrent neural network
 Adaptive neural oscillator using continuoustime backpropagation learning
 The Handbook of Brain Theory and Neural Networks (Stochastic approximation and neural network learning)
-Scaling up spike-and-slab models for unsupervised feature learning
 Generative Models for Discovering Sparse Distributed Representations
 Generating Text with Recurrent Neural Networks
 Exploring Models and Data for Image Question Answering
 Neural Episodic Control
 Towards Biologically Plausible Deep Learning
-Distributional Smoothing with Virtual Adversarial Training
 On distinguishability criteria for estimating generative models
 Learning Representations by Recirculation
 Estimation of non-normalized statistical models using score matching
@@ -625,7 +618,6 @@ Recognizing recurrent neural networks (rRNN) Bayesian inference for recurrent ne
 Exchange rate forecasting using echo state networks for trading strategies
 Tensorflow: Large-scale machine learning on heterogeneous distributed systems
 The uncrowded window of object recognition
-Early Visual Concept Learning with Unsupervised Deep Learning
 InfoGAN Interpretable Representation Learning by Information Maximizing Generative Adversarial Nets
 https://distill.pub/2017/feature-visualization/
 On the computational power of neural nets
@@ -687,11 +679,9 @@ celery, dask, ray python lib
 Drawing connections for regression in deep NN, kernel methods and Gaussian processes. All methods are connected and can be derived
 from each other.
 Elements of Statistical Learning
-IMPORTANCE WEIGHTED AUTOENCODERS
 Missing values in nonlinear factor analysis
 Training energy-based models for time-series imputation
 Generalized denoising auto-encoders as generative models
-Understanding the difficulty of training deep feedforward neural networks
 A unifying review of linear gaussian models
 A new approach to linear filtering and prediction problems
 Predictive representations of state

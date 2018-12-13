@@ -142,6 +142,13 @@ The same idea as “Auto-Encoding Variational Bayes”
 Expressing gradient of expectation of function as expectation of gradient of a function (example: Gaussian gradient identities). 
 Stochastic backpropagation as in Auto-Encoding Variational Bayes paper
 
+# [Auxiliary Deep Generative Models]
+Another way of improving variation methods is to use more expressive variational distributions by adding auxiliary latent 
+variables. This enables more expressive approximate distributions even if we are using factorized Gaussian for each factor: 
+$q(\mathbf{z},\mathbf{a}|\mathbf{x})= q(\mathbf{z}|\mathbf{a},\mathbf{x})q(\mathbf{a}|\mathbf{x})$.
+Authors show how to perform semisupervised learning in this kind of models.
+
+
 #Variational Inference: A Review for Statisticians
 2017
 Review of the variational methods with sime derivations.

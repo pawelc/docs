@@ -73,3 +73,12 @@ Bayesian Learning in Probabilistic Decision Trees
 Pachinko Allocation DAG-Structured Mixture Models of Topic Correlations
 Bayesian exponential family PCA
 Applying discrete PCA in data analysis
+Scalable recommendation with poisson factorization
+Evaluation methods for topic models
+Collaborative filtering: A machine learning perspective
+LETOR: Benchmark dataset for research on learning to rank for information retrieval
+Learning to rank: from pairwise approach to listwise approach
+Learning to rank with nonsmooth cost functions
+A support vector method for multivariate performance measures
+Cumulated gain-based evaluation of IR techniques
+Nonlinear independent component analysis: Existence and uniqueness results

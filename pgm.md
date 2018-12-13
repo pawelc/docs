@@ -10,6 +10,14 @@ Read only about the section 4 about moebius parametrization.
 04.2008
 Not finished paper about Directed Mixed Graphs.
 
+#[Structured ranking learning using cumulative distribution networks]
+Rank complex objects (described by vectors). Ranking means construction preference graph which has directed edge from 
+object $i$ to object $j$ if there is preference on $i$ over $j$. 
+Each data point consist of preference graph over subset of objects. 
+During test time we receive list of objects with respective vectors and we have to return the preference graph
+over the given list. Authors propose encoding the problem of ranking object into CDN model which nodes are all pairwise 
+ranking between objects. Connections between the nodes in the CDN graph depicts dependencies between rankings.
+
 #[Cumulative distribution networks Graphical models for cumulative distribution functions]
 2009
 Intro to PhD exam to the Cumulative distribution networks and the derivative-sum-product algorithm..
@@ -68,4 +76,14 @@ Factor Graph which has bipartite structure with variable nodes and function node
  CDNs (product of CDFs which is itself a CDF) to CDF (Cumulative Distribution Fields), which special way of creating 
  factors of copulas is also copula. (when simply multiplying copula functions we generally do not end up with copula because
  marginals are not uniform anymore).
+ 
+#[Deep Exponential Families]
+2014
+Using different distributions from exponential families  for latent variables we can recover different models.
+ Bernoulli latent variables recover the classical sigmoid belief network
+Gamma  latent variables give something akin to deep version of nonnegative matrix factorization
+Gaussian latent variables lead to the types of models that have recently been explored in the context Deep Exponential Families of computer vision
+Using sparse gamma (shape less than 1) to model variables and weights
+The explaining away makes inference harder in DEFs then in RBMs but forces a more parsimonious representation where similar features compete to explain the data rather than work in tandem (possibly read  [12, 1] references)
+Somewhat related, we find sigmoid DEFs (with normal weights) to be more difficult to train and deeper version perform poorly (worth to check why)
  

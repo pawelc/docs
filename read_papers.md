@@ -463,9 +463,6 @@ Dealing with uncooperative distributions:
 x~p(x) and y = f(x) + noise (for example p is gaussian and f is sinus). No relation between x and f so unsupervised pre training can be fruitless.
 In such cases it is beneficial to mix unsupervised pretraining with supervised training. (partially supervised greedy training)
 They show that this approach show good results on predicting the price of cotton.
-
-# Semi-Supervised Learning with Deep Generative Models (not read)
-Paper to read because it can be related to “Auto-Encoding Variational Bayes”
 		
 # Context-dependent pre-trained deep neural networks for large-vocabulary speech recognition
 HMM - DNN model which combines neural network and HMM. Here NN provides observation probabilities.
