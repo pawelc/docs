@@ -1,6 +1,5 @@
 Bayesian neural networks and density networks
 On composite marginal likelihoods
-An overview of composite likelihood methods
 The neural autoregressive distribution estimator
 Learning representations by maximizing compression
 Does the wake-sleep algorithm produce good density estimators
@@ -82,3 +81,4 @@ PixelSNAIL An Improved Autoregressive Generative Model
 # [Neural Autoregressive Flows](https://arxiv.org/abs/1804.00779)
 2018.04.03
 Learning stochastic feedforward networks
+Dropout as a Bayesian Approximation: Representing Model Uncertainty in Deep Learning

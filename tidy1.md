@@ -359,11 +359,6 @@ Adaptive mixtures of local experts
 Phoneme Recognition Using Time Delay Neural Networks
 Boosted Backpropagation Learning for Training Deep Modular Networks
 Training Stochastic Model Recognition Algorithms as Networks can Lead to Maximum Mutual Information Estimation of Parameters
-Combining hidden Markov model and neural network classifiers
-A hybrid continuous speech recognition system using segmental neural nets with hidden Markov models
-Artificial Neural Networks and their Application to Sequence Recognition
-Time-Warping Network: A Hybrid Framework for Speech Recognition
-An introduction to the application of the theory of probabilistic functions of a Markov process to automatic speech recognition
 Identifying and attacking the saddle point problem in high-dimensional non-convex
 optimization
 All you need is a good init
@@ -455,10 +450,6 @@ Exploiting the past and the future in protein secondary structure prediction
 ReNet: A recurrent neural network based alternative to convolutional networks
 Markovian Models for Sequential Data
 Probable Networks and Plausible Predictions - a Review of Practical Bayesian Methods for Supervised Neural Networks
-The Echo State Approach to Analysing and Training Recurrent Neural Networks
-On the approximation capability of recurrent neural networks
-Forecasting with Recurrent Neural Networks 12 Tricks
-Gradient Flow in Recurrent Nets: the Difficulty of Learning Long-Term Dependencies
 Fast Model-based Protein Homology Detection without Alignment
 Fast Curvature Matrix-Vector Products for Second-Order Gradient Descent
 An Analysis of Noise in Recurrent Neural Networks: Convergence and Generalization
@@ -486,15 +477,6 @@ Parsing Natural Scenes and Natural Language with Recursive Neural Networks
 Large scale image annotation: learning to rank with joint word-image embeddings
 Bifurcations of Recurrent Neural Networks in Gradient Descent Learning
 Random walks: Training very deep nonlinear feed-forward networks with smart initialization
-The problem of learning long-term dependencies in recurrent networks
-Adaptive nonlinear system identiﬁcation with echo state networks
-Real-time computing without stable states: A new framework for neural computation based on perturbations
-Harnessing nonlinearity: Predicting chaotic systems and saving energy in wireless communication
-Echo state network (http://www.scholarpedia.org/article/Echo_state_network)
-Reservoir computing approaches to recurrent neural network training
-Re-visiting the echo state property
-Long Short-Term Memory in Echo State Networks: Details of a Simulation Study
-Training Recurrent Neural Networks
 On the importance of initialization and momentum in deep learning
 Artiﬁcial Neural Networks and their Application to Sequence Recognition
 Optimization and applications of echo state networks with leakyintegrator neurons
@@ -539,13 +521,6 @@ Bridging Long Time Lags by Weight Guessing and Long Short Term Memory
 http://karpathy.github.io/2015/05/21/rnn-effectiveness/
 A Novel Connectionist System for Unconstrained Handwriting Recognition
 The Prefrontal Cortex: Executive and Cognitive Functions, book: chapter: Working memory and executive control
-Learning continuous phrase representations and syntactic parsing with recursive neural networks
-Joint Language and Translation Modeling with Recurrent Neural Networks
-Deep visual-semantic alignments for generating image descriptions
-Deep Captioning with Multimodal Recurrent Neural Networks (m-RNN)
-Connnectionist Speech Recognition: A Hybrid Approach
-Probabilistic temporal reasoning
-Learning the structure of dynamic probabilistic networks
 An Introduction to the Theory of Point Processes: Volume I Elementary Theory and Methods, Second Edition
 Continuous Time Bayesian Networks
 Expectation Maximization and Complex Duration Distributions for Continuous Time Bayesian Networks
@@ -600,7 +575,6 @@ Comparison of correlation analysis techniques for irregularly sampled time serie
 Multiple imputation using chained equations issues and guidance for practice
 Pattern classification with missing data: a review
 Strategies for Handling Missing Data in Electronic Health Record Derived Data
-Deep Neural Networks for Acoustic Modeling in Speech Recognition The Shared Views of Four Research Groups
 Optimal and Robust Estimation With an Introduction to Stochastic Control Theory (book)
 Estimating or Propagating Gradients Through Stochastic Neurons for Conditional Computation
 Forecasting wind speed with recurrent neural networks
@@ -671,7 +645,6 @@ Quaddirectional 2d-recurrent neural networks for image labeling
 Scene labeling with lstm recurrent neural networks
 Outrageously Large Neural Networks: The Sparsely-Gated Mixture-of-Experts Layer
 Identification and control of dynamical systems using neural networks
-https://www.oreilly.com/learning/introduction-to-local-interpretable-model-agnostic-explanations-lime
 http://fxcmpy.tpq.io/00_quick_start.html
 Python for Finance: Analyze Big Financial Data new version
 https://www.wiley.com/en-gb/Advances+in+Financial+Machine+Learning-p-9781119482086

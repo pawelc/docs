@@ -1,4 +1,5 @@
 Products of Experts
+An overview of composite likelihood methods
 Training Products of Experts by Minimizing Contrastive Divergence
 http://www.scholarpedia.org/article/Product_of_experts
 Products of Experts Welling
@@ -10,7 +11,7 @@ An auxiliary variational method
 Exact inference and learning for cumulative distribution functions on loopy graphs
 A new algorithm for maximum likelihood estimation in Gaussian models for marginal independence
 Maximum-likelihood learning of cumulative distribution functions on graphs
-
+Training a 3-node neural network is NP-complete
 A factorization criterion for acyclic directed mixed graphs
 Inference, Sampling, and Learning in Copula Cumulative Distribution Networks (with code 
 https://github.com/stefanwebb/cumulativenet)

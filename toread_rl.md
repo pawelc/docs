@@ -77,3 +77,6 @@ Planning and acting in partially observable stochastic domains
 Q-learning
 Reinforcement Learning for High-Frequency Market Making
 Latent Space Policies for Hierarchical Reinforcement Learning
+Universal artificial intelligence: Sequential decisions based on algorithmic probability
+Reinforcement Learning State-Of-The-Art
+Dynamic programming

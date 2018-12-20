@@ -48,3 +48,15 @@ Fast and accurate deep network learning by exponential linear units (elus)
 Hypernetworks
 Learning feed-forward one-shot learners
 Dynamic filter networks
+Why Should I Trust You Explaining the Predictions of Any Classifier
+https://www.oreilly.com/learning/introduction-to-local-interpretable-model-agnostic-explanations-lime
+https://www.kaggle.com/emanceau/interpreting-machine-learning-lime-explainer
+https://github.com/marcotcr/lime
+Learning in linear networks: a survey
+Neural Network Design and the Complexity of Learning
+The loading problem for pyramidal neural networks
+Loading deep networks is hard
+Loading deep networks is hard: The pyramidal case
+Graphical models: foundations of neural computation
+Sum–product networks: A new deep architecture
+Leveraging hierarchical parametric networks for skeletal joints based action segmentation and recognition
