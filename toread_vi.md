@@ -49,7 +49,6 @@ Approximating posterior distributions in belief networks using mixtures
 Mean field variational Bayes for elaborate distributions
 https://dotnet.github.io/infer/default.html
 Non-conjugate variational message passing for multinomial and binary regression
-Divergence measures and message passing
 Latent-space variational Bayes
 Fast variational inference in the conjugate exponential family
 Online model selection based on the variational Bayes
@@ -98,3 +97,11 @@ A stochastic approximation method for inference in probabilistic graphical model
 http://pyro.ai/
 Pyro: Deep Universal Probabilistic Programming
 TensorFlow Distributions
+Variational approximations between mean field theory and the Junction Tree algorithm
+Convex Variational Bayesian Inference for Large Scale Generalized Linear Models
+Variational probabilistic inference and the qmr-dt network
+A variational method for learning sparse and overcomplete representations
+Variational EM algorithms for non-Gaussian latent variable models
+Concave Gaussian Variational Approximations for Inference in Large-Scale Bayesian Linear Models
+The IM Algorithm A variational approach to Information Maximization
+Constructing free-energy approximations and generalized belief propagation algorithms

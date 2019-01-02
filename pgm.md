@@ -1,10 +1,39 @@
+#[Products of Experts](https://ieeexplore.ieee.org/document/819532)
+**Product of distributions** can be better than mixture. In mixture each component independently try to explain all dimensions.
+In PoE each component (expert) can be responsible for the subset of the dimensions. Each expert can put 0 distribution
+on different aspects of the data (constraints) and when product is applied all constraints have to be met. The inference is
+easy which comes from the fact that hidden variables of different expert are independent given the data. Where for example
+in DAG model explaining away makes the inference difficult. The **generation of fantasy data from PoE is difficult** and normally 
+we have to use Gibbs sampling. Restricted Boltzman Machine is type of PoE. The gradient of the log probability of PoE is composed
+of the easy to compute term if each expert's likelihood can be easily differentiated and expectation of the the derivative of the loglikelihood 
+with respect to the model (coming from the normalization constant) which is difficult but can be approximated.
+
+#[Training Products of Experts by Minimizing Contrastive Divergence](https://dl.acm.org/citation.cfm?id=639730)
+Extension of work in "Products of Experts". Each expert has to be a little bit more complicated than for example
+Gaussian because product of Gaussians is still Gaussian and MoG can recover any complex smooth distribution.
+Here author presents that instead of maximizing the likelihood of data which is minimizing the KL divergence between the data distribution
+and the model generated distribution we can minimize the difference between the two KL divergences. KL(Q_0||Q_inf) - KL(Q_1||Q_inf) where
+Q is p(d|...). The Q_0 is the data distribution, the Q_1 is the distribution after running one full cycle of the Gibbs sampler and 
+Q_inf is the distribution of the model at equilibrium. This way the model will be taught to generate data samples and we get rid of
+difficult to compute expectation.
+
 #[Markov properties for acyclic directed mixed graphs]
 2003
 The paper proves local and global Markov properties for the acyclic directed mixed graph.
 
+# On Contrastive Divergence Learning
+Use CD to get biased ML solution and then use slow ML learning to fine tune.
+The distribution near the boundary of the simplex are more difficult to model. Research Idea: Show the location of the distribution I model.
+
 #[Binary models for marginal independence]
 10.2006
 Read only about the section 4 about moebius parametrization.
+
+#[Products of Experts Welling](http://www.scholarpedia.org/article/Product_of_experts)
+2007
+PoE act by carving the distribution and MoE by adding probability regions. The nice interpetetion of the maximum likelihood learning
+where first term is interpreted as increasing likelihood of the data for the model and decreasing the likelihood where the model
+already assigns high probability. Also contains more updated references about PoE.
 
 #[The Hidden Life of Latent Variables: Bayesian Learning with Mixed Graph Models](http://www.jmlr.org/papers/volume10/silva09a/silva09a.pdf)
 04.2008

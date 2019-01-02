@@ -21,7 +21,6 @@ A spike and slab restricted Boltzmann machine
 A Tutorial on Energy-Based Learning 
 Energy-Based Models in Document Recognition and Computer Vision
 A practical guide to training restricted Boltzmann machines
-Training products of experts by minimizing contrastive divergence
 Training restricted Boltzmann machines using approximations to the likelihood gradient
 Improved learning of Gaussian-Bernoulli restricted Boltzmann machines
 An analysis of Gaussian-binary restricted Boltzmann machines for natural images
@@ -68,3 +67,30 @@ Influence Diagrams and d-Separation
 Extending factor graphs so as to unify directed and undirected graphical models
 Local computations with probabilities on graphical structures and their application to expert systems
 Exponential family harmoniums with an application to information retrieval
+Causation, Prediction, and Search
+Constraint-Based Structural Learning in Bayesian Networks using Finite Data Sets
+Learning Bayesian Networks
+Learning Bayesian Networks: The Combination of Knowledge and Statistical Data
+On the Dirichlet prior and Bayesian regularization
+On Sensitivity of the MAP Bayesian Network Structure to the Equivalent Sample Size Parameter
+Learning the Bayesian Network Structure: Dirichlet Prior vs Data
+Bayesian Network Classifiers
+Supervised learning from incomplete data via an EM approach
+The EM Algorithm and Extensions
+A unified approach on fast training of feedforward and recurrent networks using EM algorithm
+A Monte Carlo implementation of the EM algorithm and the poor man’s data augmentation algorithms
+The EM algorithm for mixtures of factor analyzers
+Consistency of Pseudolikelihood Estimation of Fully Visible Boltzmann Machines
+Learning markov network structure using few independence tests
+Maximum Likelihood Bounded Tree-Width Markov Networks
+Hyper Markov Laws in the Statistical Analysis of Decomposable Graphical Models
+Expectation propagation for approximate bayesian inference
+Expectation propagation for exponential families
+Divergence measures and message passing
+Fractional Belief Propagation
+MRF Optimization via Dual Decomposition Message-Passing Revisited
+Fields of Experts
+Product of Gaussians for speech recognition
+Statistical models for partial membership
+When Does a Mixture of Products Contain a Product of Mixtures
+ML, PL, QL in Markov chain models

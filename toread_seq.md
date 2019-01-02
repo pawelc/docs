@@ -16,3 +16,4 @@ Connnectionist Speech Recognition: A Hybrid Approach
 Probabilistic temporal reasoning
 Learning the structure of dynamic probabilistic networks
 Deep Neural Networks for Acoustic Modeling in Speech Recognition The Shared Views of Four Research Groups
+Consistent and asymptotically normal parameter estimates for hidden Markov mixtures of Markov models

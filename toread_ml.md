@@ -19,7 +19,6 @@ Gaussian process networks
 Evaluating probabilities under high-dimensional latent variable models
 SHORTEN simple lossless and nearlossless waveform compression
 Deep mixtures of factor analysers
-The EM algorithm for mixtures of factor analyzers
 Mixture of factor analyzers Matlab implementation (http://lear.inrialpes.fr/ verbeek/code)
 Natural images, Gaussian mixtures and dead leaves
 No More Pesky Learning Rate
@@ -82,3 +81,28 @@ Learning to rank with nonsmooth cost functions
 A support vector method for multivariate performance measures
 Cumulated gain-based evaluation of IR techniques
 Nonlinear independent component analysis: Existence and uniqueness results
+A comparison of numerical optimizers for logistic regression
+The unified propagation and scaling algorithm
+Iterative Scaling and Coordinate Descent Methods for Maximum Entropy Models
+An introduction to conditional random fields for relational learning
+Conditional random fields: Probabilistic models for segmenting and labeling sequence data
+Discriminative training and maximum entropy models for statistical machine translation
+Idiots Bayes Not So Stupid After All
+Classification of Web Documents Using a Naive Bayes Method
+An experimental comparison of naive Bayesian and keyword-based anti-spam filtering with personal e-mail messages
+The EM algorithm in independent component analysis
+Optimization with EM and Expectation-Conjugate-Gradient
+Estimating the dimension of a model
+Are two Classifiers performing equally A treatment using Bayesian Hypothesis Testing
+Markov chain Monte Carlo in practice
+Independent component analysis, a new concept
+Learning sparse topographic representations with products of student-t distributions
+Learning overcomplete representations
+Energy-based models for sparse overcomplete representations
+Extreme components analysis
+Rate-coded restricted Boltzmann machines for face recognition
+Mining associated text and images with dual-wing harmoniums
+Products of hidden markov models
+Recognizing hand-written digits using hierarchical products of experts
+Restricted boltzmann machines for collaborative filtering
+Inference for clustered data using the independence loglikelihood

@@ -80,3 +80,4 @@ Latent Space Policies for Hierarchical Reinforcement Learning
 Universal artificial intelligence: Sequential decisions based on algorithmic probability
 Reinforcement Learning State-Of-The-Art
 Dynamic programming
+An introduction to stochastic control theory, path integrals and reinforcement learning

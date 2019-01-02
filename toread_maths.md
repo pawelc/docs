@@ -21,3 +21,7 @@ Memory efficient backpropagation through time
 On the implementation of automatic differentiation tools
 Graphical Newton
 Nesting forward-mode AD in a functional framework
+Discrete Mathematics
+S. Boyd and L. Vandenberghe. Convex Optimization. Cambridge University Press, 2004
+G. Strang. Linear Algebra and Its Applications. Brooks Cole, 1988.
+G. H. Golub and C. F. van Loan. Matrix Computations. Johns Hopkins University Press, 3rd edition, 1996.

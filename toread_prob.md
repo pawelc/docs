@@ -3,11 +3,9 @@ http://bjlkeng.github.io/posts/the-expectation-maximization-algorithm/
 Simple, Distributed, and Accelerated Probabilistic Programming
 The t Copula and Related Copulas
 Reverend Bayes on inference engines: A distributed hierarchical approach
-Expectation propagation for approximate bayesian inference
 Probabilistic inference using Markov Chain Monte Carlo methods
 Hybrid Monte Carlo
 The no-U-turn sampler Adaptively setting path lengths in Hamiltonian Monte Carlo
-A Monte Carlo implementation of the EM algorithm and the poor man’s data augmentation algorithms
 Sample-based non-uniform random variate generation
 Density forecasting in economics and finance
 Introduction to Mathematical Statistics
@@ -94,3 +92,27 @@ Sampling based approaches to calculating marginal densities
 Conjugate priors for exponential families
 Bayesian Theory
 Construction of asymmetric copulas
+Matrix Variate Distributions
+Information Theory and Statistics
+A Bayesian Method for the Induction of Probabilistic Networks from Data
+A maximum entropy approach to natural language processing
+Efficient Metropolis jumping rules
+Perfect slice samplers
+Nonuniversal critical dynamics in Monte Carlo simulations
+Generalization of the fortium-kasteleyn-swendson-wang representation and monte carlo algorithm
+Spatial statistics and Bayesian computation
+Slice sampling
+CONDENSATION Conditional Density Propagation for Visual Tracking
+A Tutorial on Particle Filtering and Smoothing Fifteen years later
+On the statistical analysis of dirty pictures
+Combining probability distributions A critique and an annotated bibliography
+Composite likelihood methods
+Spatial interaction and the statistical analysis of lattice systems
+Statistical analysis of non-lattice data
+Approximating likelihoods for large spatial data sets
+Pairwise conditional score functions: a generalization of the Mantel-Haenszel estimator
+Asymptotic properties of computationally efficient alternative estimators for a class of multivariate normal models
+A composite likelihood approach to (co)variance components estimation
+Geostatistics of extremes
+Pseudo-likelihood methods for the analysis of longitudinal binary data subject to nonignorable non-monotone missingness
+A robust pairwise likelihood method for incomplete longitudinal binary data arising in clusters

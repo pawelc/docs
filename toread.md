@@ -1,8 +1,3 @@
-Products of Experts
-An overview of composite likelihood methods
-Training Products of Experts by Minimizing Contrastive Divergence
-http://www.scholarpedia.org/article/Product_of_experts
-Products of Experts Welling
 Stochastic Backpropagation and Approximate Inference in Deep Generative Models
 Auto-Encoding Variational Bayes
 Black box variational inference
@@ -57,3 +52,7 @@ Normalizing flows on riemannian manifolds
 Early stopping as nonparametric variational inference
 Sylvester normalizing flows for variational inference
 Transformation Autoregressive Networks
+A characterization of the Dirichlet distribution through global and local parameter independence
+A note on pseudolikelihood constructed from marginal densities
+On composite marginal likelihoods
+Fitting and testing vast dimensional time-varying covariance models

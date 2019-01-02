@@ -250,12 +250,6 @@ My Thought: Describe experiments quite thoroughly.
 The SBN tolerated much bigger learning rates than Boltzmann machine.
 My Thought: The learning with SBN achieves better results than BM. Why then we use BM in pretraining of deep network and not SBN.
 
-Training Products of Experts by Minimizing Contrastive Divergence (not finished)
-Good explanation of CD
-PoE can be better than MoE for multidimensional distributions 
-Research Idea: Can we model multidimensional Time Series data using PoE
-Research Idea: Test time series on RBMs
-
 
 Extracting and Composing Robust Features with Denoising Autoencoders
 what criteria a good intermediate representation should satisfy: 
@@ -284,10 +278,6 @@ When learning the model with optimization problem composed of log likelihood and
 
 # Notes on Contrastive Divergence
 Explanation for CD
-
-# On Contrastive Divergence Learning
-Use CD to get biased ML solution and then use slow ML learning to fine tune.
-The distribution near the boundary of the simplex are more difficult to model. Research Idea: Show the location of the distribution I model.
 
 # IMPORTANCE OF INPUT DATA NORMALIZATION FOR THE APPLICATION OF NEURAL NETWORKS TO COMPLEX INDUSTRIAL PROBLEMS
  

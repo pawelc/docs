@@ -82,7 +82,6 @@ DeepCare A Deep Dynamic Memory Model for Predictive Medicine
 Directly Modeling Missing Data in Sequences with RNNs Improved Classification of Clinical Time Series
 Differential recurrent neural networks for action recognition
 https://machinelearningmastery.com/promise-recurrent-neural-networks-time-series-forecasting/
-Supervised learning from incomplete data via an EM approach
 Visualizing and Understanding Recurrent Networks (also video https://skillsmatter.com/skillscasts/6611-visualizing-and-understanding-recurrent-networks)
 Framewise phoneme classiﬁcation with bidirectional LSTM and other neural network architectures
 Training Recurrent Networks by Evolino
@@ -493,7 +492,6 @@ Speaker-Adaptation for Hybrid HMM-ANN Continuous Speech Recognition System
 Forward-Backward Retraining of Recurrent Neural Networks
 A Neural Network Based, Speaker Independent, Large Vocabulary, Continuous Speech Recognition System: the Wernicke Project
 Large Margin Hidden Markov Models for Automatic Speech Recognition
-Conditional Random Fields: Probabilistic Models for Segmenting and Labeling Sequence Data
 Capacity and complexity of HMM duration modeling techniques
 Neural network design for J function approximation in dynamic programming
 Modular DAG–RNN Architectures for Assembling Coarse Protein Structures
@@ -610,7 +608,6 @@ The induction of dynamical recognizers
 Discrete recurrent neural networks for grammatical inference
 Self-paced visual category discovery
 Recurrent neural network based language model
-A unified approach on fast training of feedforward and recurrent networks using EM algorithm
 An overview of gradient descent optimization algorithms
 Some methods of speeding up the convergence of iteration methods
 Safe and Efficient Off-Policy Reinforcement Learning

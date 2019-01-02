@@ -1,5 +1,4 @@
 Bayesian neural networks and density networks
-On composite marginal likelihoods
 The neural autoregressive distribution estimator
 Learning representations by maximizing compression
 Does the wake-sleep algorithm produce good density estimators
