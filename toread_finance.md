@@ -1,3 +1,5 @@
+Probabilistic Graphical Models: A New Way of Thinking in Financial Modelling 
+Bayesian Methods in Finance
 Modelling dependence with copulas and applications to risk management
 Price signatures
 Optimization of trading systems and portfolios

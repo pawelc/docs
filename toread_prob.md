@@ -116,3 +116,9 @@ A composite likelihood approach to (co)variance components estimation
 Geostatistics of extremes
 Pseudo-likelihood methods for the analysis of longitudinal binary data subject to nonignorable non-monotone missingness
 A robust pairwise likelihood method for incomplete longitudinal binary data arising in clusters
+Variance reduction techniques for digital simulation
+EM algorithms for PCA and SPCA
+Rao-blackwellisation of sampling schemes
+Simulation (book)
+de Haan, L. and Ferreira, A. (2006) Extreme value theory. Springer
+Coles, S.G. (2001) An introduction to statistical modelling of extreme values. Springer.

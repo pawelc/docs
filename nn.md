@@ -16,6 +16,12 @@ There are a lot of references in this work worth reading. It would be nice to re
 # [Multilayer Feedforward Networks are Universal Approximators]
 The rigorous proof using advanced math of the NN being universal approximators on Borel measurable functions.
 
+#[Training a 3-node neural network is NP-complete]()
+Authors prove that training network with 2 hidden neurons and 1 output neuron is NP-Complete by showing that it is equivalent 
+to the set spitting problem which is NP-Complete. They also show that using more complex structure problem can become of class P.
+The problem here is classification of binary input and the question is only if the set of weight exists to correctly classify
+training data. Finding the parameters is at least as difficult problem. Not read the full proof.
+
 # [Monotonicity Hints](https://papers.nips.cc/paper/1270-monotonicity-hints.pdf)
 1997
 Authors derive cost function so the NN can meet monotonicity constraint in a soft way by penalizing cost function if not met.

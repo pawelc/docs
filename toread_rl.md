@@ -81,3 +81,4 @@ Universal artificial intelligence: Sequential decisions based on algorithmic pro
 Reinforcement Learning State-Of-The-Art
 Dynamic programming
 An introduction to stochastic control theory, path integrals and reinforcement learning
+The optimal reward baseline for gradient-based reinforcement learning

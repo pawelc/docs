@@ -1,5 +1,7 @@
-https://en.wikipedia.org/wiki/Universal_approximation_theorem
+Learning internal representations by error propagation
+Approximations by superpositions of sigmoidal functions
 Approximation capabilities of multilayer feedforward networks
+Approximation with Artificial Neural Networks
 Universal approximation of an unknown mapping and its derivatives using multilayer feedforward networks
 Degree of approximation results for feedforward networks approximating unknown mappings and their derivatives
 Networks with trainable amplitude of activation functions
@@ -60,3 +62,9 @@ Loading deep networks is hard: The pyramidal case
 Graphical models: foundations of neural computation
 Sum–product networks: A new deep architecture
 Leveraging hierarchical parametric networks for skeletal joints based action segmentation and recognition
+Stacked denoising autoencoders: Learning useful representations in a deep network with a local denoising criterion
+Parallel networks that learn to pronounce English text
+Scaling relationships in backpropagation learning
+What size net gives valid generalization
+On the complexity of polyhedral separability
+Perceptrons An Introduction to Computational Geometry

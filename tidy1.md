@@ -323,7 +323,6 @@ Global optimization of a neural network-hidden Markov model hybrid
 Recurrent Backpropagation and the Dynamical Approach to Adaptive Neural Computation
 BPS: a learning algorithm for capturing the dynamical nature of speech
 Robust speech recognition based on joint model and feature space optimization of hidden Markov models
-Learning internal representations by error propagation
 Connectionist Viterbi training: a new hybrid method for continuous speech recognition
 Word recognition using hidden control neural architecture
 Links between Markov models and multilayer perceptrons

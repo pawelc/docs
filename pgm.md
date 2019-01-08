@@ -21,6 +21,14 @@ difficult to compute expectation.
 2003
 The paper proves local and global Markov properties for the acyclic directed mixed graph.
 
+#[A new algorithm for maximum likelihood estimation in Gaussian models for marginal independence]()
+Paper about bi-directed graphs with Gaussian dependencies. Here each vertex is colider so when any path between 2 nodes
+contains all the vertices in conditioning set than the nodes are m-connected otherwise they are m-separated. The global markov property
+is fulfilled by distribution for G if X_A independent of X_B given X_S when A is m-separated from B given S.
+We can create bidirected graph from the DAG with V(isible) and H(idden) nodes if V has no children by connecting V nodes which have common
+ancestors then such created graph composed only from V nodes has V_1 m-separated from V_2 given S <==> V_1 d-separated from V_2 given S in the DAG 
+graph. Couldn't understand the algo :(.  
+
 # On Contrastive Divergence Learning
 Use CD to get biased ML solution and then use slow ML learning to fine tune.
 The distribution near the boundary of the simplex are more difficult to model. Research Idea: Show the location of the distribution I model.
@@ -49,12 +57,25 @@ ranking between objects. Connections between the nodes in the CDN graph depicts 
 
 #[Cumulative distribution networks Graphical models for cumulative distribution functions]
 2009
-Intro to PhD exam to the Cumulative distribution networks and the derivative-sum-product algorithm..
+Intro to PhD exam to the Cumulative distribution networks and the derivative-sum-product algorithm.
 
 # [Cumulative Distribution Networks Inference, Estimation and Applications of Graphical Models for Cumulative Distribution Functions](http://www.psi.toronto.edu/publications/2009/PhDdocument_CDNs.pdf)
 2009
 
 Huang PhD Thesis. Thorough introduction to CDN. Now should read chapter 4 if have time.
+
+#[A factorization criterion for acyclic directed mixed graphs]()
+2009
+The ADMG contain the bidirected and directed edges. Authors show how to efficiently create factors for for a graph so the distribution
+created meets the global markov property for the given graph. A lot of definitions about the structural properties of ADMG.
+NRF
+
+#[Exact inference and learning for cumulative distribution functions on loopy graphs]()
+Authors show how to efficiently **compute mixed derivatives** in the **CDN** network which is not necessarily a tree.
+This is necessary to compute the likelihhod and to estimate the parameters. They show recursive (dynamic programming)
+formula to organize computations. This procedure is efficient for CDNs which are composed of many factors where each factor depend on small 
+subset of variables. Then we need to split at each time the graph to two partitions and combine derivatives for each partition 
+in a recursive fashion.
 
 # [Mixed Cumulative Distribution Networks](http://proceedings.mlr.press/v15/silva11a/silva11a.pdf)
 31.08.2010
@@ -65,6 +86,14 @@ encode independence assumptions in ADMG. Authors parametrize cdf using product o
 Authors extend Cumulative Density Networks to Acyclic Directed Mixed Graph.
 Authors show how to factorize ADMXG into product of subgraphs built on districts i.e. connected sets of variables by only 
 bidirected connections and the parents of such a district.
+
+#[Maximum-likelihood learning of cumulative distribution functions on graphs]()
+2010
+In this paper authors propose Gradient Derivative Product Algorithm to estimate parameters of the CDN model. This is next algorithm 
+after Derivative Sum Product algo for inference. The CDNs have equivalence in terms of the marginal independence to
+bidirected models or directed models where bidirected models' links are replaced with hidden variables and links from them to variables previously
+linked by bidirected edge. Haven't understood the algo because it requires understanding of DSP. Then authors run experiments on
+2 data sets (rainfalls and epidmology) and compare to other models like MRF and bidirected model.
 
 # [Exploiting Copula Parameterizations in Graphical Model Construction and Learning]
 2011

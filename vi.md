@@ -1,3 +1,7 @@
+#[An auxiliary variational method]()
+Adding auxiliary variable y to the model so \sum_y p(x,y)=p(x) then the q(x,y) can be simpler and q(x) is fully connected like in case
+of mixtures (y is a label).
+
 # Stochastic Variational Inference
 2012
 
@@ -34,6 +38,7 @@ https://charlesmartin14.wordpress.com/2015/04/01/why-deep-learning-works-ii-the-
 ·         “it is possible to directly monitor the overfitting by comparing the free energies of training data and held out validation data…If the model is not overfitting at all, the average free energy should be about the same on training and validation data”
 
 # Black Box Variational Inference
+2013
 “Maximizing the ELBO is equivalent to minimizing the KL divergence (Jordan et al., 1999; Bishop, 2006). Intuitively, the first term rewards variational distributions that place high mass on configurations of the latent variables that also explain the observations; the second term rewards variational distributions that are entropic, i.e., that maximize uncertainty by spreading their mass on many configurations.”
 The expectation with respect to varuational distribution in the ELBO has to be derived for each model in traditional variational apprach.
 Gradient of the ELBO can be written as expectation wrt variational distribution so we can use MC samples to get gradient.
@@ -41,6 +46,17 @@ The joint in the gradient can be replaced by unnormalized version.
 The  gradient ELBO is computed using expected value so we can use the MC. But the variance of such estimator is large and we have to apply variance reduction methods
 Uses Rao-Blackwellization and control variates to decrease the variance of gradient estimator (variance reduction methods work by replacing the function whose expectation is being approximated by Monte Carlo with another function that has the same expectation but smaller variance)
 Evaluate the models using predictive likelihood
+
+#[Neural Variational Inference and Learning in Belief Networks]()
+2014
+NVIL - Similar method to Black Box Variational Inference i.e. using REINFORCE estimator for the gradient of the ELBO. It also uses baselines 
+(control variates) but the baseline in this case in the neural network that depend on data. Authors also create algorithm
+that the leraning signal for parameters depends on the layer hence decreasing the variance further. They also scale the learning 
+signal.
+
+#[Automated variational inference in probabilistic programming]()
+How to run VI in the probabilistic program. Authors use some kind of RL algorithm with optimization of generic ELBO and descreasing the variance
+using the control variates. They test their approach on few models. 
 
 # Bayesian Time Series Models and Scalable Inference (Matthew James Johnson)
 Nice explanation of importance of conjugacy in variational inference
@@ -82,7 +98,7 @@ Can use inference networks with autoregressive connections within each layer.
 Use lower bound on log likelihood as model performance metric.
 
 # Auto-Encoding Variational Bayes
-
+2014
 Continuous latent variables.
 Efficient approximation of posterior distribution and marginal likelihood when EM or VB are not easy. For example for neural networks.
 Intractability and large data sets
@@ -137,10 +153,11 @@ Variational methods transform local probabilities so the inference becomes tract
 Authors notice the we can improve variational methods by using richer approximate posteriors by using normalizing
 flows i.e. series of invertible mappings of one random variable into another.
 
-# Stochastic Backpropagation and Approximate Inference in Deep Generative Models (not finished)
+# Stochastic Backpropagation and Approximate Inference in Deep Generative Models 
 The same idea as “Auto-Encoding Variational Bayes”
 Expressing gradient of expectation of function as expectation of gradient of a function (example: Gaussian gradient identities). 
-Stochastic backpropagation as in Auto-Encoding Variational Bayes paper
+Stochastic backpropagation as in Auto-Encoding Variational Bayes paper and using amortization. The model is deep model which latent variables 
+is the gaussian + tranformation of previous stochastic layer. 
 
 # [Auxiliary Deep Generative Models]
 Another way of improving variation methods is to use more expressive variational distributions by adding auxiliary latent 

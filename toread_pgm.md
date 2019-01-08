@@ -94,3 +94,10 @@ Product of Gaussians for speech recognition
 Statistical models for partial membership
 When Does a Mixture of Products Contain a Product of Mixtures
 ML, PL, QL in Markov chain models
+The nonparanormal Semiparametric estimation of high dimensional undirected graphs
+When can association graphs admit a causal interpretation
+D. M. Edwards (2000). Introduction to Graphical Modelling. Second edition. New York: Springer-Verlag
+Factor graphs and the sum-product algorithm
+Computing maximum likelihood estimates in recursive linear models with correlated errors
+Discrete chain graph models
+Causal graphical models with latent variables learning and inference

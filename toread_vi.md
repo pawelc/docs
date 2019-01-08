@@ -1,4 +1,3 @@
-Automated variational inference in probabilistic programming
 Gradient Estimation Using Stochastic Computation Graphs
 Deep amortized inference for probabilistic programs
 Fixed-form variational posterior approximation through stochastic linear regression
@@ -81,7 +80,6 @@ Sparse stochastic inference for latent Dirichlet allocation
 Structured stochastic variational inference
 Markov Chain Monte Carlo and Variational Inference: Bridging the Gap
 A variational Bayesian framework for graphical models
-An Auxiliary Variational Method
 Ladder variational autoencoders
 IMPORTANCE WEIGHTED AUTOENCODERS
 The variational Gaussian process
@@ -105,3 +103,12 @@ Variational EM algorithms for non-Gaussian latent variable models
 Concave Gaussian Variational Approximations for Inference in Large-Scale Bayesian Linear Models
 The IM Algorithm A variational approach to Information Maximization
 Constructing free-energy approximations and generalized belief propagation algorithms
+Variational inference for continuous sigmoidal Bayesian networks
+Optimization of structured mean field objectives
+On structured variational approximations
+Structured variational distributions in vibes
+Structured variational inference procedures and their realizations
+Autoencoders, minimum description length, and Helmholtz free energy
+Factorial Hidden Markov Models
+Mixture Representations for Inference and Learning in Boltzmann Machines
+Incorporating Expressive Graphical Models in Variational Approximations Chain-Graphs and Hidden Variables

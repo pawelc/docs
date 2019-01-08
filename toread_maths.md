@@ -1,3 +1,5 @@
+An Introduction to Measure Theory
+Real analysis for graduate students
 http://bjlkeng.github.io/posts/the-calculus-of-variations/
 http://julian.tau.ac.il/bqs/functionals/functionals.html
 Practical Methods of Optimization
@@ -25,3 +27,4 @@ Discrete Mathematics
 S. Boyd and L. Vandenberghe. Convex Optimization. Cambridge University Press, 2004
 G. Strang. Linear Algebra and Its Applications. Brooks Cole, 1988.
 G. H. Golub and C. F. van Loan. Matrix Computations. Johns Hopkins University Press, 3rd edition, 1996.
+Efficient symbolic differentiation for graphics applications

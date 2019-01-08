@@ -1,13 +1,3 @@
-Stochastic Backpropagation and Approximate Inference in Deep Generative Models
-Auto-Encoding Variational Bayes
-Black box variational inference
-Neural Variational Inference and Learning in Belief Networks
-An auxiliary variational method
-Exact inference and learning for cumulative distribution functions on loopy graphs
-A new algorithm for maximum likelihood estimation in Gaussian models for marginal independence
-Maximum-likelihood learning of cumulative distribution functions on graphs
-Training a 3-node neural network is NP-complete
-A factorization criterion for acyclic directed mixed graphs
 Inference, Sampling, and Learning in Copula Cumulative Distribution Networks (with code 
 https://github.com/stefanwebb/cumulativenet)
 https://www.youtube.com/watch?v=dkKRpPa_I_o
@@ -56,3 +46,9 @@ A characterization of the Dirichlet distribution through global and local parame
 A note on pseudolikelihood constructed from marginal densities
 On composite marginal likelihoods
 Fitting and testing vast dimensional time-varying covariance models
+On the Use of Neural Networks in the Analysis of Nonlinear Systems Realization, Approximation, and Feedback Control
+Bivariate Logistic Distributions
+Deep belief networks are compact universal approximators
+Refinements of universal approximation results for deep belief networks and restricted Boltzmann machines
+Universal approximation depth and errors of narrow belief networks with discrete units
+Approximation properties of DBNs with binary hidden units and real-valued visible units
