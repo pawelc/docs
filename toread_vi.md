@@ -112,3 +112,4 @@ Autoencoders, minimum description length, and Helmholtz free energy
 Factorial Hidden Markov Models
 Mixture Representations for Inference and Learning in Boltzmann Machines
 Incorporating Expressive Graphical Models in Variational Approximations Chain-Graphs and Hidden Variables
+Helmholtz machines and wake-sleep learning

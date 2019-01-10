@@ -20,7 +20,6 @@ Probability and Measure
 Approximation by superpositions of a sigmoidal function
 
 High-dimensional probability estimation with deep density models
-Variational inference with normalizing flows
 NICE: Non-linear independent components estimation
 Improved variational inference with inverse autoregressive flow
 Variational lossy autoencoder

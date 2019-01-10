@@ -122,3 +122,5 @@ Rao-blackwellisation of sampling schemes
 Simulation (book)
 de Haan, L. and Ferreira, A. (2006) Extreme value theory. Springer
 Coles, S.G. (2001) An introduction to statistical modelling of extreme values. Springer.
+Bayesian posterior sampling via stochastic gradient Fisher scoring
+Online learning Fokker-Planck machine
