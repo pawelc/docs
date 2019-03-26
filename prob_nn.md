@@ -132,7 +132,15 @@ TODO: Read it later because too time consuming for now.
 
 They show some method of transforming real values to vectors by bucketing. The paper is very weak.
 
-# [Connectionist multivariate density-estimation and its application to speech synthesis](https://www.era.lib.ed.ac.uk/handle/1842/15868)
+#[MADE Masked Autoencoder for Distribution Estimation]()
+Using Autoencoder with each weight matrix multiplied elementwise by the mask matrixes which cause that outputs
+depend on some prceding inputs with some ordering. Here they model binary data. This way the output is valid
+likelihood. There are several variants like using different masks. The hidden connections also can be 
+sampled during training so the model learns different ordering and over different connections. This mdoel has advantage 
+over the autoregressive model because it can compute the likelihood in one pass trough the network and not like
+deep RNADE which does O(D). Therefore it can have efficient GPU implementation.
+
+# [Connectionist multivariate deMADE Masked Autoencoder for Distribution Estimationnsity-estimation and its application to speech synthesis](https://www.era.lib.ed.ac.uk/handle/1842/15868)
 2016
 
 PhD Thesis about RNADE. Good overview of the connectionist density estimation methods. Author discusses his and other
@@ -182,6 +190,18 @@ passed through CDF it gives uniform and when uniform is passed through inverse o
 They revisit the work in "Density estimation and random variate generation using multilayer networks".
 The strongest part of this work is mathematical derivation of the bound of number of hidden neurons needed for given 
 approximation but haven't checked the derivation.
+
+# [Neural Autoregressive Flows](https://arxiv.org/abs/1804.00779)
+2018.04.03
+
+Generalization of the MAF and IAF normalizing flow. Here authors use NN as the transformation of the x_t and autoregressive
+part (parameters depending on the x_1 ... x_{t-1}). Authors use the model in density estimation and variational inference
+showing improvement over the previous models. Their approach also uses MADE to encode the parameters but the final tranformation
+is monotonic NN (so it is invertible). Of course to invert it the numerical procedure have to be used but it is not necessary
+for application of the model.
+Nice tutorial on flows:
+https://blog.evjang.com/2018/01/nf1.html
+https://blog.evjang.com/2018/01/nf2.html
 
 # [From CDF to PDF --- A Density Estimation Method for High Dimensional Data](https://arxiv.org/abs/1804.05316)
 2018.04.15

@@ -7,12 +7,11 @@ Analysis on Manifolds
 Uncertainty estimation using fuzzy measures for multiclass classification
 Monotone models for prediction in data mining
 Multivariate decision trees with monotonicity constraints
-RELIABLE INTEGRATION OF CONTINUOUS CONSTRAINTS INTO EXTREME LEARNING MACHINES
+RELIABLE INTEGRATION OF CONTINUOUS CONSTRAINTdS INTO EXTREME LEARNING MACHINES
 Methods of Conjugate Gradients for Solving Linear Systems
 TensorFlow Estimators Managing Simplicity vs. Flexibility in High-Level Machine Learning Frameworks
 Bayesian Filtering and Smoothing
 TFX: A TensorFlow-Based Production-Scale Machine Learning Platform
-From learning models of natural image patches to whole image restoration
 On the quantitative analysis of deep belief networks
 Mixtures of Conditional Gaussian Scale Mixtures Applied to Multiscale Image Representations
 Gaussian process networks
@@ -40,7 +39,7 @@ Probabilistic Reasoning in Intelligent Systems
 Causal feature selection
 Random search for hyper-parameter optimization
 Practical Bayesian optimization of machine learning algorithms
-Improved Gaussian mixture density estimates using Bayesian penalty terms and network averaging
+Improved Gaussian mixture density estimates using Bayesian penalty terms and netwoadamrk averaging
 Linearly combining density estimators via stacking
 Regression quantiles
 Theoretical comparison between the Gini Index and Information Gain criteria
@@ -106,3 +105,9 @@ Products of hidden markov models
 Recognizing hand-written digits using hierarchical products of experts
 Restricted boltzmann machines for collaborative filtering
 Inference for clustered data using the independence loglikelihood
+https://blog.evjang.com/ <- nice blogs about ML
+https://j-towns.github.io/2017/06/12/A-new-trick.html
+https://github.com/renmengye/tensorflow-forward-ad/issues/2
+https://datascience.stackexchange.com/questions/26792/difference-between-rmsprop-with-momentum-and-adam-optimizers
+http://ruder.io/optimizing-gradient-descent/index.html
+https://towardsdatascience.com/a-look-at-gradient-descent-and-rmsprop-optimizers-f77d483ef08b

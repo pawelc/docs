@@ -1,3 +1,7 @@
+Inference, Sampling, and Learning in Copula Cumulative Distribution Networks (with code 
+https://github.com/stefanwebb/cumulativenet)
+https://www.youtube.com/watch?v=dkKRpPa_I_o
+Copula Bayesian Networks
 Approximating discrete probability distributions with dependence trees
 Theory refinement on Bayesian networks
 Hidden Markov Decision Trees

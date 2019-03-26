@@ -103,3 +103,4 @@ Option Pricing: A Simplified Approach
 The Pricing of Options and Corporate Liabilities
 Options, Futures, and Other Derivatives
 Financial Engineering with Copulas Explained
+Moving Average Models for Volatility and Correlation, and Covariance Matrices

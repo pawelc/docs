@@ -82,3 +82,7 @@ Reinforcement Learning State-Of-The-Art
 Dynamic programming
 An introduction to stochastic control theory, path integrals and reinforcement learning
 The optimal reward baseline for gradient-based reinforcement learning
+Discrete Sequential Prediction of Continuous Actions for Deep RL
+Vision-Based Multi-Task Manipulation for Inexpensive Robots Using End-To-End Learning from Demonstration
+A Distributional Perspective on Reinforcement Learning
+Reinforcement Learning with Deep Energy-Based Policies

@@ -167,6 +167,13 @@ variables. This enables more expressive approximate distributions even if we are
 $q(\mathbf{z},\mathbf{a}|\mathbf{x})= q(\mathbf{z}|\mathbf{a},\mathbf{x})q(\mathbf{a}|\mathbf{x})$.
 Authors show how to perform semisupervised learning in this kind of models.
 
+#[Improved variational inference with inverse autoregressive flow]()
+2016
+
+Uses flow similar to inverse of autoregressive transformation to create flow for estimating high dimensional probability function which
+can be used for variational posterior approximation. They use MADE to create autoregressive mpas which output affine parameters of the
+invertible transforms. The have simple determinant jackobian so the created normalizing flow is simple to compute. The first parmaeters
+are encoded using normal neural network and the next use autoregressive MADE.
 
 #Variational Inference: A Review for Statisticians
 2017

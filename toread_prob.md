@@ -106,9 +106,7 @@ CONDENSATION Conditional Density Propagation for Visual Tracking
 A Tutorial on Particle Filtering and Smoothing Fifteen years later
 On the statistical analysis of dirty pictures
 Combining probability distributions A critique and an annotated bibliography
-Composite likelihood methods
 Spatial interaction and the statistical analysis of lattice systems
-Statistical analysis of non-lattice data
 Approximating likelihoods for large spatial data sets
 Pairwise conditional score functions: a generalization of the Mantel-Haenszel estimator
 Asymptotic properties of computationally efficient alternative estimators for a class of multivariate normal models
@@ -124,3 +122,15 @@ de Haan, L. and Ferreira, A. (2006) Extreme value theory. Springer
 Coles, S.G. (2001) An introduction to statistical modelling of extreme values. Springer.
 Bayesian posterior sampling via stochastic gradient Fisher scoring
 Online learning Fokker-Planck machine
+https://colab.research.google.com/github/tensorflow/probability/blob/master/tensorflow_probability/examples/jupyter_notebooks/Gaussian_Copula.ipynb#scrollTo=a4Ho39s02fg9
+Distilling intractable generative models
+Picture A probabilistic programming language for scene perception
+Gaussianization
+Density modeling of images using a generalized normalization transformation
+A note on the evaluation of generative models
+How Unlucky is 25-Sigma
+Categorical Reparameterization with Gumbel-Softmax
+The Concrete Distribution: A Continuous Relaxation of Discrete Random Variables
+https://www.inference.vc/high-dimensional-gaussian-distributions-are-soap-bubble/
+Topics in spatial statistics
+A note on composite likelihood inference and model selection

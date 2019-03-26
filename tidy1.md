@@ -182,7 +182,6 @@ Modeling Progression Free Survival in Breast Cancer with Tensorized Recurrent Ne
 End-to-end attention-based large vocabulary speech recognition
 Attention-Based Models for Speech Recognition
 Sequence to Sequence Learning with Neural Networks
-A note on the evaluation of generative models
 Mind’s Eye: A Recurrent Visual Representation for Image Caption Generation
 Time Series for Macroeconomics and Finance
 Scheduled Sampling for Sequence Prediction with Recurrent Neural Networks
@@ -619,7 +618,6 @@ A simple way to initialize recurrent networks of rectified linear units
 Improved transition-based parsing by modeling characters instead of words with lstms
 Applying convolutional neural networks concepts to hybrid nn-hmm model for speech recognition
 Learning natural language inference with lstm
-Generative Image Modeling Using Spatial LSTMs
 Empirical evaluation and combination of advanced language modeling techniques
 Extensions of recurrent neural network language model
 Generating text with recurrent neural networks
@@ -634,7 +632,6 @@ Text-to-speech conversion with neural networks: A recurrent tdnn approach
 Speech synthesis using artificial neural networks trained on cepstral coefficients
 Unidirectional long short-term memory recurrent neural network with recurrent output layer for low-latency speech synthesis
 Prosody contour prediction with long short-term memory, bi-directional, deep recurrent neural networks
-Wavenet: A generative model for raw audio
 A first look at music composition using lstm recurrent neural networks
 Dag-recurrent neural networks for scene labeling
 Quaddirectional 2d-recurrent neural networks for image labeling

@@ -1,3 +1,21 @@
+Learnable explicit density for continuous latent space and variational inference <- demonstrates general universal representational capability
+of inverse autoregressive transformations
+NICE: Non-linear independent components estimation
+Density estimation using Real NVP
+Variational lossy autoencoder
+Masked autoregressive flow for density estimation
+Parallel wavenet: Fast high-fidelity speech synthesis
+Pixel recurrent neural networks
+Maximum entropy flow networks
+Multiplicative normalizing flows for variational bayesian neural networks
+Bayesian hypernetworks
+A-NICE-MC: Adversarial Training for MCMC
+Improving variational auto-encoders using convex combination linear inverse autoregressive flow
+Normalizing flows on riemannian manifolds
+Sylvester normalizing flows for variational inference
+Transformation Autoregressive Networks
+
+High-dimensional probability estimation with deep density models
 Bayesian neural networks and density networks
 The neural autoregressive distribution estimator
 Learning representations by maximizing compression
@@ -77,7 +95,19 @@ One-step neural network inversion with PDF learning and emulation
 PixelCNN++: Improving the PixelCNN with discretized logistic mixture likelihood and other modifications
 Conditional Image Generation with PixelCNN Decoders
 PixelSNAIL An Improved Autoregressive Generative Model
-# [Neural Autoregressive Flows](https://arxiv.org/abs/1804.00779)
-2018.04.03
 Learning stochastic feedforward networks
 Dropout as a Bayesian Approximation: Representing Model Uncertainty in Deep Learning
+Modeling highdimensional discrete data with multi-layer neural networks
+Generative Image Modeling Using Spatial LSTMs
+Inference networks for sequential Monte Carlo in graphical models
+Fast e-free Inference of Simulation Models with Bayesian Conditional Density Estimation
+
+From learning models of natural image patches to whole image restoration <- learning the priors using density estimation
+Approximate Bayesian computation via regression density estimation <- In simulation-based likelihood-free inference, conditional density estimators can learn models for
+the likelihood
+Neural adaptive sequential Monte Carlo
+Wavenet: A generative model for raw audio
+Analyzing Inverse Problems with Invertible Neural Networks
+Neural importance sampling
+On Difficulties of Probability Distillation (https://openreview.net/forum?id=rygFmh0cKm)
+Estimate of a Probability Density Function through Neural Networks

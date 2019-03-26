@@ -198,11 +198,6 @@ Model reduction
 Nonlinear systems–nonlinear models
 Model types with respect to model reference to the real object, from white to black (gray box model - mixing physical insights with information from measured data)
 
-
-# A Tutorial on Fisher Information
-
-“The (unit) Fisher information is a measure for the 18 amount of information that is expected within the prototypical trial X about the parameter 19 of interest θ. It is defined as the variance of the so-called score function, i.e., the derivative 20 of the log-likelihood function with respect to the parameter”
-
 System identification of nonlinear state-space models
 “Unlike gradient based search, which is applicable to maximisation of any differentiable cost function, EM methods are only applicable to maximisation of likelihood functions.“
 Research Idea: Compare model from this paper and the one in “Learning deep dynamical models from image pixels”

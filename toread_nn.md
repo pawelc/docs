@@ -68,3 +68,8 @@ Scaling relationships in backpropagation learning
 What size net gives valid generalization
 On the complexity of polyhedral separability
 Perceptrons An Introduction to Computational Geometry
+Don't Decay the Learning Rate, Increase the Batch Size
+On the Convergence of Adam and Beyond
+
+model/cdf_comb_1/xy_prefinal_l_0_1/summaries_model/cdf_comb/xy_prefinal_l_0/weights-raw_0/model/cdf_comb/xy_prefinal_l_0/weights-raw_0_hist
+model/cdf_comb_1/xy_prefinal_l_0/summaries_model/cdf_comb/xy_prefinal_l_0/weights-raw_0/model/cdf_comb/xy_prefinal_l_0/weights-raw_0_hist
