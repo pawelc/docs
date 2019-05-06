@@ -111,3 +111,16 @@ https://github.com/renmengye/tensorflow-forward-ad/issues/2
 https://datascience.stackexchange.com/questions/26792/difference-between-rmsprop-with-momentum-and-adam-optimizers
 http://ruder.io/optimizing-gradient-descent/index.html
 https://towardsdatascience.com/a-look-at-gradient-descent-and-rmsprop-optimizers-f77d483ef08b
+Visualization of Tradeoff in Evaluation
+A method for discovering the insignificance of ones best classifier and the unlearnability of a classification task
+Receiver Operating Characteristic (ROC) Curves
+The relationship between Precision-Recall and ROC curves
+https://lukeoakdenrayner.wordpress.com/2018/01/07/the-philosophical-argument-for-using-roc-curves/
+http://people.cs.bris.ac.uk/~flach/ICML04tutorial//
+ROC curves in cost space
+Cost curves An improved method for visualizing classifier performance
+https://towardsdatascience.com/what-metrics-should-we-use-on-imbalanced-data-set-precision-recall-roc-e2e79252aeba
+https://stats.stackexchange.com/questions/222558/classification-evaluation-metrics-for-highly-imbalanced-data
+https://datascience.stackexchange.com/questions/28227/why-will-the-accuracy-of-a-highly-unbalanced-dataset-reduce-after-oversampling
+https://www.tensorflow.org/guide/performance/overview
+https://www.youtube.com/watch?v=Vly8xGnNiWs

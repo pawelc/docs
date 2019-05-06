@@ -104,3 +104,9 @@ The Pricing of Options and Corporate Liabilities
 Options, Futures, and Other Derivatives
 Financial Engineering with Copulas Explained
 Moving Average Models for Volatility and Correlation, and Covariance Matrices
+Multivariate Extremes, Aggregation and Risk Estimation
+Risk Management Value at Risk and Beyond
+Semi-parametric modelling in Finance: Theoretical foundation
+Calculating and Comparing Security Returns is Harder than you Think: A Comparison between Logarithmic and Simple Returns
+Quant Nugget 2: Linear vs. Compounded Returns – Common Pitfalls in Portfolio Management
+Extreme Value Theory as a Risk Management Tool

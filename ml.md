@@ -1,3 +1,9 @@
+# [Parameterizing correlations: A geometric interpretation]()
+2007
+
+How to parametrize the correlation matrix using full or reduced rank unconstrained parametrization. The parametrization
+that enforces the correlation matrix to be PSD. Albeit got slightly worse results than our method.
+
 # [Deep Learning: Autodiff, Parameter Tying and Backprop Through Time](http://web4.cs.ucl.ac.uk/staff/D.Barber/publications/ParameterTying.pdf)
 2015.02.09
 

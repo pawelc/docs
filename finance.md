@@ -42,3 +42,14 @@ discourages holding of positions can improve performance of the model.
 # FX Spot Trading and Risk Management from A Market Maker’s Perspective
 Nice review of FX markets. Comprehensive way of simulating the environment of FX market maker.
 Comparison of performance of market maker without hedging, with hedging and with VaR (using extreme value apprach)
+
+#[Measuring financial risks with copulas]()
+2004
+
+Using copulas to measure dependence. Calculation of different risk measures of the portfolio and checking the 
+quality of different copulas compared to empirical values.
+
+#[Modeling dependence based on mixture copulas and its application in risk management]()
+2009
+
+Using copulas and mixture of copulas for VAR calculations.

@@ -1,3 +1,4 @@
+Copula Methods in Finance
 Fundamentals of Statistical Exponential Families
 http://bjlkeng.github.io/posts/the-expectation-maximization-algorithm/
 Simple, Distributed, and Accelerated Probabilistic Programming
@@ -133,4 +134,10 @@ Categorical Reparameterization with Gumbel-Softmax
 The Concrete Distribution: A Continuous Relaxation of Discrete Random Variables
 https://www.inference.vc/high-dimensional-gaussian-distributions-are-soap-bubble/
 Topics in spatial statistics
-A note on composite likelihood inference and model selection
+A note on composite likelihood inference and model 
+The t-copula and related copulas
+Multivariate survival modelling: a unified approach with copulas
+Robust Estimation of the Correlation Coefficient: An Attempt of Survey
+Interpreting the Magnitudes of Correlation Coefficients
+Primer on Copulas for Count Data
+The Estimation Method of Inference Function for Margins for Multivariate Models

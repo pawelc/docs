@@ -10,6 +10,13 @@ Authors compare different ways of approximating covariance: full, diagonal and d
 TODO
 Not completed because to difficult.
 
+#[Tail Dependence]()
+2005
+
+Tail dependence explained with Copula. Non parametric estimators given. VaR examples given. Using t-student for marginals
+and and copula, when different degrees of freedom the result is not elliptical. We cannot use gaussian copula
+for tail dependence (we can plot empirical copula do check if data has tail dependence).
+
 
 #[An overview of composite likelihood methods]()
 2011
@@ -21,3 +28,9 @@ quite extensive.
 
 “The (unit) Fisher information is a measure for the amount of information that is expected within the prototypical trial X about the parameter of interest θ. 
 It is defined as the variance of the so-called score function, i.e., the derivative 20 of the log-likelihood function with respect to the parameter”
+
+#[Behaviour of multivariate tail dependence coefficients]()
+
+Description of the tail dependence of the symetric multivariate copulas. Authors ask the question: how will behave 
+a random variable of interest if some other variables are larger than a given value; or more generally, 
+how will behave a given variable if at least one of other variables is larger than a certain given value.
