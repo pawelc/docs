@@ -110,3 +110,10 @@ Semi-parametric modelling in Finance: Theoretical foundation
 Calculating and Comparing Security Returns is Harder than you Think: A Comparison between Logarithmic and Simple Returns
 Quant Nugget 2: Linear vs. Compounded Returns – Common Pitfalls in Portfolio Management
 Extreme Value Theory as a Risk Management Tool
+On Default Correlation: A Copula Function Approach
+The Gaussian Copula and the Financial Crisis: A Recipe for Disaster or Cooking the Books?
+https://twiecki.io/blog/2015/11/10/mcmc-sampling/
+Going with the FX flow
+Asymmetric Correlations of Equity Portfolios
+Are the gains from international portfolio diversification exaggerated? The influence of downside risk in bear markets
+https://www.linkedin.com/pulse/top-10-trading-market-structure-reads-matt-clarke/

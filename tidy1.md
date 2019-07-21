@@ -98,7 +98,6 @@ Real-time interactive sequence generation and control with Recurrent Neural Netw
 From Bayesian Sparsity to Gated Recurrent Nets
 Recurrent Additive Networks
 Mixture density networks for distribution and uncertainty estimation
-Long-term Recurrent Convolutional Networks for Visual Recognition and Description
 Translating videos to natural language using deep recurrent neural networks
 Video description generation incorporating spatiotemporal features and a soft-attention mechanism
 Sequence to Sequence -- Video to Text
@@ -158,7 +157,6 @@ Statistical Language Models based on Neural Networks
 On Multiplicative Integration with Recurrent Neural Networks
 Layer Normalization
 https://r2rt.com/recurrent-neural-networks-in-tensorflow-ii.html
-Deep Residual Learning for Image Recognition
 Highway Networks
 Learning Long-Term Dependencies with Gradient Descent is Difficult.
 Protein Secondary Structure Prediction with Long Short Term Memory Networks
@@ -218,7 +216,6 @@ Position-based Content Attention for Time Series Forecasting with Sequence-to-se
 Self-paced learning for latent variable models
 Delving into adversarial attacks on deep policies
 Kalman filters improve lstm network performance in problems unsolvable by traditional recurrent nets
-Sequential Neural Models with Stochastic Layers
 The Future of Memory Remembering, Imagining, and the Brain
 Is the brain a good model for machine intelligence
 Evidence integration in model-based tree search
@@ -359,7 +356,6 @@ Training Stochastic Model Recognition Algorithms as Networks can Lead to Maximum
 Identifying and attacking the saddle point problem in high-dimensional non-convex
 optimization
 All you need is a good init
-Weight Normalization: A Simple Reparameterization to Accelerate Training of Deep Neural Networks 
 Big Neural Networks Waste Capacity
 An empirical evaluation of recurrent network architectures
 Delving Deep into Rectifiers: Surpassing Human-Level Performance on ImageNet Classification
@@ -377,7 +373,6 @@ https://petewarden.com/2016/05/03/how-to-quantize-neural-networks-with-tensorflo
 https://en.wikipedia.org/wiki/Xgboost
 End-to-end people detection in crowded scenes
 Fully Convolutional Networks for Semantic Segmentation
-Very Deep Convolutional Networks for Large-Scale Visual Recognition
 Inception-v4, Inception-ResNet and the Impact of Residual Connections on Learning
 Unit Tests for Stochastic Optimization
 https://github.com/tensorflow/tensorflow/blob/r0.10/tensorflow/examples/tutorials/deepdream/deepdream.ipynb
@@ -385,7 +380,6 @@ https://magenta.tensorflow.org/
 A Comparative Study of the Performance of HMM, DNN, and RNN based Speech Synthesis Systems Trained on Very Large Speaker-Dependent Corpora
 Rethinking the Inception Architecture for Computer Vision
 How transferable are features in deep neural networks
-Deeply-Supervised Nets
 Global continuation for distance geometry problems
 A Theoretical Analysis of Optimization by Gaussian Continuation
 Neural network learning control of robot manipulators using gradually increasing task difficulty
@@ -415,7 +409,6 @@ Contractive Auto-Encoders: Explicit Invariance During Feature Extraction
 Stacked Convolutional Auto-Encoders for Hierarchical Feature Extraction
 GSNs: Generative Stochastic Networks
 Winner-Take-All Autoencoders
-Adversarial Autoencoders
 Semantic Hashing
 CNN Based Hashing for Image Retrieval
 Recurrent Convolutional Neural Networks for Scene Parsing

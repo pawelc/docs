@@ -87,3 +87,5 @@ Vision-Based Multi-Task Manipulation for Inexpensive Robots Using End-To-End Lea
 A Distributional Perspective on Reinforcement Learning
 Reinforcement Learning with Deep Energy-Based Policies
 Model-Free Reinforcement Learning for Financial Portfolios A Brief Survey
+Learning functions across many orders of magnitude
+Continuous deep q-learning with model-based acceleration

@@ -1,3 +1,7 @@
+2001 - Gaussianization
+2015 - Distilling intractable generative models
+2015 - Picture A probabilistic programming language for scene perception
+2016 - Density modeling of images using a generalized normalization transformation
 Copula Methods in Finance
 Fundamentals of Statistical Exponential Families
 http://bjlkeng.github.io/posts/the-expectation-maximization-algorithm/
@@ -55,7 +59,7 @@ Stochastic relaxation, Gibbs distributions, and the Bayesian restoration of imag
 Sinh-arcsinh distributions
 Understanding the Metropolis-Hastings algorithm
 Stochastic volatility: Bayesian computation using automatic differentiation and the extended Kalman filter
-Inference compilation and universal probabilistic programming
+2017 - Inference compilation and universal probabilistic programming
 Probabilistic programming
 Stan: A probabilistic programming language
 Nonstandard interpretations of probabilistic programs for efficient inference
@@ -124,11 +128,6 @@ Coles, S.G. (2001) An introduction to statistical modelling of extreme values. S
 Bayesian posterior sampling via stochastic gradient Fisher scoring
 Online learning Fokker-Planck machine
 https://colab.research.google.com/github/tensorflow/probability/blob/master/tensorflow_probability/examples/jupyter_notebooks/Gaussian_Copula.ipynb#scrollTo=a4Ho39s02fg9
-Distilling intractable generative models
-Picture A probabilistic programming language for scene perception
-Gaussianization
-Density modeling of images using a generalized normalization transformation
-A note on the evaluation of generative models
 How Unlucky is 25-Sigma
 Categorical Reparameterization with Gumbel-Softmax
 The Concrete Distribution: A Continuous Relaxation of Discrete Random Variables
@@ -141,3 +140,6 @@ Robust Estimation of the Correlation Coefficient: An Attempt of Survey
 Interpreting the Magnitudes of Correlation Coefficients
 Primer on Copulas for Count Data
 The Estimation Method of Inference Function for Margins for Multivariate Models
+Generating images with recurrent adversarial networks
+Higher order statistical decorrelation without information loss
+Why Probabilistic Programming Matters

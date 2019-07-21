@@ -108,9 +108,25 @@ Authors compare their model to Mixture Factor analyzers, MoG. They use MoG and M
 NN layer. They use various data sets for the comparison.
 
 # [A Deep and Tractable Density Estimator](https://arxiv.org/abs/1310.1757)
+2014 
+
 Extension to the RNADE to deep models and any order of variables in autoregressive representation. This is simple multi layer
 neural network with specially designed learning procedure that allows to share weights for all orderings of autoregressive
 model.
+
+# [NICE: Non-linear independent components estimation]()
+2014
+Transforming data with complex dependencies into factorized distribution using transformation of density formula.
+Using specially designed transformation so determinant of the Jackobian is simple to compute.
+Nice comparison of this model to the VAE (entropy to determinant part, prior to the encoder part).
+In experiments authors also add noise into the data and call it dequantization.
+Here authors also use log-likelihood for multidimensional data so can use in my experiments.
+The NICE model can easily generate samples because all transformations are easily invertible so it is enough to 
+sample from factorial distribution and transform the generated code by the inverse map.
+The data used in experiments in graphics so we can inpating with our model as the results (actually authors are
+doing this).
+Authors do inpainting using projected gradient ascent on the likelihood which can also be used for our model (iterative 
+stochastic gradient procedure that maximizes log likelihood by updated missing values).
 
 # [Efficient Gradient-Based Inference through Transformations between Bayes Nets and Neural Nets](https://arxiv.org/abs/1402.0480)
 2014.02.03
@@ -133,6 +149,8 @@ TODO: Read it later because too time consuming for now.
 They show some method of transforming real values to vectors by bucketing. The paper is very weak.
 
 #[MADE Masked Autoencoder for Distribution Estimation]()
+2015
+
 Using Autoencoder with each weight matrix multiplied elementwise by the mask matrixes which cause that outputs
 depend on some prceding inputs with some ordering. Here they model binary data. This way the output is valid
 likelihood. There are several variants like using different masks. The hidden connections also can be 
@@ -190,6 +208,53 @@ passed through CDF it gives uniform and when uniform is passed through inverse o
 They revisit the work in "Density estimation and random variate generation using multilayer networks".
 The strongest part of this work is mathematical derivation of the bound of number of hidden neurons needed for given 
 approximation but haven't checked the derivation.
+
+#[Density estimation using Real NVP]()
+2017
+
+The following work after NICE model. Here the same authors apply more complex transformation which preserves the
+quality of being easily invertible and easy to compute determinant of the Jackobian.
+Transformation from random numbers into data x. Model is composed from stacked coupling layers. Coupling layer copies one part
+of the u into x and the other part is scaled and shifted using functions depending on the first part. This makes coupling
+layer invertible and determinant of the Jackobian simple to compute.
+Authors use trick to decrease computational and memory burden - factoring our half of the dimensions at regular intervals.
+We could reuse possibly this technique.
+They also use batch normalization, weight normalization and residual networks to improve propagation of the signal - we can
+also try that out.
+They do few data transformations I was not aware of to remove boundary effects (image data).
+
+# [Masked autoregressive flow for density estimation]()
+2017
+
+MAF are models that use autoregressive models (MADE) for the transformation in the normalizing flow.
+Authors reiterate the autoregressive model can be interpreted as normalizing flow (they show equations for that), they 
+admit that it was shown originally in "Improved variational inference with Inverse Autoregressive Flow".
+Masked Autoregressive Flow (MAF) is simply stacked MADEs with Gaussian conditionals to create more flexible models. 
+The difference between IAD (also uses stacked MADEs) is that MAF transforms data points x_{0..i} through model and IAF processes
+random vectors u. MAF computes pdf of x in one pass but sampling require D passes. IAF can generate sample and compute its
+density in one pass but require D passes to compute density of provided externally data point. 
+Authors show that Real NVP and NICE are special cases of MAF and IAF. The advantage of the Real NVP over MAF and IAF
+is that it can compute density and sample on one forward pass.
+Our MONDE using MADEs is kind of MAF but with more flexible conditional because we are not using parametrized distribution.
+In experiments authors use early stopping of 30 epochs and the same UCI data sets. They use batch normalization and
+regularization. Authors use also paired t-test to compare the models.
+This is the original paper the used these bigger UCI data sets to assess density estimators (Power, GAS, Miniboone ...).
+The authors test 3 different types of MAFs. MAF(5) with 5 autoregressive MADE layers, MAF(10) and MAF(5) MoG which is MAF(5) with 
+MADE MoG (5) as base distribution (both models are trained jointly).
+They use conditional density estimation on MNIST and the CIFAR-10 natural images.
+
+# [Variational lossy autoencoder]()
+2017
+
+VAE using recurrent neural network so powerful latent representation with flexibility of the autoregressive model.
+This way model excels on log-likelihood evaluations and learns interesting global representations of data.
+The authors address the problem that when autoregressive model (used for p(x|z) i.e. decoding distribution) 
+is used with VAE it take all burden in modeling latent code and VAE latent variables are under-utilized. This happens
+because in the beginning of learning q(z|x) has little information so the training criterion shapes q(z|x) into p(z) (D_KL(q(z|x)|p(z))).
+Authors make remark to bits back coding to explain this phenomenon.
+Authors propose parameterizing the learnable prior as autoregressive normalizing flow. They show that it is equivalent of 
+using Inverse  Autoregressive Flow for posterior but AF prior has more expressive generative model.
+VLAE model can be defined as a VAE that uses AF prior and autoregressive decoder (PixelCNN).
 
 # [Neural Autoregressive Flows](https://arxiv.org/abs/1804.00779)
 2018.04.03

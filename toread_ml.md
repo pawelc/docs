@@ -124,3 +124,30 @@ https://stats.stackexchange.com/questions/222558/classification-evaluation-metri
 https://datascience.stackexchange.com/questions/28227/why-will-the-accuracy-of-a-highly-unbalanced-dataset-reduce-after-oversampling
 https://www.tensorflow.org/guide/performance/overview
 https://www.youtube.com/watch?v=Vly8xGnNiWs
+https://www.youtube.com/watch?v=Ucp0TTmvqOE
+Better mixing via deep representations
+How auto-encoders could provide credit assignment in deep networks via target propagation
+Independent component analysis: algorithms and applications
+Learning the irreducible representations of commutative lie groups
+Deep unsupervised learning using nonequilibrium thermodynamics
+Colorful image colorization
+Super-resolution with deep convolutional sufficient statistics
+Stochastic gradient estimate variance in contrastive divergence and persistent contrastive divergence
+A view of the em algorithm that justifies incremental, sparse, and other variants
+Learning representations by backpropagating errors
+Exploring the limits of language modeling
+Deep generative image models using a laplacian pyramid of adversarial networks
+Unsupervised representation learning with deep convolutional generative adversarial networks
+Autoencoding beyond pixels using a learned similarity metric
+An information-maximization approach to blind separation and blind deconvolution
+Embed to control: A locally linear latent dynamics model for control from raw images
+Do Deep Generative Models Know What They Don't Know?
+Vision as bayesian inference: analysis by synthesis?
+Analysis-by-synthesis by learning to invert generative black boxes
+Generating sentences from a continuous space
+A hierarchical latent variable encoder-decoder model for gen- erating dialogues
+https://rise.cs.berkeley.edu/blog/michael-i-jordan-artificial-intelligence%e2%80%8a-%e2%80%8athe-revolution-hasnt-happened-yet/
+https://github.com/rasbt/deeplearning-models
+The Unreasonable Effectiveness of Data
+Large-Scale Machine Learning at Twitter
+https://github.com/tensorflow/tensor2tensor

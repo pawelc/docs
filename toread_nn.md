@@ -1,3 +1,12 @@
+1993 - Second order derivatives for network pruning: Optimal Brain Surgeon
+2011 - Deep sparse rectifier neural networks
+2014 - Bi-modal derivative activation function for sigmoidal feedforward networks
+2014 - Bi-firing deep neural networks
+2014 - Hardware implementation of evolvable block-based neural networks utilizing a cost efficient sigmoid-like activation function
+2014 - On practical constraints of approximation using neural networks on current digital computers
+2016 - Effective deep learning-based multi-modal retrieval
+2016 - Distributed B-SDLM: Accelerating the Training Convergence of Deep Neural Networks Through Parallelism
+2018 - Analysis on Gradient Propagation in Batch Normalized Residual Networks 
 Learning internal representations by error propagation
 Approximations by superpositions of sigmoidal functions
 Approximation capabilities of multilayer feedforward networks
@@ -22,7 +31,6 @@ Rectified linear units improve restricted Boltzmann machines
 Improving deep neural networks for LVCSR using rectified linear units and dropout
 Deep learning via Hessian-free optimization
 Extracting and composing robust features with denoising autoencoders
-Efficient backprop
 Saturating auto-encoders
 Scalable Bayesian optimization using deep neural networks
 Learning representations by back-propagating errors
@@ -40,8 +48,6 @@ cuDNN: Efficient primitives for deep learning
 Binaryconnect: Training deep neural networks with binary weights during propagations
 Differentiable optimization as a layer in neural networks
 Transformation invariance in pattern recognition, tangent distance and tangent propagation
-Understanding the difficulty of training deep feedforward neural networks
-Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift
 Perceprrons
 Neural Machine Translation by Jointly Learning to Align and Translate
 A learned representation for artistic style
@@ -73,3 +79,11 @@ On the Convergence of Adam and Beyond
 
 model/cdf_comb_1/xy_prefinal_l_0_1/summaries_model/cdf_comb/xy_prefinal_l_0/weights-raw_0/model/cdf_comb/xy_prefinal_l_0/weights-raw_0_hist
 model/cdf_comb_1/xy_prefinal_l_0/summaries_model/cdf_comb/xy_prefinal_l_0/weights-raw_0/model/cdf_comb/xy_prefinal_l_0/weights-raw_0_hist
+
+Very Deep Convolutional Networks for Large-Scale Visual Recognition
+Deeply-Supervised Nets
+Resnet in resnet: Generalizing residual architectures
+Sharp minima can generalize for deep nets
+Keeping the neural networks simple by minimizing the description length of the weights
+Densely connected convolutional networks
+Identity mappings in deep residual networks

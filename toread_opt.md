@@ -8,3 +8,7 @@ Combining conjugate direction methods with stochastic approximation of gradients
 Large-scale machine learning with stochastic gradient descent
 Tieleman, T. & Hinton, G. RmsProp: divide the gradient by a running average of its recent magnitude. Lecture 6.5 of Neural Networks for Machine Learning(COURSERA, 2012); available at http://www.cs.toronto.edu/~ tijmen/csc321/slides/lecture_slides_lec6.pdf
 Gradient-based hyperparameter optimization through reversible learning
+Online Convex Programming and Generalized Infinitesimal Gradient Ascent
+Learning Gradient Descent: Better Generalization and Longer Horizons - 2017
+YellowFin and the Art of Momentum Tuning - 2017
+Decoupled Weight Decay Regularization - 2017

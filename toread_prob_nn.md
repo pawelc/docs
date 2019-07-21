@@ -1,12 +1,16 @@
-Learnable explicit density for continuous latent space and variational inference <- demonstrates general universal representational capability
-of inverse autoregressive transformations
-NICE: Non-linear independent components estimation
-Density estimation using Real NVP
-Variational lossy autoencoder
-Masked autoregressive flow for density estimation
 Parallel wavenet: Fast high-fidelity speech synthesis
-Pixel recurrent neural networks
-Maximum entropy flow networks
+2011 - From learning models of natural image patches to whole image restoration <- learning the priors using density estimation
+2013 - Approximate Bayesian computation via regression density estimation <- In simulation-based likelihood-free inference, conditional density estimators can learn models for
+the likelihood
+2013 - High-dimensional probability estimation with deep density models
+2015 - Generative Image Modeling Using Spatial LSTMs
+2015 - Neural adaptive sequential Monte Carlo
+2016 - Pixel recurrent neural networks
+2016 - Inference networks for sequential Monte Carlo in graphical models
+2016 - Fast e-free Inference of Simulation Models with Bayesian Conditional Density Estimation
+2016 - Neural Autoregressive Distribution Estimation
+2016 - Wavenet: A generative model for raw audio
+2017 - Maximum entropy flow networks
 Multiplicative normalizing flows for variational bayesian neural networks
 Bayesian hypernetworks
 A-NICE-MC: Adversarial Training for MCMC
@@ -15,7 +19,6 @@ Normalizing flows on riemannian manifolds
 Sylvester normalizing flows for variational inference
 Transformation Autoregressive Networks
 
-High-dimensional probability estimation with deep density models
 Bayesian neural networks and density networks
 The neural autoregressive distribution estimator
 Learning representations by maximizing compression
@@ -28,7 +31,6 @@ Neural network copula portfolio optimization for exchange traded funds
 Copulas-based ensemble of Artificial Neural Networks for forecasting real world time series
 Deep Lattice Networks and Partial Monotonic Functions
 Monotonic Recurrent Bounded Derivative Neural Network
-Neural Autoregressive Distribution Estimation
 Neural Networks for Density Estimation
 Recursive Neural Networks for Density Estimation Over Generalized Random Graphs
 Estimating monotonic functions and their bounds
@@ -90,7 +92,7 @@ Probabilistic interpretation of feedforward classification network outputs, with
 Modeling Temporal Dependencies in High-Dimensional Sequences Application to Polyphonic Music Generation and Transcription
 Multimodal transitions for generative stochastic networks
 Iterative neural autoregressive distribution estimator NADE-k
-Generative adversarial nets
+Generative adversarial nets - 2014
 One-step neural network inversion with PDF learning and emulation
 PixelCNN++: Improving the PixelCNN with discretized logistic mixture likelihood and other modifications
 Conditional Image Generation with PixelCNN Decoders
@@ -98,16 +100,16 @@ PixelSNAIL An Improved Autoregressive Generative Model
 Learning stochastic feedforward networks
 Dropout as a Bayesian Approximation: Representing Model Uncertainty in Deep Learning
 Modeling highdimensional discrete data with multi-layer neural networks
-Generative Image Modeling Using Spatial LSTMs
-Inference networks for sequential Monte Carlo in graphical models
-Fast e-free Inference of Simulation Models with Bayesian Conditional Density Estimation
 
-From learning models of natural image patches to whole image restoration <- learning the priors using density estimation
-Approximate Bayesian computation via regression density estimation <- In simulation-based likelihood-free inference, conditional density estimators can learn models for
-the likelihood
-Neural adaptive sequential Monte Carlo
-Wavenet: A generative model for raw audio
 Analyzing Inverse Problems with Invertible Neural Networks
 Neural importance sampling
 On Difficulties of Probability Distillation (https://openreview.net/forum?id=rygFmh0cKm)
 Estimate of a Probability Density Function through Neural Networks
+NIPS 2016 tutorial: Generative adversarial networks (https://www.youtube.com/watch?v=HGYYEUSm-0Q)
+Order matters: Sequence to sequence for sets
+Unrolled generative adversarial networks
+Adversarial variational bayes: Unifying variational autoencoders and generative adversarial networks
+Glow: Generative flow with invertible 1x1 convolutions
+Parallel multiscale autoregressive density estimation
+Comparison of maximum likelihood and gan-based training of real nvps
+Bottleneck conditional density estimation

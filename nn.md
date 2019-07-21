@@ -32,6 +32,25 @@ constraint (monotonicity error penalty for the rest of the training). From the e
 criteria is needed to obtain good performance. The NN model without monotonicity hint could be even weaker than linear model when
 training goes into overfitting. Therefore we also should use validation set for early stopping.
 
+# [Efficient backprop]()
+1998
+A lot of ideas how to improve training using gradient optimization. Like stochastic training, presenting examples
+with the most information content (obtaining the biggest errors for example), increasing batch size when training
+progresses, normalizing the inputs at each layer, keeping scale of less important inputs smaller, using tanh instead 
+of vanilla sigmoid (outputs will be centered around 0), adding linear term to tanx to avoid flat spots, extending the 
+range of the tanh so the labels do not fall into its saturation points, initialize weight in a way the non-linearities
+operate in their linear range, if weights are too small then gradients will be also small, authors give recipe for the
+weight initialization so the following layers are normalized in the beginning of training, the 2nd derivative of the loss
+with respect to the weights of the lower levels is usually smaller than upper levels therefore learning rates of weights
+at lower levels should be larger,  adaptive learning rate, using RBF units, we can diagonalize hessian (transforming) the 
+parameters so we can use separate update rates for each parameter, hessian matrix is not positive definite everywhere
+in NN so the standard Newton algorithm is not appropriate here, conjugate gradients (linear in number of weights, does
+not use Hessian explicitly, works only for batch learning), quasi newton (BFGS: iteratively computes H^-1, O(N), uses 
+line search, only for batch learning), Gauss Newton and Levenberg Marquardt (use the square Jacobi approximation, mainly
+for batch learning, O(N^3), work only MSE loss functions), Tricks to compute the hessian matrix efficiently in NN (finite 
+difference method) 
+We see that many ideas were recently reinvented. 
+
 # [Monotonic Networks](https://papers.nips.cc/paper/1358-monotonic-networks.pdf)
 1998
 
@@ -84,3 +103,14 @@ to determine monotonicity of individual independent variables. They demonstrate 
 errors and variance than unconstrained NNs. I haven't read the paper 100% because a lot of proofs which I don't need at the momemnt.
 Although there are some interesting results about partial monotonicity which could be beneficial for conditional modeling.
 
+# [Understanding the difficulty of training deep feedforward neural networks]()
+2010
+
+
+
+# [Bounded activation functions for enhanced training stability of deep neural networks on visual pattern recognition problems]()
+2016
+
+Mention that tanh is better than logistic but still has large saturation regions. Authors provide conditions for
+non linearity so it can be used in universal approximator. Authors present bounded versions of most unbounded 
+nonlinearities like ReLU, bifiring neuron, leaky ReLU

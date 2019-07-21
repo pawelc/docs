@@ -26,7 +26,7 @@ Variational Recurrent Adversarial Deep Domain Adaptation
 Auto Encoding variational bayes with example from the book and “Tutorial on Variational Autoencoders”
 An exact mapping between the Variational Renormalization Group and Deep Learning
 Fast second order stochastic backpropagation for variational inference
-Improving variational inference with inverse autoregressive flow Variational inference for Monte Carlo objectives
+Variational inference for Monte Carlo objectives
 Improving the mean field approximation via the use of mixture distributions
 Nonparametric variational inference
 Doubly stochastic variational Bayes for non-conjugate inference
@@ -113,3 +113,9 @@ Factorial Hidden Markov Models
 Mixture Representations for Inference and Learning in Boltzmann Machines
 Incorporating Expressive Graphical Models in Variational Approximations Chain-Graphs and Hidden Variables
 Helmholtz machines and wake-sleep learning
+VAE with a VampPrior
+Adversarial Autoencoders
+Elbo surgery: yet another way to carve up the variational evidence lower bound
+Advances in variational inference
+Taming VAEs
+Variational learning and bits-back coding: an information-theoretic view to bayesian learning

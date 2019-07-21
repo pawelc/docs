@@ -1,3 +1,12 @@
+2015 - Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift
+2016 - A note on the evaluation of generative models
+
+Deep Residual Learning for Image Recognition
+Improving variational inference with inverse autoregressive flow 
+Understanding symmetries in deep networks
+Weight Normalization: A Simple Reparameterization to Accelerate Training of Deep Neural Networks 
+Towards conceptual compression
+
 On composite marginal likelihoods
 An Optimum Property of Regular Maximum Likelihood Estimation
 Composite likelihood methods
@@ -32,3 +41,4 @@ Universal approximation depth and errors of narrow belief networks with discrete
 Approximation properties of DBNs with binary hidden units and real-valued visible units
 Exchangeable random primitives
 Early Stopping but when
+Known knowns, known unknowns, unknown unknowns and the propagation of scientific enquiry

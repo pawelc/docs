@@ -16,3 +16,4 @@ Training Recurrent Neural Networks
 The problem of learning long-term dependencies in recurrent networks
 Adaptive nonlinear system identiﬁcation with echo state networks
 Real-time computing without stable states: A new framework for neural computation based on perturbations
+Reversible recurrent neural networks

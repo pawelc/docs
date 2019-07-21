@@ -55,7 +55,7 @@ Authors perform experiments where RNN predicts hidden state of HMM given data. A
 hmm forward algo.
 # A Recurrent Latent Variable Model for Sequential Data
 Added random hidden variables to rnn to model the distribution of data better and in generative way. Using VAE to learn
-parameters of the model and aproximate posterior. Got better resylts than standard RNNs.
+parameters of the model and aproximate posterior. Got better results than standard RNNs.
 # Generating sequences with recurrent neural networks
 The RNN generates sequenes by letter. it predict next input given previusly geneated output. Network has skip connections from input to all hidden
 layers and from all hidden layers to output.

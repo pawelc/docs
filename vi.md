@@ -147,6 +147,14 @@ RESEARCH IDEA: Training neural networks as probabilistic methods using approxima
 Variational method can be used to aproximate posterior and intractable energy term and enable tractable inference and learning.
 Variational methods transform local probabilities so the inference becomes tractable and possible we can use exact methods.
 
+#[Stochastic Backpropagation and Approximate Inference in Deep Generative Models]()
+2014
+
+The same idea as “Auto-Encoding Variational Bayes”
+Expressing gradient of expectation of function as expectation of gradient of a function (example: Gaussian gradient identities). 
+Stochastic backpropagation as in Auto-Encoding Variational Bayes paper and using amortization. The model is deep model which latent variables 
+is the gaussian + tranformation of previous stochastic layer. 
+
 # [Variational inference with normalizing flows](https://arxiv.org/abs/1505.05770)
 2015.05.15
 
@@ -154,12 +162,6 @@ Authors notice the we can improve variational methods by using richer approximat
 flows i.e. series of invertible mappings of one random variable into another. They conjecture that this apprach is the universal approximator
 of any posterior distribution. They use amortized version to train the Deep Gaussian Latent Model on CFAIR data and custom toy densities and compare
 to previous methods.
-
-# Stochastic Backpropagation and Approximate Inference in Deep Generative Models 
-The same idea as “Auto-Encoding Variational Bayes”
-Expressing gradient of expectation of function as expectation of gradient of a function (example: Gaussian gradient identities). 
-Stochastic backpropagation as in Auto-Encoding Variational Bayes paper and using amortization. The model is deep model which latent variables 
-is the gaussian + tranformation of previous stochastic layer. 
 
 # [Auxiliary Deep Generative Models]
 Another way of improving variation methods is to use more expressive variational distributions by adding auxiliary latent 
@@ -178,3 +180,9 @@ are encoded using normal neural network and the next use autoregressive MADE.
 #Variational Inference: A Review for Statisticians
 2017
 Review of the variational methods with sime derivations.
+
+# [Learnable explicit density for continuous latent space and variational inference]()
+demonstrates general universal representational capability of inverse autoregressive transformations
+Learning better prior allows to model better approximate posterior. Here we have a proof that the sequence of autoregressive
+ mappings can approximate any continuous distributions. Read it later.
+
