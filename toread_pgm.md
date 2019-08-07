@@ -1,3 +1,6 @@
+2019 - Causal Graphical Views of Fixed Effects and Random Effects Models
+2019 - https://www.youtube.com/watch?v=NkJNcEed2NU&feature=youtu.be (From automatic differentiation to message passing)
+
 Inference, Sampling, and Learning in Copula Cumulative Distribution Networks (with code 
 https://github.com/stefanwebb/cumulativenet)
 https://www.youtube.com/watch?v=dkKRpPa_I_o

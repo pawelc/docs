@@ -1,12 +1,24 @@
+1960 - Adaptive sampled-data systems
+1987 - Geometric analysis of neural network capabilities
+1989 - Approximation by superpositions of a sigmoidal function
+1989 - Pattern classification using neural networks
 1993 - Second order derivatives for network pruning: Optimal Brain Surgeon
+2009 - Quadratic features and deep architectures for chunking
 2011 - Deep sparse rectifier neural networks
 2014 - Bi-modal derivative activation function for sigmoidal feedforward networks
 2014 - Bi-firing deep neural networks
 2014 - Hardware implementation of evolvable block-based neural networks utilizing a cost efficient sigmoid-like activation function
 2014 - On practical constraints of approximation using neural networks on current digital computers
+2015 - Highway Networks
+2015 - All you need is a good init
 2016 - Effective deep learning-based multi-modal retrieval
+2016 - https://medium.com/@karpathy/yes-you-should-understand-backprop-e2f06eab496b
 2016 - Distributed B-SDLM: Accelerating the Training Convergence of Deep Neural Networks Through Parallelism
-2018 - Analysis on Gradient Propagation in Batch Normalized Residual Networks 
+2017 - Softsign as a Neural Networks Activation Function
+2018 - Analysis on Gradient Propagation in Batch Normalized Residual Networks
+2019 - Hands-On Computer Vision with TensorFlow 2
+    https://github.com/PacktPublishing/Hands-On-Computer-Vision-with-TensorFlow-2
+ 
 Learning internal representations by error propagation
 Approximations by superpositions of sigmoidal functions
 Approximation capabilities of multilayer feedforward networks

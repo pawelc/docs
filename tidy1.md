@@ -157,7 +157,6 @@ Statistical Language Models based on Neural Networks
 On Multiplicative Integration with Recurrent Neural Networks
 Layer Normalization
 https://r2rt.com/recurrent-neural-networks-in-tensorflow-ii.html
-Highway Networks
 Learning Long-Term Dependencies with Gradient Descent is Difficult.
 Protein Secondary Structure Prediction with Long Short Term Memory Networks
 An Efficient Approach for Assessing Hyperparameter Importance
@@ -355,7 +354,6 @@ Boosted Backpropagation Learning for Training Deep Modular Networks
 Training Stochastic Model Recognition Algorithms as Networks can Lead to Maximum Mutual Information Estimation of Parameters
 Identifying and attacking the saddle point problem in high-dimensional non-convex
 optimization
-All you need is a good init
 Big Neural Networks Waste Capacity
 An empirical evaluation of recurrent network architectures
 Delving Deep into Rectifiers: Surpassing Human-Level Performance on ImageNet Classification

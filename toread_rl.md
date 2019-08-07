@@ -1,3 +1,5 @@
+1976 - Decisions with Multiple Objectives Preferences and Value Trade-Offs (book)
+
 Idiosyncrasies and challenges of data driven learning in electronic trading
 https://github.com/tspooner/rl_markets
 https://github.com/Kismuz/btgym

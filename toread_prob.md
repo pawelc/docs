@@ -1,7 +1,13 @@
+1962 - On estimation of a probability density function and mode
+1962 - Introduction to the theory of statistics (book)
+1969 - Estimating the components of a mixture of normal distributions
+1986 - Density estimation for statistics and data analysis
+1995 - Wand, M.P and Jones, M.C. (1995). Kernel Smoothing. London: Chapman & Hall/CRC.
 2001 - Gaussianization
 2015 - Distilling intractable generative models
 2015 - Picture A probabilistic programming language for scene perception
 2016 - Density modeling of images using a generalized normalization transformation
+
 Copula Methods in Finance
 Fundamentals of Statistical Exponential Families
 http://bjlkeng.github.io/posts/the-expectation-maximization-algorithm/
@@ -37,7 +43,6 @@ Nonparametric and Semiparametric Models
 Mixture Densities, Maximum Likelihood and the Em Algorithm
 Mixture Density Estimation Based on Maximum Likelihood and Sequential Test Statistics
 http://cocosci.berkeley.edu/tom/bayes.html
-Density estimation for statistics and data analysis
 How to approximate a histogram by a normal density
 A generalized unimodality
 Do robust estimators work with real data
@@ -49,7 +54,6 @@ Learning Structured Prediction Models A Large Margin
 On the mathematical foundations of theoretical statistics
 Philosophy and the practice of Bayesian statistics
 Statistical Inference
-Density Estimation for Statistics and Data Analysis
 Pattern Classification
 Probabilistic graphical models principles and techniques
 Copula Theory and its Applications

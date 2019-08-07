@@ -1,3 +1,59 @@
+# [Probabilistic Neural Networks]()
+1989
+
+Authors use NN that computes something along the Parzen density estimators. Therefore it outputs the density function
+directly. The hidden nodes (here called the pattern units) uses exp function (instead of sigmoid) so they represent 
+components of the mixture (here we have one pattern unit for each training pattern/example). The following layer sums 
+the pattern units (there is one unit is the summation layer per category to classify). 
+The output unit performs Bayesian decision (taking into consideration prior probabilities of class
+and loss of classifying incorrectly). The model is parametric because is stores all training examples as pattern nodes.
+The sigma parameter controls the smoothness of the estimator, sigma -> 0 then classifier is nearest neighbour and when
+sigma -> inf the hyperplane.
+
+# [Probabilistic neural networks and the polynomial adaline as complementarp techniques for classification]()
+1990
+
+Here authors review Probabilistic Neural Networks (requires to store all training points) and polynomial methods 
+(do not) which are better than backprop NN (according to authors) because they require one pass through the data to train. 
+The PNN is for smaller data sets and polynomial can be applied to bigger data sets. The decision surface of the 
+PNN approaches Bayes optimal one with the increase of the training examples.  Authors provide equations for the polynomial
+with the same decision boundary as PNN which coefficients are given by analytical formulas.
+
+# [Integrating Probabilistic Rules into Neural Networks: A Stochastic EM Learning Algorithm]()
+1991
+
+Authors show how to integrate probabilistic inference network (probabilistic graphical model) with NN which represents
+unknown interactions between variables. Show how to compute the likelihood using EM. Not read because was too
+difficult.
+
+# [A neural network approach to statistical pattern classification by semiparametric estimation of probability density functions]()
+1991.05
+
+Authors want semiparametric method because argue that previous nonparametric methods (Parzen Window or Probabilistic Neural Networks) are inadequate when we have
+large training set. We still don't want parametric methods all the time when we don't know functional form of the
+density function. Here author propose the mixture of component densities. The components are parametrized but not
+mixture. Authors present iterative method of finding parameters of the model (mixing and mixture components) and then
+method using stochastic gradient descend. The components are parametrized using non-linearities (NN squashing function).
+
+# [Learning bias in neural networks and an approach to controlling its effect in monotonic classification]()
+1993
+
+Authors notice the bias in classification task performed by NN depends on many factors: architecture, parameters of the
+learning algorithm, initial state, sequence of training points, stopping criteria for learning. Actually we cannot control
+the biased boundary represented by the NN. If we imagine to decision boundaries for positive and negative examples. These
+2 boundaries are composed of the efficient frontiers i.e. points the dominate or are dominated by all other points
+in their region. The region between these boundaries is ambiguity region and the NN places its decision surface arbitrarily.
+Authors want to fix it using monotonicity constraint. The model is composed of 2 NN that generate 2 estimates one for positive
+classification and the other for negative. The result is averaged to get unbiased result. Authors demonstrate the performance
+of the model on the generated data set in R^3, points separated by plane which is perfect decision boundary. The proposed
+model achieves much better results than regular NN.
+
+#[Application of the back propagation neural network algorithm with monotonicity constraints for two-group classification problems]()
+1993
+
+Again paper using monotonicity to improve classification using neural networks. Albeit it does not model the probability
+of the data like our model.
+
 # [Mixture Density Networks](https://publications.aston.ac.uk/373/1/NCRG_94_004.pdf)
 1994.02
 

@@ -1,10 +1,13 @@
 2015 - Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift
 2016 - A note on the evaluation of generative models
+2016 - Deep Residual Learning for Image Recognition
+2016 - Wide residual networks
+2016 - Binarized neural networks: Training deep neural networks with weights and activations constrained to+ 1 or-1
+2016 - Weight Normalization: A Simple Reparameterization to Accelerate Training of Deep Neural Networks
+2017 - Learning without forgetting
 
-Deep Residual Learning for Image Recognition
 Improving variational inference with inverse autoregressive flow 
-Understanding symmetries in deep networks
-Weight Normalization: A Simple Reparameterization to Accelerate Training of Deep Neural Networks 
+Understanding symmetries in deep networks 
 Towards conceptual compression
 
 On composite marginal likelihoods
@@ -26,7 +29,6 @@ Capabilities of three-layered perceptrons
 There exists a neural network that does not make avoidable mistakes
 Theory of the backpropagation neural network
 Probability and Measure
-Approximation by superpositions of a sigmoidal function
 
 Neural Ordinary Differential Equations
 ChauffeurNet: Learning to Drive by Imitating the Best and Synthesizing the Worst

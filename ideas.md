@@ -40,6 +40,20 @@ Use modified tanh at intermediate layers and capped modified tanh at the output 
 Maybe try different non-linearties referenced by this work.
 Use bounded ReLU for F and bounded leaky ReLU for intermediete layyers. 
 
+# Understanding the difficulty of training deep feedforward neural networks
+Try softsign activation function, similar to the hyperbolic tangent, but its tails are quadratic polynomials rather
+than exponentials. This paper has a lot of ideas to check if we want to understand why training of MONDE is slow.
+Monitoring activations and gradients across layers and training iterations is a powerful investigative tool for
+understanding training difficulties in deep nets
+Keeping the layer-to-layer transformations such that both activations and gradients flow well (i.e. with a Jacobian
+around 1) appears helpful, and allows to eliminate a good part of the discrepancy between purely
+supervised deep networks and ones pre-trained with unsupervised learning.
+
+#Learning bias in neural networks and an approach to controlling its effect in monotonic classification
+Here authors describe bias introduced in training NN (like classification surface which is close to last training
+point). Can we also research such bias in our model. Maybe like in the experiment performed in this paper we could
+check if our model is used for classification what is decision boundary i.e. is it biased.
+
 #Problems
 try bigger learning rate
 batch norm every second layer
@@ -58,3 +72,11 @@ Looks like using (1+tanh(x))*0.5 is more stable then sigm
 
 If we apply autoencoder to data to decorelate the dimensions and then apply the copula made, would it achieve better results?
 
+It looks that increasing batch size removes the problem of NaNs in later stages. Maybe we should increase batch size
+after some condition.
+
+Check if making dependency on the nodes which do not have monotonic constraint improve performance
+
+#MADE: Masked Autoencoder for Distribution Estimation
+Maybe MADE is worse than out model because the first component of the AR decomposition is not encoded my the NN ?
+Try adding direct connections between input and output like in MADE.

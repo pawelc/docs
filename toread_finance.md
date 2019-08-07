@@ -1,3 +1,5 @@
+2019 - https://www.cuemacro.com/about/
+
 Probabilistic Graphical Models: A New Way of Thinking in Financial Modelling 
 Bayesian Methods in Finance
 Modelling dependence with copulas and applications to risk management

@@ -105,7 +105,23 @@ Although there are some interesting results about partial monotonicity which cou
 
 # [Understanding the difficulty of training deep feedforward neural networks]()
 2010
-
+Authors train different architectures of forward NN on image data sets. The centered around zero activation functions can be
+better because sigmoid top layer is pushed to zero (saturates) at the beginning of the training. It can be explained 
+that top most hidden layer has little information about input therefore softmax pushes h to 0 and uses only bias. Only later
+when last layer h become useful the sigmoid escape saturation(which can not happen for deeper models i.e. 5 layers). 
+Using tanh helps because 0 output there is not saturation so the gradient can flow uninhabited.  
+Authors do thorough mathematical analysis of variance of activations and gradients to derive optimal initialization
+of the parameters. Authors present how gradient/activations/jackobian of layer transofrmation differs using different
+initialization techniques.
+Monitoring activations and gradients across layers and training iterations is a powerful investigative tool for
+understanding training difficulties in deep nets.
+Sigmoid activations (not symmetric around 0) should be avoided when initializing from small random weights, because they yield poor learning dynamics,
+with initial saturation of the top hidden layer.
+Keeping the layer-to-layer transformations such that both activations and gradients flow well (i.e. with a Jacobian
+around 1) appears helpful, and allows to eliminate a good part of the discrepancy between purely
+supervised deep networks and ones pre-trained with unsupervised learning
+Many of our observations remain unexplained, suggesting further investigations to better understand gradients
+and training dynamics in deep architectures.
 
 
 # [Bounded activation functions for enhanced training stability of deep neural networks on visual pattern recognition problems]()

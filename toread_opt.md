@@ -1,4 +1,8 @@
-No more pesky learning rates
+2013 - No more pesky learning rates
+2019 - Adaptive Gradient Methods with Dynamic Bound of Learning Rate
+    (https://github.com/taki0112/AdaBound-Tensorflow, 
+    https://github.com/kozistr/AdaBound-tensorflow)
+
 Adaptive subgradient methods for online learning and stochastic optimization
 Adam: A method for stochastic optimization
 Numerical Methods for Unconstrained Optimization and Nonlinear Equations
