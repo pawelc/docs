@@ -1,4 +1,25 @@
+1995 - Tests of microstructure hypotheses in the foreign exchange market
+1999 - The Econometric Modelling of Financial Time Series (book)
+1999 - The most general methodology to create a valid correlation matrix for risk management and option pricing purposes
+2000 - Non-Linear Time Series Models in Empirical Finance
+2000 - The Foreign Exchange and Money Markets Guide
+2002 - Increased correlation in bear markets
+2002 - Computing the nearest correlation matrix - a problem from finance
+2004 - Defining risk
+2005 - Economic and Financial Decisions under Risk
+2006 - Foreign exchange a practical guide to the FX markets
+2007 - Implied correlation from VaR
+2010 - The devil is in the tails: actuarial mathematics and the subprime mortgage crisis
+2010 - Newton’s method for computing the nearest correlation matrix with a simple upper bound
+2010 - Correlation stress testing for value-at-risk: an unconstrained convex optimization approach
+2010 - Exchange Rate Regimes in the Modern Era
+2012 - Risk Management and Shareholders Value in Banking From Risk Measurement Models to Capital Allocation Policies (book)
+2014 - https://www.value-at-risk.net
+2014 - Time Series Models for Business and Economic Forecasting
+2014 - VaR-implied tail-correlation matrices
 2019 - https://www.cuemacro.com/about/
+2019 - The man who solved the market (book)
+http://www.londonfx.co.uk/
 
 Probabilistic Graphical Models: A New Way of Thinking in Financial Modelling 
 Bayesian Methods in Finance

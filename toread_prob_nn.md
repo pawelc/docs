@@ -1,9 +1,9 @@
 1990 - Probabilistic interpretation of feedforward classification network outputs, with relationships to statistical pattern recognition
-1994 - A learning law for density estimation
-1995 - Bayesian neural networks and density networks
+1991 - Adaptive mixtures of local experts
+1992 - A Simple lemma on greedy approximation in Hilbert space and convergence rate for projection pursuit regression and neural network training
+1992 - Parametric statistical estimation with artificial neural networks
+1994 - Robust parameter estimation and model selection for neural network regression
 1995 - Multilayer perceptron training with inaccurate derivative information
-1995 - Estimating conditional probability densities for periodic variables
-1995 - Hints
 1995 - Predicting Conditional Probability Distributions A Connectionist Approach
 1996 - Multidimensional density shaping by sigmoids
 1996 - Topographic map formation by maximizing unconditional entropy A plausible strategy for on-line unsupervised competitive learning and nonparametric density estimation
@@ -60,6 +60,7 @@ the likelihood
 2013 - Deep autoregressive networks
 2013 - Multimodal transitions for generative stochastic networks
 2013 - Generalized denoising autoencoders as generative models
+2013 - A family of nonparametric density estimation algorithms
 2014 - Deep generative stochastic networks trainable by backprop
 2014 - Iterative neural autoregressive distribution estimator NADE-k
 2014 - Generative adversarial nets - 2014
@@ -77,9 +78,11 @@ the likelihood
 2016 - Better Conditional Density Estimation for Neural Networks
 2016 - Nonparametric Density Estimation Based on Self-Organizing Incremental Neural Network for Large Noisy Data
 2016 - Conditional Image Generation with PixelCNN Decoders
+2016 - Photo-Realistic Single Image Super-Resolution Using a Generative Adversarial Network
 2016 - Dropout as a Bayesian Approximation: Representing Model Uncertainty in Deep Learning
 2016 - NIPS 2016 tutorial: Generative adversarial networks (https://www.youtube.com/watch?v=HGYYEUSm-0Q)
 2016 - Unrolled generative adversarial networks
+2016 - Learning in Implicit Generative Models
 2017 - Maximum entropy flow networks
 2017 - Parallel wavenet: Fast high-fidelity speech synthesis
 2017 - Multiplicative normalizing flows for variational bayesian neural networks
@@ -91,12 +94,15 @@ the likelihood
 2017 - Recurrent Estimation of Distributions
 2017 - Deep Lattice Networks and Partial Monotonic Functions
 2017 - PixelSNAIL An Improved Autoregressive Generative Model
+2017 - Wasserstein generative adversarial networks
 2017 - Parallel multiscale autoregressive density estimation
 2017 - https://j-towns.github.io/2017/06/12/A-new-trick.html
 2017 - Adversarial variational bayes: Unifying variational autoencoders and generative adversarial networks
 2017 - Comparison of maximum likelihood and gan-based training of real nvps
 2017 - Bottleneck conditional density estimation
 2017 - https://github.com/tensorflow/magenta/tree/master/magenta/models/coconet
+2017 - Mixture density networks for distribution and uncertainty estimation
+2017 - Improving Variational Auto-Encoders using Householder Flow
 2018 - Sylvester normalizing flows for variational inference
 2018 - Transformation Autoregressive Networks
 2018 - Recursive Neural Networks for Density Estimation Over Generalized Random Graphs
@@ -107,4 +113,27 @@ the likelihood
 2018 - Neural importance sampling
 2018 - On Difficulties of Probability Distillation (https://openreview.net/forum?id=rygFmh0cKm)
 2018 - Glow: Generative flow with invertible 1x1 convolutions
+2018 - Demystifying MMD GANs
+2018 - Neural Ordinary Differential Equations
 2018 - https://medium.com/tensorflow/introducing-tensorflow-probability-dca4c304e245
+2018 - Flow-GAN: Combining Maximum Likelihood and Adversarial Learning in Generative Models
+2018 - Conditional Density Estimation with Bayesian Normalising Flows
+2018 - (DENSITY ESTIMATION: VARIATIONAL AUTOENCODERS) http://ruishu.io/2018/03/14/vae/
+2019 - Semi-Conditional Normalizing Flows for Semi-Supervised Learning
+2019 - Flow++: Improving Flow-Based Generative Models with Variational Dequantization and Architecture Design
+2019 - Discrete Flows: Invertible Generative Models of Discrete Data
+2019 - Integer Discrete Flows and Lossless Compression
+2019 - Block Neural Autoregressive Flow
+2019 - Neural density estimation and likelihood-free inference
+2019 - Normalizing flows: Introduction and ideas
+2019 - Sum-of-Squares Polynomial Flow
+2019 - Unconstrained monotonic neural networks
+2019 - Cubic-spline flows
+2019 - Neural spline flows
+2019 - MintNet: Building invertible neural networks with masked convolutions
+2019 - MaCow: Masked convolutional generative flow
+2019 - Waveglow: A flow-based generative network for speech synthesis
+2019 - FloWaveNet : A generative flow for raw audio
+2019 - Invertible residual networks
+2019 - Residual  flows for invertible generative modeling
+2019 - Neural networks with cheap differential operators

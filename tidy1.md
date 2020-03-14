@@ -97,7 +97,6 @@ Learning compact recurrent neural networks
 Real-time interactive sequence generation and control with Recurrent Neural Network ensembles
 From Bayesian Sparsity to Gated Recurrent Nets
 Recurrent Additive Networks
-Mixture density networks for distribution and uncertainty estimation
 Translating videos to natural language using deep recurrent neural networks
 Video description generation incorporating spatiotemporal features and a soft-attention mechanism
 Sequence to Sequence -- Video to Text
@@ -348,7 +347,6 @@ Tangent prop - A formalism for specifying selected invariances in an adaptive ne
 Re-Sign: Re-Aligned End-to-End Sequence Modelling with Deep Recurrent CNN-HMMs
 Unified integration of explicit knowledge and learning by example in recurrent networks
 Programmable execution of multi-layered networks for automatic speech recognition
-Adaptive mixtures of local experts
 Phoneme Recognition Using Time Delay Neural Networks
 Boosted Backpropagation Learning for Training Deep Modular Networks
 Training Stochastic Model Recognition Algorithms as Networks can Lead to Maximum Mutual Information Estimation of Parameters
@@ -532,7 +530,6 @@ Neural Episodic Control
 Towards Biologically Plausible Deep Learning
 On distinguishability criteria for estimating generative models
 Learning Representations by Recirculation
-Estimation of non-normalized statistical models using score matching
 Learning iterative image reconstruction in the neural abstraction pyramid
 http://people.idsia.ch/~juergen/compressednetworksearch.html
 https://www.youtube.com/watch?v=TFIMqt0yT2I

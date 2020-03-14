@@ -1,3 +1,15 @@
+1984 - Monte Carlo methods of inference for implicit statistical models
+1999 - Nonlinear independent component analysis: Existence and uniqueness results
+2005 - Triangular transformations of measures
+2007 - A Kernel Method for the Two-Sample-Problem
+2009 - Unlearning for better mixing
+2011 - The Separation Plot: A New Visual Method for Evaluating the Fit of Binary Models
+2017 - UAI 2017 Tutorial: Shakir Mohamed & Danilo Rezende (https://www.youtube.com/watch?v=JrO5fSskISY, DeepGenModelsTutorial.pdf)
+2017 - On Blackbox Backpropagation and Jacobian Sensing
+2019 - Exascale Deep Learning for Scientific Inverse Problems
+2019 - Deep Learning with PyTorch
+2019 - Static Automatic Batching In TensorFlow
+
 Determining the degree of generalization using an incremental learning algorithm
 Pattern Classification and Scene Analysis
 No Free Lunch for Early Stopping
@@ -79,7 +91,6 @@ Learning to rank: from pairwise approach to listwise approach
 Learning to rank with nonsmooth cost functions
 A support vector method for multivariate performance measures
 Cumulated gain-based evaluation of IR techniques
-Nonlinear independent component analysis: Existence and uniqueness results
 A comparison of numerical optimizers for logistic regression
 The unified propagation and scaling algorithm
 Iterative Scaling and Coordinate Descent Methods for Maximum Entropy Models

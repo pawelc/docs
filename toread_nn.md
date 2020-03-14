@@ -2,6 +2,7 @@
 1987 - Geometric analysis of neural network capabilities
 1989 - Approximation by superpositions of a sigmoidal function
 1989 - Pattern classification using neural networks
+1990 - Learning from hints in neural networks
 1993 - Second order derivatives for network pruning: Optimal Brain Surgeon
 2009 - Quadratic features and deep architectures for chunking
 2011 - Deep sparse rectifier neural networks
@@ -12,10 +13,14 @@
 2015 - Highway Networks
 2015 - All you need is a good init
 2016 - Effective deep learning-based multi-modal retrieval
+2016 - Deep Residual Learning for Image Recognition
 2016 - https://medium.com/@karpathy/yes-you-should-understand-backprop-e2f06eab496b
 2016 - Distributed B-SDLM: Accelerating the Training Convergence of Deep Neural Networks Through Parallelism
+2016 - https://tebesu.github.io/posts/Training-a-TensorFlow-graph-in-C++-API
 2017 - Softsign as a Neural Networks Activation Function
+2017 - Axiomatic Attribution for Deep Networks
 2018 - Analysis on Gradient Propagation in Batch Normalized Residual Networks
+2018 - Regularisation of neural networks by enforcing Lipschitz continuity
 2019 - Hands-On Computer Vision with TensorFlow 2
     https://github.com/PacktPublishing/Hands-On-Computer-Vision-with-TensorFlow-2
  
@@ -29,7 +34,6 @@ Networks with trainable amplitude of activation functions
 Polynomial Regression As an Alternative to Neural Nets
 Neural clouds for monitoring of complex systems
 Generalized Constraint Neural Network Regression Model Subject to Linear Priors
-Learning from hints in neural networks
 Hints and the VC Dimension
 Efficient Pattern Recognition Using a New Transformation Distance
 Financial Market Applications of Learning from Hints Neural Networks in the Capital Markets

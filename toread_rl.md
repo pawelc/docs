@@ -1,4 +1,8 @@
 1976 - Decisions with Multiple Objectives Preferences and Value Trade-Offs (book)
+2018 - Soft Actor-Critic: Off-Policy Maximum Entropy Deep Reinforcement Learning with a Stochastic Actor
+2018 - World Models
+2018 - Recurrent World Models Facilitate Policy Evolution
+2019 - Reinforcement Learning for Market Making in a Multi-agent Dealer Market
 
 Idiosyncrasies and challenges of data driven learning in electronic trading
 https://github.com/tspooner/rl_markets

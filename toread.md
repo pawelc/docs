@@ -1,6 +1,4 @@
 2015 - Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift
-2016 - A note on the evaluation of generative models
-2016 - Deep Residual Learning for Image Recognition
 2016 - Wide residual networks
 2016 - Binarized neural networks: Training deep neural networks with weights and activations constrained to+ 1 or-1
 2016 - Weight Normalization: A Simple Reparameterization to Accelerate Training of Deep Neural Networks
@@ -16,7 +14,6 @@ Composite likelihood methods
 Statistical analysis of non-lattice data
 Probability, Random Variables and Stochastic Processes
 Learning with tree-averaged densities and distributions
-Copulas in machine learning
 The pseudo-marginal approach for efficient Monte Carlo computations
 Vines: a new graphical model for dependent random variables
 Factorial mixture of Gaussians and the marginal independence model
@@ -30,7 +27,6 @@ There exists a neural network that does not make avoidable mistakes
 Theory of the backpropagation neural network
 Probability and Measure
 
-Neural Ordinary Differential Equations
 ChauffeurNet: Learning to Drive by Imitating the Best and Synthesizing the Worst
 Early stopping as nonparametric variational inference
 A characterization of the Dirichlet distribution through global and local parameter independence

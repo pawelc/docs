@@ -1,3 +1,6 @@
+1955 - Theory of ordinary differential equations
+2010 - Lecture notes on numerical solutions of ordinary differential equations
+
 An Introduction to Measure Theory
 Real analysis for graduate students
 http://bjlkeng.github.io/posts/the-calculus-of-variations/

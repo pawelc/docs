@@ -1,4 +1,7 @@
 2013 - No more pesky learning rates
+2016 - On large-batch training for deep learning: Generalization gap and sharp minima
+2017 - A bayesian perspective on generalization and stochastic gradient descent
+2017 - Train longer, generalize better: closing the generalization gap in large batch training of neural networks
 2019 - Adaptive Gradient Methods with Dynamic Bound of Learning Rate
     (https://github.com/taki0112/AdaBound-Tensorflow, 
     https://github.com/kozistr/AdaBound-tensorflow)

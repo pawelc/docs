@@ -10,6 +10,11 @@ that enforces the correlation matrix to be PSD. Albeit got slightly worse result
 Overview of different ways of differentiation: numerical, symbolic and autodiff. Report present how to efficiently compute
 gradient with respect to tied parameters like in RNN. Examples showing autodiff and parameter tying.
 
+# [2016 - A note on the evaluation of generative models]()
+They quality of the model in different tests depends on the objective being optimized (KLD, MMD, JSD). The JSD would
+be optimal when we want to sample plausible images from the model. But for compression we would like to use KLD when
+each possible vector should have sufficient probability.
+
 # [Automatic Differentiation in Machine Learning: a Survey](https://arxiv.org/abs/1502.05767)
 2018.02.05
 

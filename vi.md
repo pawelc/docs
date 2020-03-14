@@ -159,7 +159,7 @@ is the gaussian + tranformation of previous stochastic layer.
 2015.05.15
 
 Authors notice the we can improve variational methods by using richer approximate posteriors by using normalizing
-flows i.e. series of invertible mappings of one random variable into another. They conjecture that this apprach is the universal approximator
+flows i.e. series of invertible mappings of one random variable into another. They conjecture that this approach is the universal approximator
 of any posterior distribution. They use amortized version to train the Deep Gaussian Latent Model on CFAIR data and custom toy densities and compare
 to previous methods.
 

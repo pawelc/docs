@@ -1,9 +1,13 @@
 1962 - On estimation of a probability density function and mode
 1962 - Introduction to the theory of statistics (book)
 1969 - Estimating the components of a mixture of normal distributions
+1978 - On a measure of lack of fit in time series models
 1986 - Density estimation for statistics and data analysis
 1995 - Wand, M.P and Jones, M.C. (1995). Kernel Smoothing. London: Chapman & Hall/CRC.
+1997 - Counterexamples in Probability
+1999 - Probability Theory and Statistical Inference Econometric Modeling with Observational Data (book)
 2001 - Gaussianization
+2010 - Copula Processes
 2015 - Distilling intractable generative models
 2015 - Picture A probabilistic programming language for scene perception
 2016 - Density modeling of images using a generalized normalization transformation
@@ -81,7 +85,6 @@ All of Statistics: A Concise Course in Statistical Inference
 Ordered families of distributions
 Stochastic orders and their applications
 Noncentered parameterisations for hierarchical models and data augmentation
-A family of nonparametric density estimation algorithms
 Density estimation by dual ascent of the log-likelihood
 MCMC using hamiltonian dynamics
 Correlation and causation

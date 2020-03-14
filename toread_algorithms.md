@@ -1,3 +1,7 @@
+1988 - Random number generators good ones are hard to find
+1998 - Good random number generators are (not so) easy to find
+1998 - Handbook of Simulation - Principles, Methodology, Advances, Applications, and Practice
+
 The data-flow equations of checkpointing in reverse automatic differentiation
 Divide-and-conquer checkpointing for arbitrary programs with no user annotation
 Analytical differentiation on a digital computer

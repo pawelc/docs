@@ -1,3 +1,5 @@
+2017 Variational inference and deep learning new synthesis
+
 Gradient Estimation Using Stochastic Computation Graphs
 Deep amortized inference for probabilistic programs
 Fixed-form variational posterior approximation through stochastic linear regression

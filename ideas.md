@@ -77,6 +77,8 @@ after some condition.
 
 Check if making dependency on the nodes which do not have monotonic constraint improve performance
 
+Try activation normalization instead of batch normalization as used in the Glow paper.
+
 #MADE: Masked Autoencoder for Distribution Estimation
 Maybe MADE is worse than out model because the first component of the AR decomposition is not encoded my the NN ?
 Try adding direct connections between input and output like in MADE.

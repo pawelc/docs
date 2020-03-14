@@ -54,6 +54,18 @@ model achieves much better results than regular NN.
 Again paper using monotonicity to improve classification using neural networks. Albeit it does not model the probability
 of the data like our model.
 
+#[A learning law for density estimation]()
+1994
+
+Authors use NN (with one hidden layer) to output density. 
+They use output exponential unit so they approximate the family 
+of exponential functions. Because they output directly density they have to normalize it. 
+They maximize the log likelihood (the same is minimizing KL divergence between the true density and estimator) 
+and the target density is not known  therefore it is unsupervised learning. 
+The bias of the last layer is learnt so the density estimator is normalized (the learning rule is derived from the KL divergence
+and the constrain for the coefficient so the density is normalized). To compute the update the computation of multidimensional
+integral is required (over the entire support of the density function, therefore the support has to be compact).
+
 # [Mixture Density Networks](https://publications.aston.ac.uk/373/1/NCRG_94_004.pdf)
 1994.02
 
@@ -78,6 +90,32 @@ where unimodal cdf had to be convex before mode and concave after mode. They add
  by some additional method. They also normalize the data to fall into (0,1) to (0.2,0.8) ranges.
 They use one hidden layer with known approximation of required number of hidden neurons to be (N-1)/3 where N is rank of the training data.
 
+# [Estimating conditional probability densities for periodic variables]()
+1995
+
+Authors show method to estimate conditional density for periodic variables like direction of the wind. Authors provide 3 methods:
+1. Transforming periodic variable to Euclidean space where standard methods can be used 2. Using parametric periodic kernels 
+3. Using non-parametric kernel but mixture parameter parametrized. Authors test models on generated data and data for satellite.
+
+# [Hints]()
+1995
+
+Authors add auxiliary data(hints) to the training data to guide learning process. The experiments are done on financial
+FX data. Authors show how VC dimension decreases when we add hints (the VC dimension tells how much training data is enough).
+The hints can be provided by creating virtual examples for example which are evaluated on additional error function (there is error function
+per hint), do depending on the example (coming from training data or hint) we use different error function. There are different
+ways how to combine these different error terms. 
+
+# [Bayesian neural networks and density networks]()
+1995
+Learning logistic linear regression when probability over parameters is learnt. First author show that using gaussian prior
+we end up using standard regularizer. Show than multiplying prior and likelihood we obtain probability over parameter space. 
+Author defines probabilistic equations for posterior densities of parameters, hyper parameters (we don't have to run 
+cross-validation). The model uses gaussian approximation and MC samples to compute posterior distribution.
+Author notices that current NN models do not model density of the inputs. They discuss how to use MLP as density model.
+The density network estimates contains hidden vector x (with prior p(x)) and has nonlinear mapping p(t|x,w) 
+with priors over w, the t is data observed. The density network is similar to the second part of the autoencoder. The model can
+be modified to work with partially missing input.
 
 # [Probability Density Estimation using Artificial Neural Networks](http://www.cs.uoi.gr/~arly/papers/CPC2001.pdf)
 2000.07.18
@@ -168,7 +206,8 @@ NN layer. They use various data sets for the comparison.
 
 Extension to the RNADE to deep models and any order of variables in autoregressive representation. This is simple multi layer
 neural network with specially designed learning procedure that allows to share weights for all orderings of autoregressive
-model.
+model. Authors use approximation to the exact likelihood by computing estimator which sample from the expectation. The sample contains 
+only one autoregressive factor so by masking o>=d in the input and using gradient only from 
 
 # [NICE: Non-linear independent components estimation]()
 2014
@@ -339,3 +378,16 @@ As examples authors generate different mixtures of well known distributions. Whe
 using special activation function with tunable parameters helps a lot and almost ideal pdf is reached.
 Currently author is working on efficient high order differentiation. Also the future work will be focused on deep nets and making it
 possible to do higher order differentiation in them.
+
+# [Introduction to Normalizing Flows](https://github.com/kmkolasinski/deep-learning-notes/blob/master/seminars/2018-09-Introduction-to-Normalizing-Flows/slides.pdf)
+2018
+
+Very nice tutorial on normalizing flows.
+
+# [Normalizing Flows for Probabilistic Modeling and Inference]()
+2019
+
+Thorough overview of the normalizing flow. Authors have proof why NF can estimate any distribution meeting some requirements.
+This proof uses CDFs so possibly can be extended to our models. The review of the flow discrete flows using conditioner and transformer
+at each step of the flow. The second type of flows are continuous flows which describe the flow using ODE (the complexity of computing 
+forward and reverse of the flow in this case is the same, which is not true for discrete flows)

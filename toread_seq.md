@@ -1,3 +1,14 @@
+1973 - A Markov model for switching regressions
+1982 - Autoregressive conditional heteroskedasticity with estimates of the variance of UK inflation
+1986 - Generalized autoregressive conditional heteroskedasticity
+1990 - Modelling the coherence in short-run nominal exchange rates: A multivariate generalized ARCH model
+1995 - Multivariate simultaneous generalized ARCH
+1999 - Have exchange rates become more closely tied Evidence from a new multivariate GARCH model
+2000 - Dynamic conditional correlation—A simple class of multivariate GARCH models
+2001 - Theoretical and empirical properties of dynamic conditional correlation multivariate GARCH
+2010 - Introduction to Time Series and Forecasting
+2013 - Forecasting conditional correlation for exchange rates using multivariate GARCH models with historical value-at-risk application
+
 An introduction of trajectory model into HMM-based speech synthesis
 Dynamic Bayesian Networks with Deterministic Tables
 Statistical inference for probabilistic functions of finite state Markov chains
