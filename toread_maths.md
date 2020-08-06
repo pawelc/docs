@@ -1,4 +1,5 @@
 1955 - Theory of ordinary differential equations
+2008 - Evaluating Derivatives: Principles and Techniques of Algorithmic Differentiation
 2010 - Lecture notes on numerical solutions of ordinary differential equations
 
 An Introduction to Measure Theory
@@ -12,7 +13,6 @@ A mathematical view of automatic differentiation
 Numerical Analysis
 An introduction to automatic differentiation
 A simple automatic derivative evaluation program
-Evaluating Derivatives: Principles and Techniques of Algorithmic Differentiation
 On the numerical stability of algorithmic differentiation
 Numerical Recipes: The Art of Scientific Computing
 Automatic differentiation of algorithms

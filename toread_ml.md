@@ -1,14 +1,33 @@
+1951 - A stochastic approximation method
 1984 - Monte Carlo methods of inference for implicit statistical models
+1986 - The Arithmetic of Differentiation
+1997 - On bias, variance, 0/1 - loss, and the curse-of-dimensionality
 1999 - Nonlinear independent component analysis: Existence and uniqueness results
 2005 - Triangular transformations of measures
+2006 - Gaussian processes for machine learning
 2007 - A Kernel Method for the Two-Sample-Problem
+2007 - An analysis of logistic models: Exponential family connections and online performance
 2009 - Unlearning for better mixing
 2011 - The Separation Plot: A New Visual Method for Evaluating the Fit of Binary Models
+2012 - Python for Data Analysis
+2016 - https://www.cs.ox.ac.uk/people/nando.defreitas/machinelearning/
 2017 - UAI 2017 Tutorial: Shakir Mohamed & Danilo Rezende (https://www.youtube.com/watch?v=JrO5fSskISY, DeepGenModelsTutorial.pdf)
 2017 - On Blackbox Backpropagation and Jacobian Sensing
+2017 - Detecting Statistical Interactions from Neural Network Weights
+2018 - The simple essence of automatic differentiation
+2018 - Neural Sketch Learning for Conditional Program Generation
 2019 - Exascale Deep Learning for Scientific Inverse Problems
 2019 - Deep Learning with PyTorch
 2019 - Static Automatic Batching In TensorFlow
+2019 - https://github.com/khipu-ai/practicals-2019
+2019 - Stanford CS330: Multi-Task and Meta-Learning, 2019 (https://www.youtube.com/watch?v=0rZtSwNOTQo&list=PLoROMvodv4rMC6zfYmnD7UG3LVvwaITY5)
+2019 - A Review of Automatic Differentiation and its Efficient Implementationd
+2019 - Compositional uncertainty in deep Gaussian processes
+2020 - https://braininspired.co/podcast/
+2020 - https://www.youtube.com/watch?v=BCiZc0n6COY&list=PLruBu5BI5n4aFpG32iMbdWoRVAA-Vcso6
+2020 - http://mbmlbook.com/
+2020 - Fair k-Means Clustering
+2020 - Robust $k$-means++
 
 Determining the degree of generalization using an incremental learning algorithm
 Pattern Classification and Scene Analysis
@@ -58,7 +77,6 @@ Theoretical comparison between the Gini Index and Information Gain criteria
 Optimization for Machine Learning
 Optimization methods for large-scale machine learning
 Accelerated training of conditional random fields with stochastic gradient methods
-Gaussian processes for machine learning
 https://medium.com/deep-learning-turkey/google-colab-free-gpu-tutorial-e113627b9f5d
 Learning to rank using gradient descent
 Adaptivemixtures of local experts
@@ -66,7 +84,6 @@ Trees, Mixtures of Trees and Non-parametric Bayesian Learning
 Probabilistic Networks and Expert Systems
 Posterior Sampling When the Normalizing Constant is Unknown
 Automatic choice of dimensionality for PCA
-A stochastic approximation method
 Differential geometry of curved exponential families-curvatures and information loss
 Introduction to Stochastic Search and Optimization: Estimation, Simulation and Control
 Large scale online learning
@@ -151,11 +168,9 @@ Deep generative image models using a laplacian pyramid of adversarial networks
 Unsupervised representation learning with deep convolutional generative adversarial networks
 Autoencoding beyond pixels using a learned similarity metric
 An information-maximization approach to blind separation and blind deconvolution
-Embed to control: A locally linear latent dynamics model for control from raw images
 Do Deep Generative Models Know What They Don't Know?
 Vision as bayesian inference: analysis by synthesis?
 Analysis-by-synthesis by learning to invert generative black boxes
-Generating sentences from a continuous space
 A hierarchical latent variable encoder-decoder model for gen- erating dialogues
 https://rise.cs.berkeley.edu/blog/michael-i-jordan-artificial-intelligence%e2%80%8a-%e2%80%8athe-revolution-hasnt-happened-yet/
 https://github.com/rasbt/deeplearning-models

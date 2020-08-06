@@ -3,6 +3,7 @@
 1969 - Estimating the components of a mixture of normal distributions
 1978 - On a measure of lack of fit in time series models
 1986 - Density estimation for statistics and data analysis
+1991 - Elements of Information Theory
 1995 - Wand, M.P and Jones, M.C. (1995). Kernel Smoothing. London: Chapman & Hall/CRC.
 1997 - Counterexamples in Probability
 1999 - Probability Theory and Statistical Inference Econometric Modeling with Observational Data (book)
@@ -35,7 +36,6 @@ Probability density estimation
 Density estimation-based document categorization using von Mises-Fisher kernels
 Statistical Learning Theory
 An Overview of Statistical Learning Theory
-Elements of Information Theory
 A mathematical theory of communication
 The Elements of Statistical Learning: Data Mining, Inference, and Prediction
 An Introduction to MCMC for Machine Learning
@@ -137,7 +137,6 @@ Online learning Fokker-Planck machine
 https://colab.research.google.com/github/tensorflow/probability/blob/master/tensorflow_probability/examples/jupyter_notebooks/Gaussian_Copula.ipynb#scrollTo=a4Ho39s02fg9
 How Unlucky is 25-Sigma
 Categorical Reparameterization with Gumbel-Softmax
-The Concrete Distribution: A Continuous Relaxation of Discrete Random Variables
 https://www.inference.vc/high-dimensional-gaussian-distributions-are-soap-bubble/
 Topics in spatial statistics
 A note on composite likelihood inference and model 

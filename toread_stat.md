@@ -16,6 +16,7 @@
 2013 - Mutual Information between Discrete and Continuous Data Sets
 2013 - Predicting covariance matrices with financial conditions indexes
 2016 - Tail dependence of the Gaussian copula revisited
+2020 - Statistical Rethinking : A Bayesian Course with Examples in R and Stan
 https://www.statlect.com/
 
 Generalized Linear Models

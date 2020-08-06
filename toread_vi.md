@@ -1,4 +1,27 @@
-2017 Variational inference and deep learning new synthesis
+2011 - Practical variational inference for neural networks
+2014 - Amortized inference in probabilistic reasoning
+2014 - Semi-Supervised Learning with Deep Generative Models
+2015 - Deep convolutional inverse graphics network
+2015 - Markov Chain Monte Carlo and Variational Inference: Bridging the Gap
+2015 - DRAW: A Recurrent Neural Network For Image Generation
+2015 - Importance weighted autoencoders
+2015 - Adversarial Autoencoders
+2015 - Embed to control: A locally linear latent dynamics model for control from raw images
+2015 - Generating sentences from a continuous space
+2016 - How to train deep variational autoencoders and probabilistic ladder networks 
+2016 - Composing graphical models with neural networks for structured representations and fast inference
+2016 - Hierarchical variational models
+2016 - The Generalized Reparameterization Gradient
+2016 - A structured variational auto-encoder for learning deep hierarchies of sparse features
+2016 - Sampling Generative Networks: Notes on a Few Effective Techniques
+2016 - Variational inference for Monte Carlo objectives
+2017-  Variational inference and deep learning new synthesis
+2017 - Automatic differentiation variational inference
+2017 - Enabling dark energy science with deep generative models of galaxy images
+2017 - Variational dropout sparsifies deep neural networks
+2017 - The Concrete Distribution: A Continuous Relaxation of Discrete Random Variables
+2018 - Distribution matching in variational inference
+2018 - Automatic chemical design using a data-driven continuous representation of molecules
 
 Gradient Estimation Using Stochastic Computation Graphs
 Deep amortized inference for probabilistic programs
@@ -6,11 +29,9 @@ Fixed-form variational posterior approximation through stochastic linear regress
 Neural Variational Inference and Learning in Belief Networks
 VIBES: A variational inference engine for Bayesian networks.
 Mean field theory for sigmoid belief networks
-Semi-Supervised Learning with Deep Generative Models 
 Variational message passing
 Variational inference for large-scale models of discrete choice
 Variational Inference for Sparse and Undirected Models
-Automatic differentiation variational inference
 Black Box Variational Inference Scalable, Generic Bayesian Computation and its Applications
 Deep Probabilistic Programming
 #Population Empirical Bayes
@@ -28,13 +49,11 @@ Variational Recurrent Adversarial Deep Domain Adaptation
 Auto Encoding variational bayes with example from the book and “Tutorial on Variational Autoencoders”
 An exact mapping between the Variational Renormalization Group and Deep Learning
 Fast second order stochastic backpropagation for variational inference
-Variational inference for Monte Carlo objectives
 Improving the mean field approximation via the use of mixture distributions
 Nonparametric variational inference
 Doubly stochastic variational Bayes for non-conjugate inference
 Affine independent variational inference
 Learning stochastic inverses
-Amortized inference in probabilistic reasoning
 Convergence and asymptotic normality of variational Bayesian approximations for exponential family models with missing values
 Copula variational inference
 Automatic variational inference in Stan
@@ -68,7 +87,6 @@ Variational inference for generalized linear mixed models using partially noncen
 A stochastic variational framework for fitting and diagnosing generalized linear mixed models
 Semiparametric mean field variational Bayes: General principles and numerical issues
 Bounded approximations for marginal likelihoods
-Hierarchical variational models
 On Using Control Variates with Stochastic Approximation for Variational Bayes and its Connection to Stochastic Linear Regression
 Doubly stochastic variational Bayes for nonconjugate inference
 Variational cumulant expansions for intractable distributions
@@ -80,13 +98,10 @@ Gaussian variational approximation with sparse precision matrix
 Variational MCMC
 Sparse stochastic inference for latent Dirichlet allocation
 Structured stochastic variational inference
-Markov Chain Monte Carlo and Variational Inference: Bridging the Gap
 A variational Bayesian framework for graphical models
 Ladder variational autoencoders
-IMPORTANCE WEIGHTED AUTOENCODERS
 The variational Gaussian process
 Variational algorithms for approximate bayesian inference
-The Generalized Reparameterization Gradient
 REBAR: Low-variance, unbiased gradient estimates for discrete latent variable models
 Variational Bayes With Intractable Likelihood
 Overdispersed Black-Box Variational Inference
@@ -116,7 +131,6 @@ Mixture Representations for Inference and Learning in Boltzmann Machines
 Incorporating Expressive Graphical Models in Variational Approximations Chain-Graphs and Hidden Variables
 Helmholtz machines and wake-sleep learning
 VAE with a VampPrior
-Adversarial Autoencoders
 Elbo surgery: yet another way to carve up the variational evidence lower bound
 Advances in variational inference
 Taming VAEs

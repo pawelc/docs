@@ -13,4 +13,3 @@ R. Diestel. Graph Theory. Springer, 2005
 A. Gibbons. Algorithmic Graph Theory. Cambridge University Press, 1991
 Nonlinear Programming
 Garey, M., & Johnson, D. (1979). Computers and intractability: A guide to the theory of NP-completeness. San Francisco, CA: W. H. Freeman
-A Review of Automatic Differentiation and its Efficient Implementation

@@ -1,5 +1,9 @@
+1995 - The Helmholtz machine
+1996 - On a dualization of graphical Gaussian models
+1997 - The EM Algorithm and Extensions
+1998 - Fitting a Conditional Linear Gaussian Distribution
+2002 - Ancestral Graph Markov Models
 2019 - Causal Graphical Views of Fixed Effects and Random Effects Models
-2019 - https://www.youtube.com/watch?v=NkJNcEed2NU&feature=youtu.be (From automatic differentiation to message passing)
 
 Inference, Sampling, and Learning in Copula Cumulative Distribution Networks (with code 
 https://github.com/stefanwebb/cumulativenet)
@@ -8,7 +12,6 @@ Copula Bayesian Networks
 Approximating discrete probability distributions with dependence trees
 Theory refinement on Bayesian networks
 Hidden Markov Decision Trees
-Composing graphical models with neural networks for structured representations and fast inference
 F. V. Jensen and T. D. Nielson. Bayesian Networks and Decision Graphs. Springer Verlag, second edition, 2007
 S. L. Lauritzen. Graphical Models. Oxford University Press, 1996
 Decision-theoretic troubleshooting: A framework for repair and experiment
@@ -16,7 +19,6 @@ Causal networks : Semantics and expressiveness
 Bayes-ball: The rational pastime
 Influence diagrams for causal modelling and inference
 On non-graphical description of models of conditional independence structure
-Ancestral Graph Markov Models
 D. R. Cox and N. Wermuth. Multivariate Dependencies. Chapman and Hall, 1996
 J. Whittaker. Graphical Models in Applied Multivariate Statistics. John Wiley & Sons, 1990
 Gibbs and Markov Random Systems with Constraints
@@ -35,7 +37,6 @@ A fast learning algorithm for deep belief nets
 Deep Boltzmann machines
 Modeling documents with a deep boltzmann machine
 Multi-prediction deep boltzmann machines
-The Helmholtz machine
 Varieties of Helmholtz machine
 Reweighted wake-sleep
 A new learning algorithm for mean-field Boltzmann machines
@@ -65,7 +66,6 @@ Structural Equations with Latent Variables
 Causal reasoning with ancestral graphs
 Finding latent causes in causal networks: an efficient approach based on Markov blankets
 Wishart distributions for covariance graph models
-On a dualization of graphical Gaussian models
 Local Markov property for models satisfying the composition axiom
 Bayesian inference for Gaussian mixed graph models
 Iterative conditional fitting for Gaussian ancestral graph models
@@ -81,9 +81,7 @@ Learning Bayesian Networks: The Combination of Knowledge and Statistical Data
 On the Dirichlet prior and Bayesian regularization
 On Sensitivity of the MAP Bayesian Network Structure to the Equivalent Sample Size Parameter
 Learning the Bayesian Network Structure: Dirichlet Prior vs Data
-Bayesian Network Classifiers
 Supervised learning from incomplete data via an EM approach
-The EM Algorithm and Extensions
 A unified approach on fast training of feedforward and recurrent networks using EM algorithm
 A Monte Carlo implementation of the EM algorithm and the poor man’s data augmentation algorithms
 The EM algorithm for mixtures of factor analyzers

@@ -20,3 +20,9 @@ each possible vector should have sufficient probability.
 
 Good survey of AD methods. How they refer to other methods like backpropagation. History. Application in different areas
 of machine learning. Summarize in my thesis.
+
+# [From automatic differentiation to message passing](https://www.youtube.com/watch?v=NkJNcEed2NU&feature=youtu.be)
+2019.06.19
+
+Presentation about machine learning language that could be build on top of massage passing. Presenter shows issues with applying
+blindly algorithmic differentiation which does not support approximation for example. Message passing does.

@@ -163,7 +163,9 @@ flows i.e. series of invertible mappings of one random variable into another. Th
 of any posterior distribution. They use amortized version to train the Deep Gaussian Latent Model on CFAIR data and custom toy densities and compare
 to previous methods.
 
-# [Auxiliary Deep Generative Models]
+#[Auxiliary Deep Generative Models]()
+2016
+
 Another way of improving variation methods is to use more expressive variational distributions by adding auxiliary latent 
 variables. This enables more expressive approximate distributions even if we are using factorized Gaussian for each factor: 
 $q(\mathbf{z},\mathbf{a}|\mathbf{x})= q(\mathbf{z}|\mathbf{a},\mathbf{x})q(\mathbf{a}|\mathbf{x})$.
@@ -186,3 +188,9 @@ demonstrates general universal representational capability of inverse autoregres
 Learning better prior allows to model better approximate posterior. Here we have a proof that the sequence of autoregressive
  mappings can approximate any continuous distributions. Read it later.
 
+
+#[An Introduction to Variational Autoencoders]()
+2019
+
+Overview of VAE and its improvements, applications, literature. Applying other models to improve VAE performance like
+ Normalizing Flows. Very thorough and clear.

@@ -1,4 +1,3 @@
-2015 - Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift
 2016 - Wide residual networks
 2016 - Binarized neural networks: Training deep neural networks with weights and activations constrained to+ 1 or-1
 2016 - Weight Normalization: A Simple Reparameterization to Accelerate Training of Deep Neural Networks

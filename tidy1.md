@@ -1,7 +1,5 @@
 The Kanerva Machine: A Generative Distributed Memory
-What Uncertainties Do We Need in Bayesian Deep Learning for Computer Vision
 Learning Stochastic Recurrent Networks
-DRAW: A Recurrent Neural Network For Image Generation
 Learning visual motion in recurrent neural networks
 Modeling temporal dependencies in high-dimensional sequences: Application to polyphonic music generation and transcription
 Bayesian Data Analysis Straight-line Fitting
@@ -87,7 +85,6 @@ Framewise phoneme classiﬁcation with bidirectional LSTM and other neural netwo
 Training Recurrent Networks by Evolino
 Evolving memory cell structures for sequence learning
 Long Short-Term Memory Recurrent Neural Network Architectures for Large Scale Acoustic Modeling
-An Empirical Exploration of Recurrent Network Architectures 
 Long Short-Term Memory in Recurrent Neural Networks
 LSTM can Solve Hard Long Time Lag Problems
 Gradient Flow in Recurrent Nets the Difficulty of Learning Long-Term Dependencies

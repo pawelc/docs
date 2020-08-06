@@ -10,4 +10,5 @@
 * toread2.md - papers to read with priority 2
 * toread_finance.md - finance papers to read
 * toread_rl.md - RL papers to read
-python -m monde_const_cov > monde_const_cov.log 2>&1 &
+python -m monde_const_cov > monde_const_cov.log \sout{}2>&1 & 
+

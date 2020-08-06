@@ -13,7 +13,6 @@
 2015 - Highway Networks
 2015 - All you need is a good init
 2016 - Effective deep learning-based multi-modal retrieval
-2016 - Deep Residual Learning for Image Recognition
 2016 - https://medium.com/@karpathy/yes-you-should-understand-backprop-e2f06eab496b
 2016 - Distributed B-SDLM: Accelerating the Training Convergence of Deep Neural Networks Through Parallelism
 2016 - https://tebesu.github.io/posts/Training-a-TensorFlow-graph-in-C++-API

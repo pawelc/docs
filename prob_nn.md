@@ -253,6 +253,12 @@ sampled during training so the model learns different ordering and over differen
 over the autoregressive model because it can compute the likelihood in one pass trough the network and not like
 deep RNADE which does O(D). Therefore it can have efficient GPU implementation.
 
+#[Weight Uncertainty in Neural Networks]()
+2015
+
+Using variational approximation for posterior over NN weights. We obtain NN that does have Gaussian distribution over each weight.
+Such NN can be used for example in contextual bandit problem.
+
 # [Connectionist multivariate deMADE Masked Autoencoder for Distribution Estimationnsity-estimation and its application to speech synthesis](https://www.era.lib.ed.ac.uk/handle/1842/15868)
 2016
 
@@ -391,3 +397,8 @@ Thorough overview of the normalizing flow. Authors have proof why NF can estimat
 This proof uses CDFs so possibly can be extended to our models. The review of the flow discrete flows using conditioner and transformer
 at each step of the flow. The second type of flows are continuous flows which describe the flow using ODE (the complexity of computing 
 forward and reverse of the flow in this case is the same, which is not true for discrete flows)
+
+#[Normalizing Flows: An Introduction and Review of Current Methods]()
+2019
+
+Review of the normalizing flows methods. Review of data sets used to validate their performance. Overview of open problems.

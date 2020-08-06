@@ -51,6 +51,7 @@
 2012 - A neural autoregressive topic model
 2012 - Density estimation in high and ultra high dimensions, regularization, and the L1 asymptotics
 2012 - Bayesian Learning for Neural Networks
+2012 - Sum-Product Networks: A New Deep Architecture
 2012 - Modeling Temporal Dependencies in High-Dimensional Sequences Application to Polyphonic Music Generation and Transcription
 2013 - Approximate Bayesian computation via regression density estimation <- In simulation-based likelihood-free inference, conditional density estimators can learn models for
 the likelihood
@@ -66,9 +67,11 @@ the likelihood
 2014 - Generative adversarial nets - 2014
 2015 - Generative Image Modeling Using Spatial LSTMs
 2015 - Neural adaptive sequential Monte Carlo
+2015 - Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift
 2015 - Order matters: Sequence to sequence for sets
 2015 - Positive Neural Networks in Discrete Time Implement Monotone-Regular Behaviors
 2016 - Pixel recurrent neural networks
+2016 - Deep Residual Learning for Image Recognition
 2016 - Inference networks for sequential Monte Carlo in graphical models
 2016 - Fast e-free Inference of Simulation Models with Bayesian Conditional Density Estimation
 2016 - Neural Autoregressive Distribution Estimation
@@ -101,8 +104,11 @@ the likelihood
 2017 - Comparison of maximum likelihood and gan-based training of real nvps
 2017 - Bottleneck conditional density estimation
 2017 - https://github.com/tensorflow/magenta/tree/master/magenta/models/coconet
+2017 - Adversarially learned inference
 2017 - Mixture density networks for distribution and uncertainty estimation
 2017 - Improving Variational Auto-Encoders using Householder Flow
+2017 - Variational Inference with Orthogonal Normalizing Flows
+2017 - What Uncertainties Do We Need in Bayesian Deep Learning for Computer Vision
 2018 - Sylvester normalizing flows for variational inference
 2018 - Transformation Autoregressive Networks
 2018 - Recursive Neural Networks for Density Estimation Over Generalized Random Graphs
@@ -114,18 +120,22 @@ the likelihood
 2018 - On Difficulties of Probability Distillation (https://openreview.net/forum?id=rygFmh0cKm)
 2018 - Glow: Generative flow with invertible 1x1 convolutions
 2018 - Demystifying MMD GANs
+2018 - Pathwise derivatives beyond the reparameterization trick
+2018 - Continuous-Time Flows for Efficient Inference and Density Estimation
+2018 - Learning across scales - a multiscale method for convolution neural networks
 2018 - Neural Ordinary Differential Equations
 2018 - https://medium.com/tensorflow/introducing-tensorflow-probability-dca4c304e245
 2018 - Flow-GAN: Combining Maximum Likelihood and Adversarial Learning in Generative Models
 2018 - Conditional Density Estimation with Bayesian Normalising Flows
 2018 - (DENSITY ESTIMATION: VARIATIONAL AUTOENCODERS) http://ruishu.io/2018/03/14/vae/
+2018 - Generative adversarial networks: An overview
+2019 - Aleatoric and Epistemic Uncertainty in Machine Learning: An Introduction to Concepts and Methods
 2019 - Semi-Conditional Normalizing Flows for Semi-Supervised Learning
 2019 - Flow++: Improving Flow-Based Generative Models with Variational Dequantization and Architecture Design
 2019 - Discrete Flows: Invertible Generative Models of Discrete Data
 2019 - Integer Discrete Flows and Lossless Compression
 2019 - Block Neural Autoregressive Flow
 2019 - Neural density estimation and likelihood-free inference
-2019 - Normalizing flows: Introduction and ideas
 2019 - Sum-of-Squares Polynomial Flow
 2019 - Unconstrained monotonic neural networks
 2019 - Cubic-spline flows
@@ -137,3 +147,20 @@ the likelihood
 2019 - Invertible residual networks
 2019 - Residual  flows for invertible generative modeling
 2019 - Neural networks with cheap differential operators
+2019 - Noise flow: Noise modeling with conditional normalizing flows
+2019 - VideoFlow: A Flow-Based Generative Model for Video
+2019 - Universal audio synthesizer control with normalizing flows
+2019 - Graph-NVP: An Invertible Flow Model for Generating Molecular Graphs
+2019 - Leveraging exploration in off-policy algorithms via normalizing flows
+2019 - Improving exploration in soft-actor-critic with normalizing flows policies
+2019 - Randomized value functions via multiplicative normalizing flows
+2019 - Emerging Convolutions for Generative Normalizing Flows
+2019 - Latent Normalizing Flows for Discrete Sequences
+2019 - A RAD approach to deep mixture models
+2019 - Residual Flows for Invertible Generative Modeling
+2019 - Augmented Neural ODEs
+2019 - Tails of Lipschitz Triangular Flows
+2020 - How to train your neural ODE
+2020 - MaskAAE: Latent space optimization for Adversarial Auto-Encoders
+2020 - Pairwise Supervised Hashing with Bernoulli Variational Auto-Encoder and Self-Control Gradient Estimator
+2020 - Semi-supervised Sequential Generative Models 

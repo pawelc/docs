@@ -1,3 +1,82 @@
+#[Fusion, propagation, and structuring in belief networks]()
+1986
+
+Connection between human knowledge amd graphical models. Introduction of noisy-or. Pearl introducing belief networks.
+Did not finish reading it but maybe it is worth. Noisy Or is example of Independence of casual influence
+
+#[Probabilistic Diagnosis Using a Reformulation of the Internist-1/ QMR Knowledge Base II. Evaluation of Diagnostic Performance]()
+1991
+
+Authors develop decision theoretic version of the Quick Medical reference which is decision-support tool for 
+diagnosis in internal medicine. The assumptions are marginal independence of diseases, conditional independence of 
+findings given any hypothesis of diseases, causal independence of the influence of multiple diseases on a single finding, 
+and binary-valued findings and diseases. Not read very thoroughly. 
+
+#[A Generalization of the Noisy-Or Model]()
+1993
+
+An extension of the noisy-or to multiple values and any function other than or.
+Nice derivation of the P(output/input) probability for generic deterministic function and discrete output/input where
+each input can be inhibited to arbitrary state with some probability (not only false like in noisy-or case).
+Only inference, there is nothing about parameter learning.
+Here the implementation was translating the noisy or model into table representation and from here used regular
+belief propagation algorithm.
+
+#[Parameter adjustment in Bayes networks. The generalized noisy OR–gate]()
+1993
+
+Sequential updating of parameters of the bayessian network (generic and example given for noisy or). Sequential meaning
+that parameters are updated given next example (can be partial).
+
+#[Bayesian Network Classifiers]()
+1997
+
+Extending Naive Bayes classifier into TAN (Tree Augmented Naive Bayes). They look for the structure of the optimal
+Bayesian Network using MDL score function (the edges connecting A_i s and A_s with C are 
+searched over using local modifications). They show that MDL can be not optimal for learning classifier using
+BN because the MDL is dominated by marginal probability of the attributes and the classifier really use P(C|attributes)
+(which remains constant no matter how many attributes are there). They show it by empirical study that learning
+unrestricted BN using MDL score gives better (then Naive Bayes) results when there are few attributes but much worse when
+number of attributes grows. The authors find that the problem is the score function which causes the classifier learnt can
+create connectivity such C given its Markov blanket is independent of some of the attributes that are still crucial for good
+classification.
+Authors notice that to fix this issue we could optimize Conditional Loglikelihood P(C|Attributes) but then the parameters'
+estimator is different then when using LL.
+Authors propose extension of the Naive Bayes - Augmented NB by keeping the basic structure of all edges between C and all 
+A_i's but also allowing for connections between attributes, this way the class depends on all attributes but also we add 
+dependency between attributes when C is given. This models the case when one attribute influence on the class depends on
+other attribute and not like in NB all attribute influence class in isolation. The TAN model is NB with additional edges 
+between attributes where one attribute can have upto one augmented edge pointing at it. This constrain is applied so the
+model can be learnt efficiently. To construct the best tree containing attributes the authors use existing procedure
+to span tree over complete graph using maximum weight spanning tree algorithm but using conditional mutual information i.e.
+I(A_1;A_2|C). 
+Authors also propose method of constructing the TAN model per each class - the multinet Bayes Classifier.
+
+#[Approximating the Noisy-Or Model by Naive Bayes]()
+1998
+
+Stopped reading it because was confessed by the notation.
+
+#[Multiplicative Factorization of Noisy-Max]()
+1999
+
+Noisy OR and its generalization - Noisy Max were created for efficient knowledge acquisition. This paper shows algorithm
+for efficient inference in graphs containing such nodes. 
+They present existing ways of encoding max decreasing the complexity of max operator like parent divorcing or temporal
+transformation. Authors show previous factorizations like additive ones and introduce their own: multiplicative
+factorization.
+
+#[An efficient factorization for the noisy MAX]()
+2003
+
+New parametrization using CDFs of the noisy max which is generalization of noisy or (both are for graded/ordinal variables ).
+We aim that inference in this canonical model is linear in the number of the parents (and not exponential as in the 
+regular CPT implementation). The factorization of the probability contains CDFs for each cause separately and special indicator
+variable which says which cdf to use to compute pdf. The show modification of the variable elimination and junction
+tree to accommodate this dummy variable and new potential. The junction tree is created slightly differently than 
+the regular BN by not moralizing parents of the the noisy max and by introduction of the one dummy/auxiliary variable. We can 
+run regular message passing algorithm on resulting graph.
+
 #[Products of Experts](https://ieeexplore.ieee.org/document/819532)
 **Product of distributions** can be better than mixture. In mixture each component independently try to explain all dimensions.
 In PoE each component (expert) can be responsible for the subset of the dimensions. Each expert can put 0 distribution
@@ -33,15 +112,37 @@ graph. Couldn't understand the algo :(.
 Use CD to get biased ML solution and then use slow ML learning to fine tune.
 The distribution near the boundary of the simplex are more difficult to model. Research Idea: Show the location of the distribution I model.
 
-#[Binary models for marginal independence]
+#[Binary models for marginal independence]())
 10.2006
 Read only about the section 4 about moebius parametrization.
+
+#[Noisy‐or classifier]()
+2006
+
+The noisy OR classification is equivalent to the logistic regression (authors provide proof for this). 
+But we can train noisy or using EM and therefore have
+missing data. Authors derive efficient computation of marginal given the evidence using auxiliary variable method to 
+translate noisy-OR into regular BN (like in "An efficient factorization for the noisy MAX"), the auxiliary variable
+selects CDFs to compute probability. This is used in EM algorithm to estimate maximum likelihood parameters 
+from incomplete data. One of the problems is not identifiability which can be addressed by constraining the model. For
+example authors propose monotonicity constraint (the instance not belonging to class is more probable when attribute is missing). 
+Authors compare noisy or to other classifiers like logistic regression, decision tree, naive bayes, SVM on subset of 
+euters-21578 data.
 
 #[Products of Experts Welling](http://www.scholarpedia.org/article/Product_of_experts)
 2007
 PoE act by carving the distribution and MoE by adding probability regions. The nice interpetetion of the maximum likelihood learning
 where first term is interpreted as increasing likelihood of the data for the model and decreasing the likelihood where the model
 already assigns high probability. Also contains more updated references about PoE.
+
+#[Relational learning with Gaussian processes]()
+2006
+
+#[Hidden Common Cause Relations in Relational Learning](https://papers.nips.cc/paper/3276-hidden-common-cause-relations-in-relational-learning.pdf)
+2007
+
+Using relation between objects to improve classification accuracy. 
+
 
 #[The Hidden Life of Latent Variables: Bayesian Learning with Mixed Graph Models](http://www.jmlr.org/papers/volume10/silva09a/silva09a.pdf)
 04.2008
@@ -81,11 +182,12 @@ in a recursive fashion.
 31.08.2010
 
 ADMG (Acyclic Directed Mixed Graph) are generalization on Directed graphs to contain bi-directional edges.
-The can encode more independence assumptions. It is hard to parametrized likelihood functions to  
-encode independence assumptions in ADMG. Authors parametrize cdf using product of CDFs. 
-Authors extend Cumulative Density Networks to Acyclic Directed Mixed Graph.
-Authors show how to factorize ADMXG into product of subgraphs built on districts i.e. connected sets of variables by only 
-bidirected connections and the parents of such a district.
+The can encode more independence assumptions. We don't have to specify hidden variables (common causes), they are 
+implicitly modelled as bi-directed edges.  
+It is hard to parametrize likelihood functions to encode independence assumptions in ADMG. 
+Authors parametrize cdf using product of CDFs. They extend Cumulative Density Networks to Acyclic Directed Mixed Graph.
+Authors show how to factorize ADMG into product of subgraphs built on districts i.e. connected sets of variables by only 
+bi-directed connections and the parents of such a district.
 
 #[Maximum-likelihood learning of cumulative distribution functions on graphs]()
 2010
@@ -123,19 +225,7 @@ Factor Graph which has bipartite structure with variable nodes and function node
  of the tree and we differentiate resulting message with respect to the root's variable we end up with joint probability 
  for the model.
  
- #[Bayesian inference in cumulative distribution fields]
- Author uses auxliary latent models in CDF for bayessian learning. This allows to construct complicated copula models
- out of factors (simpler copulas). He uses augmentation of the marginals to construct the copula out of product of factors
- which are copulas themselves.
- There are different methods of using hidden models to help with doing inference in CDN models.
- 
- #[Ricardo Silva - Bayesian Inference in Cumulative Distribution Fields](https://www.youtube.com/watch?v=GkEZw3xTQZw)
- Ricardo on CDNs and extending them with latent variables to perform message passing in the extended diagram. Comparing 
- CDNs (product of CDFs which is itself a CDF) to CDF (Cumulative Distribution Fields), which special way of creating 
- factors of copulas is also copula. (when simply multiplying copula functions we generally do not end up with copula because
- marginals are not uniform anymore).
- 
-#[Deep Exponential Families]
+ #[Deep Exponential Families]
 2014
 Using different distributions from exponential families  for latent variables we can recover different models.
  Bernoulli latent variables recover the classical sigmoid belief network
@@ -145,3 +235,21 @@ Using sparse gamma (shape less than 1) to model variables and weights
 The explaining away makes inference harder in DEFs then in RBMs but forces a more parsimonious representation where similar features compete to explain the data rather than work in tandem (possibly read  [12, 1] references)
 Somewhat related, we find sigmoid DEFs (with normal weights) to be more difficult to train and deeper version perform poorly (worth to check why)
  
+ #[Bayesian inference in cumulative distribution fields]
+ 2015
+ Author uses auxliary latent models in CDF for bayessian learning. This allows to construct complicated copula models
+ out of factors (simpler copulas). He uses augmentation of the marginals to construct the copula out of product of factors
+ which are copulas themselves.
+ There are different methods of using hidden models to help with doing inference in CDN models.
+ 
+ #[Ricardo Silva - Bayesian Inference in Cumulative Distribution Fields](https://www.youtube.com/watch?v=GkEZw3xTQZw)
+ 2015
+ Ricardo on CDNs and extending them with latent variables to perform message passing in the extended diagram. Comparing 
+ CDNs (product of CDFs which is itself a CDF) to CDF (Cumulative Distribution Fields), which special way of creating 
+ factors of copulas is also copula. (when simply multiplying copula functions we generally do not end up with copula because
+ marginals are not uniform anymore). 
+
+#[Joint Distributions for TensorFlow Probability]()
+2020
+
+Declaring bayesian models in TFP.  
