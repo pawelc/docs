@@ -1,3 +1,4 @@
+1995 - Probability and Measure
 2016 - Wide residual networks
 2016 - Binarized neural networks: Training deep neural networks with weights and activations constrained to+ 1 or-1
 2016 - Weight Normalization: A Simple Reparameterization to Accelerate Training of Deep Neural Networks
@@ -24,7 +25,6 @@ How Neural Nets Work
 Capabilities of three-layered perceptrons
 There exists a neural network that does not make avoidable mistakes
 Theory of the backpropagation neural network
-Probability and Measure
 
 ChauffeurNet: Learning to Drive by Imitating the Best and Synthesizing the Worst
 Early stopping as nonparametric variational inference

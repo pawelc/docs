@@ -4,6 +4,7 @@
 1997 - On bias, variance, 0/1 - loss, and the curse-of-dimensionality
 1999 - Nonlinear independent component analysis: Existence and uniqueness results
 2005 - Triangular transformations of measures
+2006 - An experimental comparison of performance measures for classification
 2006 - Gaussian processes for machine learning
 2007 - A Kernel Method for the Two-Sample-Problem
 2007 - An analysis of logistic models: Exponential family connections and online performance

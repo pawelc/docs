@@ -3,7 +3,10 @@
 1997 - The EM Algorithm and Extensions
 1998 - Fitting a Conditional Linear Gaussian Distribution
 2002 - Ancestral Graph Markov Models
+2018 - A generative model of whole-brain effective connectivity
+2018 - The Anatomy of Inference: Generative Models and Brain Structure https://www.frontiersin.org/articles/10.3389/fncom.2018.00090/full
 2019 - Causal Graphical Views of Fixed Effects and Random Effects Models
+2019 - The Generative Adversarial Brain https://www-frontiersin-org.libproxy.ucl.ac.uk/articles/10.3389/frai.2019.00018/full
 
 Inference, Sampling, and Learning in Copula Cumulative Distribution Networks (with code 
 https://github.com/stefanwebb/cumulativenet)

@@ -8,6 +8,7 @@
 1997 - Counterexamples in Probability
 1999 - Probability Theory and Statistical Inference Econometric Modeling with Observational Data (book)
 2001 - Gaussianization
+2001 - An introduction to statistical modelling of extreme values
 2010 - Copula Processes
 2015 - Distilling intractable generative models
 2015 - Picture A probabilistic programming language for scene perception
@@ -131,7 +132,6 @@ EM algorithms for PCA and SPCA
 Rao-blackwellisation of sampling schemes
 Simulation (book)
 de Haan, L. and Ferreira, A. (2006) Extreme value theory. Springer
-Coles, S.G. (2001) An introduction to statistical modelling of extreme values. Springer.
 Bayesian posterior sampling via stochastic gradient Fisher scoring
 Online learning Fokker-Planck machine
 https://colab.research.google.com/github/tensorflow/probability/blob/master/tensorflow_probability/examples/jupyter_notebooks/Gaussian_Copula.ipynb#scrollTo=a4Ho39s02fg9

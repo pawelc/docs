@@ -71,7 +71,6 @@ the likelihood
 2015 - Order matters: Sequence to sequence for sets
 2015 - Positive Neural Networks in Discrete Time Implement Monotone-Regular Behaviors
 2016 - Pixel recurrent neural networks
-2016 - Deep Residual Learning for Image Recognition
 2016 - Inference networks for sequential Monte Carlo in graphical models
 2016 - Fast e-free Inference of Simulation Models with Bayesian Conditional Density Estimation
 2016 - Neural Autoregressive Distribution Estimation
@@ -85,6 +84,7 @@ the likelihood
 2016 - Dropout as a Bayesian Approximation: Representing Model Uncertainty in Deep Learning
 2016 - NIPS 2016 tutorial: Generative adversarial networks (https://www.youtube.com/watch?v=HGYYEUSm-0Q)
 2016 - Unrolled generative adversarial networks
+2016 - Simple and Scalable Predictive Uncertainty
 2016 - Learning in Implicit Generative Models
 2017 - Maximum entropy flow networks
 2017 - Parallel wavenet: Fast high-fidelity speech synthesis
@@ -144,7 +144,6 @@ the likelihood
 2019 - MaCow: Masked convolutional generative flow
 2019 - Waveglow: A flow-based generative network for speech synthesis
 2019 - FloWaveNet : A generative flow for raw audio
-2019 - Invertible residual networks
 2019 - Residual  flows for invertible generative modeling
 2019 - Neural networks with cheap differential operators
 2019 - Noise flow: Noise modeling with conditional normalizing flows

@@ -14,12 +14,14 @@
 2010 - Correlation stress testing for value-at-risk: an unconstrained convex optimization approach
 2010 - Exchange Rate Regimes in the Modern Era
 2012 - Risk Management and Shareholders Value in Banking From Risk Measurement Models to Capital Allocation Policies (book)
+2012 - techtrader https://www.techtrader.ai/
 2014 - https://www.value-at-risk.net
 2014 - Time Series Models for Business and Economic Forecasting
 2014 - VaR-implied tail-correlation matrices
 2019 - https://www.cuemacro.com/about/
 2019 - The man who solved the market (book)
 http://www.londonfx.co.uk/
+2020 - https://thalesians.com/videos/
 
 Probabilistic Graphical Models: A New Way of Thinking in Financial Modelling 
 Bayesian Methods in Finance

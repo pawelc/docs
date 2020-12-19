@@ -22,6 +22,7 @@
 2017 - The Concrete Distribution: A Continuous Relaxation of Discrete Random Variables
 2018 - Distribution matching in variational inference
 2018 - Automatic chemical design using a data-driven continuous representation of molecules
+2020 - SurVAE Flows: Surjections to Bridge the Gap between VAEs and Flows
 
 Gradient Estimation Using Stochastic Computation Graphs
 Deep amortized inference for probabilistic programs

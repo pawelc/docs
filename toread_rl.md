@@ -5,6 +5,7 @@
 2019 - Reinforcement Learning for Market Making in a Multi-agent Dealer Market
 2019 - Stanford CS234: Reinforcement Learning (https://www.youtube.com/watch?v=FgzM3zpZ55o&amp=&list=PLoROMvodv4rOSOPzutgyCTapiGlY2Nd8u)
 2020 - https://spinningup.openai.com/en/latest/
+2020 - Market-making with reinforcement-learning (SAC)
 
 Idiosyncrasies and challenges of data driven learning in electronic trading
 https://github.com/tspooner/rl_markets

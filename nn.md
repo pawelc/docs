@@ -130,3 +130,8 @@ and training dynamics in deep architectures.
 Mention that tanh is better than logistic but still has large saturation regions. Authors provide conditions for
 non linearity so it can be used in universal approximator. Authors present bounded versions of most unbounded 
 nonlinearities like ReLU, bifiring neuron, leaky ReLU
+
+# [On the Invertibility of Invertible Neural Networks](https://openreview.net/forum?id=BJlVeyHFwH)
+2019
+
+Theoretical work on conditions for invertible NN to have numerically stable inversions. Using Lipshitz continuity.

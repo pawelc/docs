@@ -1,3 +1,4 @@
+1900 - https://en.wikipedia.org/wiki/Instrumental_variables_estimation
 1908 - The probable error of a mean
 1908 - Probable error of a correlation coefficient
 1949 - The Monte Carlo method
@@ -15,6 +16,7 @@
 2011 - Estimating high dimensional covariance matrices and its applications
 2013 - Mutual Information between Discrete and Continuous Data Sets
 2013 - Predicting covariance matrices with financial conditions indexes
+2015 - Direct formulation to Cholesky decomposition of a general nonsingular correlation matrix
 2016 - Tail dependence of the Gaussian copula revisited
 2020 - Statistical Rethinking : A Bayesian Course with Examples in R and Stan
 https://www.statlect.com/

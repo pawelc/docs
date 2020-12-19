@@ -18,6 +18,7 @@
 2016 - https://tebesu.github.io/posts/Training-a-TensorFlow-graph-in-C++-API
 2017 - Softsign as a Neural Networks Activation Function
 2017 - Axiomatic Attribution for Deep Networks
+2017-  An Overview of ResNet and its Variants https://towardsdatascience.com/an-overview-of-resnet-and-its-variants-5281e2f56035
 2018 - Analysis on Gradient Propagation in Batch Normalized Residual Networks
 2018 - Regularisation of neural networks by enforcing Lipschitz continuity
 2019 - Hands-On Computer Vision with TensorFlow 2

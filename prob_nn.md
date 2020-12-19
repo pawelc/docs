@@ -310,6 +310,11 @@ They revisit the work in "Density estimation and random variate generation using
 The strongest part of this work is mathematical derivation of the bound of number of hidden neurons needed for given 
 approximation but haven't checked the derivation.
 
+#[Deep Residual Learning for Image Recognition]()
+2016 
+
+
+
 #[Density estimation using Real NVP]()
 2017
 
@@ -402,3 +407,11 @@ forward and reverse of the flow in this case is the same, which is not true for 
 2019
 
 Review of the normalizing flows methods. Review of data sets used to validate their performance. Overview of open problems.
+
+#[Invertible residual networks]()
+2019 
+
+#[Uncertainty Quantification in Deep Learning](https://www.inovex.de/blog/uncertainty-quantification-deep-learning/)
+2019
+
+Nice explanation of aleatory and epistemic uncertainty in NN models with simple examples.  

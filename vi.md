@@ -179,9 +179,9 @@ can be used for variational posterior approximation. They use MADE to create aut
 invertible transforms. The have simple determinant jackobian so the created normalizing flow is simple to compute. The first parmaeters
 are encoded using normal neural network and the next use autoregressive MADE.
 
-#Variational Inference: A Review for Statisticians
+#[Variational Inference: A Review for Statisticians]()
 2017
-Review of the variational methods with sime derivations.
+Review of the variational methods with some derivations.
 
 # [Learnable explicit density for continuous latent space and variational inference]()
 demonstrates general universal representational capability of inverse autoregressive transformations
