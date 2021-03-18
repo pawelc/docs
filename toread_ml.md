@@ -1,6 +1,7 @@
 1951 - A stochastic approximation method
 1984 - Monte Carlo methods of inference for implicit statistical models
 1986 - The Arithmetic of Differentiation
+1990 - Acceleration of Stochastic Approximation by Averaging
 1997 - On bias, variance, 0/1 - loss, and the curse-of-dimensionality
 1999 - Nonlinear independent component analysis: Existence and uniqueness results
 2005 - Triangular transformations of measures
@@ -12,6 +13,7 @@
 2011 - The Separation Plot: A New Visual Method for Evaluating the Fit of Binary Models
 2012 - Python for Data Analysis
 2016 - https://www.cs.ox.ac.uk/people/nando.defreitas/machinelearning/
+2016 - Modeling, Inference and Optimization with Composable Differentiable Procedures 
 2017 - UAI 2017 Tutorial: Shakir Mohamed & Danilo Rezende (https://www.youtube.com/watch?v=JrO5fSskISY, DeepGenModelsTutorial.pdf)
 2017 - On Blackbox Backpropagation and Jacobian Sensing
 2017 - Detecting Statistical Interactions from Neural Network Weights
@@ -29,6 +31,8 @@
 2020 - http://mbmlbook.com/
 2020 - Fair k-Means Clustering
 2020 - Robust $k$-means++
+2020 - DeepMind x UCL | Deep Learning Lectures (https://www.youtube.com/watch?v=7R52wiUgxZI)
+2021 - https://anguswilliams91.github.io/statistics/computing/jax/
 
 Determining the degree of generalization using an incremental learning algorithm
 Pattern Classification and Scene Analysis
