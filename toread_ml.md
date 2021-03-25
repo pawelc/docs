@@ -1,7 +1,10 @@
+1928 - On the composition of elementary errors
 1951 - A stochastic approximation method
+1978 - Estimating the dimension of a model
 1984 - Monte Carlo methods of inference for implicit statistical models
 1986 - The Arithmetic of Differentiation
 1990 - Acceleration of Stochastic Approximation by Averaging
+1993 - A user's guide to tabu search
 1997 - On bias, variance, 0/1 - loss, and the curse-of-dimensionality
 1999 - Nonlinear independent component analysis: Existence and uniqueness results
 2005 - Triangular transformations of measures
@@ -10,6 +13,7 @@
 2007 - A Kernel Method for the Two-Sample-Problem
 2007 - An analysis of logistic models: Exponential family connections and online performance
 2009 - Unlearning for better mixing
+2009 - Probabilistic graphical models: principles and techniques
 2011 - The Separation Plot: A New Visual Method for Evaluating the Fit of Binary Models
 2012 - Python for Data Analysis
 2016 - https://www.cs.ox.ac.uk/people/nando.defreitas/machinelearning/
@@ -26,6 +30,7 @@
 2019 - Stanford CS330: Multi-Task and Meta-Learning, 2019 (https://www.youtube.com/watch?v=0rZtSwNOTQo&list=PLoROMvodv4rMC6zfYmnD7UG3LVvwaITY5)
 2019 - A Review of Automatic Differentiation and its Efficient Implementationd
 2019 - Compositional uncertainty in deep Gaussian processes
+2019 - Adaptively Sparse Transformers https://colab.research.google.com/drive/1EB7MI_3gzAR1gFwPPO27YU9uYzE_odSu#scrollTo=SYu8ftZcZcRO
 2020 - https://braininspired.co/podcast/
 2020 - https://www.youtube.com/watch?v=BCiZc0n6COY&list=PLruBu5BI5n4aFpG32iMbdWoRVAA-Vcso6
 2020 - http://mbmlbook.com/
@@ -50,7 +55,6 @@ Bayesian Filtering and Smoothing
 TFX: A TensorFlow-Based Production-Scale Machine Learning Platform
 On the quantitative analysis of deep belief networks
 Mixtures of Conditional Gaussian Scale Mixtures Applied to Multiscale Image Representations
-Gaussian process networks
 Evaluating probabilities under high-dimensional latent variable models
 SHORTEN simple lossless and nearlossless waveform compression
 Deep mixtures of factor analysers
@@ -124,7 +128,6 @@ Classification of Web Documents Using a Naive Bayes Method
 An experimental comparison of naive Bayesian and keyword-based anti-spam filtering with personal e-mail messages
 The EM algorithm in independent component analysis
 Optimization with EM and Expectation-Conjugate-Gradient
-Estimating the dimension of a model
 Are two Classifiers performing equally A treatment using Bayesian Hypothesis Testing
 Markov chain Monte Carlo in practice
 Independent component analysis, a new concept

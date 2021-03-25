@@ -490,7 +490,6 @@ Long short-term memory based recurrent neural network architectures for large vo
 Show and Tell: A Neural Image Caption Generator
 On the properties of neural machine translation: Encoder-decoder approaches
 Learning language through pictures
-Deep learning via hessian-free optimization
 Learning recurrent neural networks with Hessian-free optimization
 Training deep and recurrent networks with hessian-free optimization
 Neural Turing machines

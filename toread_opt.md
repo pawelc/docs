@@ -1,3 +1,4 @@
+2000 - A survey of truncated-Newton methods
 2013 - No more pesky learning rates
 2016 - On large-batch training for deep learning: Generalization gap and sharp minima
 2017 - A bayesian perspective on generalization and stochastic gradient descent

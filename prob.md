@@ -29,11 +29,6 @@ quite extensive.
 “The (unit) Fisher information is a measure for the amount of information that is expected within the prototypical trial X about the parameter of interest θ. 
 It is defined as the variance of the so-called score function, i.e., the derivative 20 of the log-likelihood function with respect to the parameter”
 
-#[Copulas in machine learning]()
-
-Tree structured graphical models which has each bivariate dependence encoded as copula. If more
-general  structure is needed we can use mixture over such trees.
-
 #[Behaviour of multivariate tail dependence coefficients]()
 
 Description of the tail dependence of the symetric multivariate copulas. Authors ask the question: how will behave 

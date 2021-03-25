@@ -1,6 +1,7 @@
 1955 - Theory of ordinary differential equations
 2008 - Evaluating Derivatives: Principles and Techniques of Algorithmic Differentiation
 2010 - Lecture notes on numerical solutions of ordinary differential equations
+2013 - Functional Differential Geometry (Book)
 
 An Introduction to Measure Theory
 Real analysis for graduate students

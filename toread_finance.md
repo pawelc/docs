@@ -9,19 +9,29 @@
 2005 - Economic and Financial Decisions under Risk
 2006 - Foreign exchange a practical guide to the FX markets
 2007 - Implied correlation from VaR
+2017 - Modelling and mitigation of Flash Crashes
 2010 - The devil is in the tails: actuarial mathematics and the subprime mortgage crisis
 2010 - Newton’s method for computing the nearest correlation matrix with a simple upper bound
 2010 - Correlation stress testing for value-at-risk: an unconstrained convex optimization approach
 2010 - Exchange Rate Regimes in the Modern Era
+2011 - Crashes and high frequency trading
 2012 - Risk Management and Shareholders Value in Banking From Risk Measurement Models to Capital Allocation Policies (book)
 2012 - techtrader https://www.techtrader.ai/
+2012 - MARKET MICROSTRUCTURE DESIGN AND FLASH CRASHES: A SIMULATION APPROACH
 2014 - https://www.value-at-risk.net
 2014 - Time Series Models for Business and Economic Forecasting
 2014 - VaR-implied tail-correlation matrices
+2015 - Is a High CAPE Cause for Alarm? Part 2: Valuation-Based Asset Allocation (https://www.forbes.com/sites/wadepfau/2015/07/09/is-a-high-cape-cause-for-alarm-part-2-valuation-based-asset-allocation/?sh=46cd4ff84eda)
+2016 - The Gaussian Copula and the Financial Crisis: A Recipe for Disaster or Cooking the Books?
+2018 - Understanding Flash Crash Contagion and Systemic Risk: A Micro-Macro Agent-Based Approach
+2018 - How do participants behave during Flash events? Evidence from the UK equity market.
 2019 - https://www.cuemacro.com/about/
 2019 - The man who solved the market (book)
 http://www.londonfx.co.uk/
 2020 - https://thalesians.com/videos/
+2020 - https://volquant.medium.com/fragile-markets-understanding-the-dynamic-of-a-flash-crash-e86fbc8b4e6c
+2021 - https://deepdow.readthedocs.io/
+2021 - http://nakisa.org/
 
 Probabilistic Graphical Models: A New Way of Thinking in Financial Modelling 
 Bayesian Methods in Finance
@@ -135,8 +145,6 @@ Semi-parametric modelling in Finance: Theoretical foundation
 Calculating and Comparing Security Returns is Harder than you Think: A Comparison between Logarithmic and Simple Returns
 Quant Nugget 2: Linear vs. Compounded Returns – Common Pitfalls in Portfolio Management
 Extreme Value Theory as a Risk Management Tool
-On Default Correlation: A Copula Function Approach
-The Gaussian Copula and the Financial Crisis: A Recipe for Disaster or Cooking the Books?
 https://twiecki.io/blog/2015/11/10/mcmc-sampling/
 Going with the FX flow
 Asymmetric Correlations of Equity Portfolios

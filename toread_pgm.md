@@ -2,7 +2,9 @@
 1996 - On a dualization of graphical Gaussian models
 1997 - The EM Algorithm and Extensions
 1998 - Fitting a Conditional Linear Gaussian Distribution
+2000 - Gaussian process networks
 2002 - Ancestral Graph Markov Models
+2007 - Structure Learning with Nonparametric Decomposable Models
 2018 - A generative model of whole-brain effective connectivity
 2018 - The Anatomy of Inference: Generative Models and Brain Structure https://www.frontiersin.org/articles/10.3389/fncom.2018.00090/full
 2019 - Causal Graphical Views of Fixed Effects and Random Effects Models
@@ -11,7 +13,6 @@
 Inference, Sampling, and Learning in Copula Cumulative Distribution Networks (with code 
 https://github.com/stefanwebb/cumulativenet)
 https://www.youtube.com/watch?v=dkKRpPa_I_o
-Copula Bayesian Networks
 Approximating discrete probability distributions with dependence trees
 Theory refinement on Bayesian networks
 Hidden Markov Decision Trees
@@ -102,7 +103,6 @@ Product of Gaussians for speech recognition
 Statistical models for partial membership
 When Does a Mixture of Products Contain a Product of Mixtures
 ML, PL, QL in Markov chain models
-The nonparanormal Semiparametric estimation of high dimensional undirected graphs
 When can association graphs admit a causal interpretation
 D. M. Edwards (2000). Introduction to Graphical Modelling. Second edition. New York: Springer-Verlag
 Factor graphs and the sum-product algorithm

@@ -5,6 +5,7 @@
 1990 - Learning from hints in neural networks
 1993 - Second order derivatives for network pruning: Optimal Brain Surgeon
 2009 - Quadratic features and deep architectures for chunking
+2010 - Deep learning via Hessian-free optimization
 2011 - Deep sparse rectifier neural networks
 2014 - Bi-modal derivative activation function for sigmoidal feedforward networks
 2014 - Bi-firing deep neural networks
@@ -21,6 +22,7 @@
 2017-  An Overview of ResNet and its Variants https://towardsdatascience.com/an-overview-of-resnet-and-its-variants-5281e2f56035
 2018 - Analysis on Gradient Propagation in Batch Normalized Residual Networks
 2018 - Regularisation of neural networks by enforcing Lipschitz continuity
+2018 - A guide to convolution arithmetic for deep learning
 2019 - Hands-On Computer Vision with TensorFlow 2
     https://github.com/PacktPublishing/Hands-On-Computer-Vision-with-TensorFlow-2
  
@@ -45,7 +47,6 @@ Practical Recommendations for Gradient-Based Training of Deep Architectures
 Learning Inductive Biases with Simple Neural Networks
 Rectified linear units improve restricted Boltzmann machines
 Improving deep neural networks for LVCSR using rectified linear units and dropout
-Deep learning via Hessian-free optimization
 Extracting and composing robust features with denoising autoencoders
 Saturating auto-encoders
 Scalable Bayesian optimization using deep neural networks

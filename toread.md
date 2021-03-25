@@ -13,9 +13,7 @@ An Optimum Property of Regular Maximum Likelihood Estimation
 Composite likelihood methods
 Statistical analysis of non-lattice data
 Probability, Random Variables and Stochastic Processes
-Learning with tree-averaged densities and distributions
 The pseudo-marginal approach for efficient Monte Carlo computations
-Vines: a new graphical model for dependent random variables
 Factorial mixture of Gaussians and the marginal independence model
 Posterior sampling when the normalising constant is unknown
 Probabilistic supervised learning

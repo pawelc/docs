@@ -2,6 +2,7 @@
 1962 - Introduction to the theory of statistics (book)
 1969 - Estimating the components of a mixture of normal distributions
 1978 - On a measure of lack of fit in time series models
+1985 - Chi-Plots for Assessing Dependence
 1986 - Density estimation for statistics and data analysis
 1991 - Elements of Information Theory
 1995 - Wand, M.P and Jones, M.C. (1995). Kernel Smoothing. London: Chapman & Hall/CRC.
@@ -9,12 +10,13 @@
 1999 - Probability Theory and Statistical Inference Econometric Modeling with Observational Data (book)
 2001 - Gaussianization
 2001 - An introduction to statistical modelling of extreme values
-2010 - Copula Processes
+2003 - Kendall’s tau for elliptical distributions
+2007 - Sampling Archimedean copulas
 2015 - Distilling intractable generative models
+2014 - An importance sampling approach for copula models in insurance
 2015 - Picture A probabilistic programming language for scene perception
 2016 - Density modeling of images using a generalized normalization transformation
 
-Copula Methods in Finance
 Fundamentals of Statistical Exponential Families
 http://bjlkeng.github.io/posts/the-expectation-maximization-algorithm/
 Simple, Distributed, and Accelerated Probabilistic Programming
@@ -51,7 +53,6 @@ http://cocosci.berkeley.edu/tom/bayes.html
 How to approximate a histogram by a normal density
 A generalized unimodality
 Do robust estimators work with real data
-Probabilistic graphical models: principles and techniques
 Estimation of a multivariate density
 Theory of Probability (book)
 Probability Theory: The Logic of Science
@@ -94,7 +95,6 @@ Multivariate Models and Dependence Concepts
 Modelling Multivariate Extreme Value Distributions
 Some analytical properties of bivariate extreme distributions
 MCMC for doubly-intractable distributions
-Families of multivariate distributions
 A MCMC approach for learning the structure of Gaussian acyclic directed mixed graphs
 GaP A Factor Model for Discrete Data
 Monte Carlo Statistical Methods

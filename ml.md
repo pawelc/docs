@@ -32,3 +32,11 @@ of machine learning. Summarize in my thesis.
 
 Presentation about machine learning language that could be build on top of massage passing. Presenter shows issues with applying
 blindly algorithmic differentiation which does not support approximation for example. Message passing does.
+
+# [Taylor-Mode Automatic Differentiation for Higher-Order Derivatives in JAX](https://openreview.net/pdf?id=SkxEF3FNPH)
+2019
+
+The naive approach of computing higher order differentiation in AD frameworks is to apply first order grad operation
+repetitively. The higher order differentiation scales exponentially in the order of the derivative. Although in the
+autodiff community there are methods with better computational properties. The Taylor mode is the generalization of the 
+forward mode AD to higher order derivatives.

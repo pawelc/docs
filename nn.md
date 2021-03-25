@@ -87,6 +87,12 @@ networks tend to be more expensive to train then this architecture. They empiric
 layers achieves comparable error on the training data and much better on the test data when there is requirement for the monotonicity
 compared to regular NN with 1 hidden layer.
 
+# [Efficient supervised learning in networks with binary synapses]()
+2007
+
+Authors present online algorithm similar to perceptron algorithm but for network with discrete weights. It is bilogically
+plausible that synapses in the brain are discrete and researching such algorithms is important. 
+
 # [Comparison of universal approximators incorporating partial monotonicity by structure](https://www.sciencedirect.com/science/article/pii/S0893608009002330)
 2009.02.20
 
@@ -122,6 +128,11 @@ around 1) appears helpful, and allows to eliminate a good part of the discrepanc
 supervised deep networks and ones pre-trained with unsupervised learning
 Many of our observations remain unexplained, suggesting further investigations to better understand gradients
 and training dynamics in deep architectures.
+
+# [Expectation Backpropagation: Parameter-Free Training of Multilayer Neural Networks with Continuous or Discrete Weights]()
+2014
+
+
 
 
 # [Bounded activation functions for enhanced training stability of deep neural networks on visual pattern recognition problems]()
