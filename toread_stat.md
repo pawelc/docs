@@ -1,6 +1,7 @@
 1900 - https://en.wikipedia.org/wiki/Instrumental_variables_estimation
 1908 - The probable error of a mean
 1908 - Probable error of a correlation coefficient
+1948 - The probability integral transformation when parameters are estimated from the sample
 1949 - The Monte Carlo method
 1964 - Monte Carlo Methods
 1971 - Multivariate concordance
@@ -9,6 +10,7 @@
 1987 - The beginning of the Monte Carlo method
 1994 - An Introduction to the Bootstrap (book)
 1994 - Estimating volatilities and correlations
+1994 - Autoregressive Conditional Density Estimation
 1994 - time series analysis (book)
 1997 - Bootstrap Methods And Their Application
 2005 - Estimation of non-normalized statistical models using score matching

@@ -126,6 +126,7 @@ the likelihood
 2018 - Neural Ordinary Differential Equations
 2018 - https://medium.com/tensorflow/introducing-tensorflow-probability-dca4c304e245
 2018 - Flow-GAN: Combining Maximum Likelihood and Adversarial Learning in Generative Models
+2018 - Data Synthesis based on Generative Adversarial Networks
 2018 - Conditional Density Estimation with Bayesian Normalising Flows
 2018 - (DENSITY ESTIMATION: VARIATIONAL AUTOENCODERS) http://ruishu.io/2018/03/14/vae/
 2018 - Generative adversarial networks: An overview
@@ -139,6 +140,7 @@ the likelihood
 2019 - Sum-of-Squares Polynomial Flow
 2019 - Unconstrained monotonic neural networks
 2019 - Cubic-spline flows
+2019 - Modeling Tabular data using Conditional GAN
 2019 - Neural spline flows
 2019 - MintNet: Building invertible neural networks with masked convolutions
 2019 - MaCow: Masked convolutional generative flow
@@ -159,6 +161,7 @@ the likelihood
 2019 - Residual Flows for Invertible Generative Modeling
 2019 - Augmented Neural ODEs
 2019 - Tails of Lipschitz Triangular Flows
+2019 - Generative adversarial networks: A survey and taxonomy
 2020 - How to train your neural ODE
 2020 - MaskAAE: Latent space optimization for Adversarial Auto-Encoders
 2020 - Pairwise Supervised Hashing with Bernoulli Variational Auto-Encoder and Self-Control Gradient Estimator

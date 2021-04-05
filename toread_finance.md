@@ -1,4 +1,6 @@
+1982 - Autoregressive Conditional Heteroscedasticity with Estimates of the Variance of United Kingdom Inflation
 1995 - Tests of microstructure hypotheses in the foreign exchange market
+1988 - Meteor Showers or Heat Waves Heteroskedastic Intra-Daily Volatility in the Foreign Exchange Market
 1999 - The Econometric Modelling of Financial Time Series (book)
 1999 - The most general methodology to create a valid correlation matrix for risk management and option pricing purposes
 2000 - Non-Linear Time Series Models in Empirical Finance
@@ -8,30 +10,46 @@
 2004 - Defining risk
 2005 - Economic and Financial Decisions under Risk
 2006 - Foreign exchange a practical guide to the FX markets
+2006 - Modeling asymmetric exchange rate dependence
 2007 - Implied correlation from VaR
+2008 - Market Risk Analysis (Book)
 2017 - Modelling and mitigation of Flash Crashes
 2010 - The devil is in the tails: actuarial mathematics and the subprime mortgage crisis
+2010 - Modeling exchange rate dependence at different time horizons
 2010 - Newton’s method for computing the nearest correlation matrix with a simple upper bound
 2010 - Correlation stress testing for value-at-risk: an unconstrained convex optimization approach
 2010 - Exchange Rate Regimes in the Modern Era
+2010 - Modeling exchange rate dependence dynamics at different time horizons
 2011 - Crashes and high frequency trading
+2012 - Exchange return co-movements and volatility spillovers before and after the introduction of euro
 2012 - Risk Management and Shareholders Value in Banking From Risk Measurement Models to Capital Allocation Policies (book)
 2012 - techtrader https://www.techtrader.ai/
 2012 - MARKET MICROSTRUCTURE DESIGN AND FLASH CRASHES: A SIMULATION APPROACH
+2013 - The Rearrangement Algorithm a new tool for computing bounds on risk measures
+2013 - Extreme-quantile tracking for financial time series
+2013 - Model uncertainty and VaR aggregation
 2014 - https://www.value-at-risk.net
 2014 - Time Series Models for Business and Economic Forecasting
 2014 - VaR-implied tail-correlation matrices
+2014 - Interdependence and contagion in global asset markets
+2014 - Co-movements among major European exchange rates: A multivariate time-varying asymmetric approach
 2015 - Is a High CAPE Cause for Alarm? Part 2: Valuation-Based Asset Allocation (https://www.forbes.com/sites/wadepfau/2015/07/09/is-a-high-cape-cause-for-alarm-part-2-valuation-based-asset-allocation/?sh=46cd4ff84eda)
 2016 - The Gaussian Copula and the Financial Crisis: A Recipe for Disaster or Cooking the Books?
+2017 - Quantile-based Risk Sharing
 2018 - Understanding Flash Crash Contagion and Systemic Risk: A Micro-Macro Agent-Based Approach
 2018 - How do participants behave during Flash events? Evidence from the UK equity market.
+2018 - A general framework for data-driven uncertainty quantification under complex input dependencies using vine copulas
 2019 - https://www.cuemacro.com/about/
 2019 - The man who solved the market (book)
 http://www.londonfx.co.uk/
 2020 - https://thalesians.com/videos/
 2020 - https://volquant.medium.com/fragile-markets-understanding-the-dynamic-of-a-flash-crash-e86fbc8b4e6c
+2020 - A Conversation With Paul Embrechts
+2020 - A Conversation with Paul Embrechts2
+2020 - Robustness in the Optimization of Risk Measures
 2021 - https://deepdow.readthedocs.io/
 2021 - http://nakisa.org/
+2021 - Bayes risk, elicitability, and the Expected Shortfall
 
 Probabilistic Graphical Models: A New Way of Thinking in Financial Modelling 
 Bayesian Methods in Finance
@@ -122,7 +140,6 @@ From value at risk to stress testing: The extreme value approach
 Garch 101, the use of arch garch models in applied econometrics
 The econometrics of financial markets
 Estimation of tail-related risk measure for heteroscedastic financial time series, an extreme value approach
-Autoregressive Conditional Heteroscedasticity with Estimates of the Variance of United Kingdom Inflation
 Generalized autoregressive conditional heteroscedasticity
 Expected Returns: An Investor's Guide to Harvesting Market Rewards
 https://www.zerohedge.com/news/2018-05-22/unexpected-warning-goldman-sachs-something-not-quite-right

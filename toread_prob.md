@@ -2,14 +2,19 @@
 1962 - Introduction to the theory of statistics (book)
 1969 - Estimating the components of a mixture of normal distributions
 1978 - On a measure of lack of fit in time series models
+1980 - Approximation theorems of mathematical statistics
 1985 - Chi-Plots for Assessing Dependence
 1986 - Density estimation for statistics and data analysis
 1991 - Elements of Information Theory
 1995 - Wand, M.P and Jones, M.C. (1995). Kernel Smoothing. London: Chapman & Hall/CRC.
+1995 - Approximations to multivariate normal rectangle probabilities based on conditional expectations
+1996 - Multivariate distributions from mixtures of max-infinitely divisible distributions
 1997 - Counterexamples in Probability
+1997 - Multivariate Models and Dependence Concepts
 1999 - Probability Theory and Statistical Inference Econometric Modeling with Observational Data (book)
 2001 - Gaussianization
 2001 - An introduction to statistical modelling of extreme values
+2002 - The meta-elliptical distributions with given marginals
 2003 - Kendall’s tau for elliptical distributions
 2007 - Sampling Archimedean copulas
 2015 - Distilling intractable generative models
@@ -33,7 +38,6 @@ Nonparametric maximum likelihood of probability densities by penalty function me
 On the estimation of a probability density function by the maximum penalized likelihood method
 Non Uniform Random Variate Generation
 The law of the iterated logarithm for empirical distributions
-Approximation theorems of mathematical statistics
 Optimization of k nearest neighbor density estimates
 Probability density estimation
 Density estimation-based document categorization using von Mises-Fisher kernels
@@ -91,7 +95,6 @@ Density estimation by dual ascent of the log-likelihood
 MCMC using hamiltonian dynamics
 Correlation and causation
 Bayesian structural equation modeling
-Multivariate Models and Dependence Concepts
 Modelling Multivariate Extreme Value Distributions
 Some analytical properties of bivariate extreme distributions
 MCMC for doubly-intractable distributions

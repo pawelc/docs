@@ -5,6 +5,7 @@
 1986 - The Arithmetic of Differentiation
 1990 - Acceleration of Stochastic Approximation by Averaging
 1993 - A user's guide to tabu search
+1993 - Maximum likelihood estimation via the ECM algorithm: A general framework
 1997 - On bias, variance, 0/1 - loss, and the curse-of-dimensionality
 1999 - Nonlinear independent component analysis: Existence and uniqueness results
 2005 - Triangular transformations of measures
@@ -16,6 +17,7 @@
 2009 - Probabilistic graphical models: principles and techniques
 2011 - The Separation Plot: A New Visual Method for Evaluating the Fit of Binary Models
 2012 - Python for Data Analysis
+2012 - Model-based clustering, classication, and discriminant analysis of data with mixed type
 2016 - https://www.cs.ox.ac.uk/people/nando.defreitas/machinelearning/
 2016 - Modeling, Inference and Optimization with Composable Differentiable Procedures 
 2017 - UAI 2017 Tutorial: Shakir Mohamed & Danilo Rezende (https://www.youtube.com/watch?v=JrO5fSskISY, DeepGenModelsTutorial.pdf)
@@ -38,6 +40,8 @@
 2020 - Robust $k$-means++
 2020 - DeepMind x UCL | Deep Learning Lectures (https://www.youtube.com/watch?v=7R52wiUgxZI)
 2021 - https://anguswilliams91.github.io/statistics/computing/jax/
+2021 - Why is AI hard and Physics simple?
+
 
 Determining the degree of generalization using an incremental learning algorithm
 Pattern Classification and Scene Analysis

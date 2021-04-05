@@ -1,0 +1,1 @@
+2015 - Generalized Product of Experts for Automatic and Principled Fusion of Gaussian Process Predictions
