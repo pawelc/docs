@@ -1,7 +1,15 @@
+Order to read books about measure theory and probability: https://www.youtube.com/watch?v=aJjB16jJQEQ&list=PL17567A1A3F5DB5E4&index=9
+
 1955 - Theory of ordinary differential equations
+1987 - Real And Complex Analysis (book)
+2004 - Probability Essentials (book)
 2008 - Evaluating Derivatives: Principles and Techniques of Algorithmic Differentiation
 2010 - Lecture notes on numerical solutions of ordinary differential equations
 2013 - Functional Differential Geometry (Book)
+2013 - Principles of Mathematical Analysis (book)
+2019 - Probability: Theory and Examples (book)
+2020 - Probability and Random Processes (book)
+1999 - Real analysis : modern techniques and their applications (folland book)
 
 An Introduction to Measure Theory
 Real analysis for graduate students

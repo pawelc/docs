@@ -5,8 +5,8 @@
 1996 - The estimation method of inference functions for margins for multivariate models
 1998 - understanding relationships using copulas
 2000 - On Default Correlation: A Copula Function Approach
+1999 - Vines: a new graphical model for dependent random variables
 2001 - Probability Density Decomposition for Conditionally Dependent Random Variables Modeled by Vines
-2002 - Vines: a new graphical model for dependent random variables
 2002 - The vine copula method for representing high dimensional dependent distributions: Applications to continuous belief nets
 2004 - Copula Methods in Finance (book)
 2004 - Modeling dependence with copulas: a useful tool for field development decision process
@@ -46,6 +46,7 @@
 2011 - On Archimedean copulas and a non-parametric estimation method
 2011 - Associative n-dimensional copulas
 2012 - Copula Network Classifiers
+2012 - The simple econometrics of tail dependence
 2012 - Pair copula constructions for multivariate discrete data
 2012 - Goodness-of-fit tests for the gamma distribution based on the empirical laplace transform
 2012 - Pair-Copula Constructions for Non-Gaussian DAG Models
@@ -54,12 +55,14 @@
 2013 - Modeling dependence with c- and d-vine copulas: The r package cdvine
 2014 - A note on generalized inverses
 2013 - Drought analysis using copulas
+2013 - Why Clayton and Gumbel Copulas: A Symmetry-Based Explanation
 2013 - Drought analysis under climate change using copula
 2013 - Generalized autoregressive score models with applications
 2013 - Dynamic Copula Networks for Modeling Real-valued Time Series
 2014 - The copula information criteria
 2014 - Model-based clustering of Gaussian copulas for mixed data
 2014 - Archimedean copulas derived from utility functions
+2015 - Tail negative dependence and its applications for aggregate loss modeling
 2016 - Examination and visualisation of the simplifying assumption for vine copulas in three dimensions
 2016 - Forecasting Financial Returns: A Copula-Based Method and a Robust Test
 2016 - Hybrid Copula Bayesian Networks
