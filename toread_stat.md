@@ -3,6 +3,7 @@
 1908 - Probable error of a correlation coefficient
 1948 - The probability integral transformation when parameters are estimated from the sample
 1949 - The Monte Carlo method
+1957 - On the Comparative Anatomy of Transformations
 1964 - Monte Carlo Methods
 1971 - Multivariate concordance
 1985 - Chi-Plots for Assessing Dependence

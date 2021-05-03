@@ -17,6 +17,8 @@
 2016 - https://medium.com/@karpathy/yes-you-should-understand-backprop-e2f06eab496b
 2016 - Distributed B-SDLM: Accelerating the Training Convergence of Deep Neural Networks Through Parallelism
 2016 - https://tebesu.github.io/posts/Training-a-TensorFlow-graph-in-C++-API
+2017 - OptNet: Differentiable Optimization as a Layer in Neural Networks
+2017 - Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks
 2017 - Softsign as a Neural Networks Activation Function
 2017 - Axiomatic Attribution for Deep Networks
 2017-  An Overview of ResNet and its Variants https://towardsdatascience.com/an-overview-of-resnet-and-its-variants-5281e2f56035

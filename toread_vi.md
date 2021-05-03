@@ -56,7 +56,6 @@ Doubly stochastic variational Bayes for non-conjugate inference
 Affine independent variational inference
 Learning stochastic inverses
 Convergence and asymptotic normality of variational Bayesian approximations for exponential family models with missing values
-Copula variational inference
 Automatic variational inference in Stan
 Variational inference for Dirichlet process mixtures
 Linear response methods for accurate covariance estimates from mean field variational Bayes

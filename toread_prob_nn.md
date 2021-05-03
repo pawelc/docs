@@ -131,6 +131,7 @@ the likelihood
 2018 - (DENSITY ESTIMATION: VARIATIONAL AUTOENCODERS) http://ruishu.io/2018/03/14/vae/
 2018 - Generative adversarial networks: An overview
 2019 - Aleatoric and Epistemic Uncertainty in Machine Learning: An Introduction to Concepts and Methods
+2019 - What are Normalizing Flows? https://www.youtube.com/watch?v=i7LjDvsLWCg
 2019 - Semi-Conditional Normalizing Flows for Semi-Supervised Learning
 2019 - Flow++: Improving Flow-Based Generative Models with Variational Dequantization and Architecture Design
 2019 - Discrete Flows: Invertible Generative Models of Discrete Data

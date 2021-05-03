@@ -40,3 +40,8 @@ The naive approach of computing higher order differentiation in AD frameworks is
 repetitively. The higher order differentiation scales exponentially in the order of the derivative. Although in the
 autodiff community there are methods with better computational properties. The Taylor mode is the generalization of the 
 forward mode AD to higher order derivatives.
+
+# [What is Automatic Differentiation?](https://www.youtube.com/watch?v=wG_nF1awSSY)
+2020
+
+Amazing introduction to automatic differentiation.

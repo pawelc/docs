@@ -28,6 +28,7 @@
 2013 - The Rearrangement Algorithm a new tool for computing bounds on risk measures
 2013 - Extreme-quantile tracking for financial time series
 2013 - Model uncertainty and VaR aggregation
+2013 - On Multivariate Extensions of Value-at-Risk
 2014 - https://www.value-at-risk.net
 2014 - Time Series Models for Business and Economic Forecasting
 2014 - VaR-implied tail-correlation matrices

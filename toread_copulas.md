@@ -33,9 +33,11 @@
 2009 - Goodness-of-fit tests for copulas: A review and a power study
 2009 - On the Distributional Transform, Sklar’s Theorem, and the Empirical Copula Process
 2009 - Pair-copula constructions of multiple dependence
+2009 - A Frank mixture copula family for modeling higherorder correlations of neural spike counts
 2009 - Modeling Multivariate Count Data Using Copulas
 2009 - Multivariate Archimedean Copulas, d-Monotone Functions and ℓ₁-Norm Symmetric Distributions
 2010 - Copula processes
+2010 - Probability Distributions and Estimation of Ali-Mikhail-Haq Copula
 2010 - Hierarchies of archimedean copulas
 2010 - Constructing hierarchical archimedean copulas with lévy subordinators
 2010 - Inference-less density estimation using Copula Bayesian Networks
@@ -45,6 +47,7 @@
 2011 - A stochastic representation and sampling algorithm for nested Archimedean copulas
 2011 - On Archimedean copulas and a non-parametric estimation method
 2011 - Associative n-dimensional copulas
+2011 - Gaussian Mixture Copula Model
 2012 - Copula Network Classifiers
 2012 - The simple econometrics of tail dependence
 2012 - Pair copula constructions for multivariate discrete data
@@ -63,6 +66,8 @@
 2014 - Model-based clustering of Gaussian copulas for mixed data
 2014 - Archimedean copulas derived from utility functions
 2015 - Tail negative dependence and its applications for aggregate loss modeling
+2015 - Copula variational inference
+2015 - Copula models in Machine Learning
 2016 - Examination and visualisation of the simplifying assumption for vine copulas in three dimensions
 2016 - Forecasting Financial Returns: A Copula-Based Method and a Robust Test
 2016 - Hybrid Copula Bayesian Networks
