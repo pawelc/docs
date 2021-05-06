@@ -47,6 +47,7 @@
 2011 - A stochastic representation and sampling algorithm for nested Archimedean copulas
 2011 - On Archimedean copulas and a non-parametric estimation method
 2011 - Associative n-dimensional copulas
+2011 - Estimation Techniques and Goodness-of-fit Tests for Certain Copula Classes in Large Dimensions
 2011 - Gaussian Mixture Copula Model
 2012 - Copula Network Classifiers
 2012 - The simple econometrics of tail dependence
