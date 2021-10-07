@@ -163,7 +163,7 @@ formula to organize computations. This procedure is efficient for CDNs which are
 subset of variables. Then we need to split at each time the graph to two partitions and combine derivatives for each partition 
 in a recursive fashion.
 
-# [Mixed Cumulative Distribution Networks](http://proceedings.mlr.press/v15/silva11a/silva11a.pdf)
+# [Mixed Cumulative Distribution Networks](http://proceedings.mlr.press/v15/silva11a/silva11a.pdf,http://videolectures.net/aistats2011_silva_cumulative/)
 31.08.2010
 
 ADMG (Acyclic Directed Mixed Graph) are generalization on Directed graphs to contain bi-directional edges.

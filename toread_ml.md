@@ -1,4 +1,5 @@
 1928 - On the composition of elementary errors
+1950 - computing machinery and intelligence
 1951 - A stochastic approximation method
 1978 - Estimating the dimension of a model
 1984 - Monte Carlo methods of inference for implicit statistical models
@@ -18,13 +19,16 @@
 2011 - The Separation Plot: A New Visual Method for Evaluating the Fit of Binary Models
 2012 - Python for Data Analysis
 2012 - Model-based clustering, classication, and discriminant analysis of data with mixed type
+2013 - Alan Turing His Work and Impact (book)
 2016 - https://www.cs.ox.ac.uk/people/nando.defreitas/machinelearning/
 2016 - Modeling, Inference and Optimization with Composable Differentiable Procedures 
 2017 - UAI 2017 Tutorial: Shakir Mohamed & Danilo Rezende (https://www.youtube.com/watch?v=JrO5fSskISY, DeepGenModelsTutorial.pdf)
 2017 - On Blackbox Backpropagation and Jacobian Sensing
 2017 - Detecting Statistical Interactions from Neural Network Weights
+2017 - A Unified Approach to Interpreting Model Predictions
 2018 - The simple essence of automatic differentiation
 2018 - Neural Sketch Learning for Conditional Program Generation
+2018 - Interpretable Machine Learning with XGBoost (https://towardsdatascience.com/interpretable-machine-learning-with-xgboost-9ec80d148d27)
 2019 - Exascale Deep Learning for Scientific Inverse Problems
 2019 - Deep Learning with PyTorch
 2019 - Static Automatic Batching In TensorFlow

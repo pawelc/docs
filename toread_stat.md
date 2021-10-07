@@ -27,7 +27,8 @@
 2016 - Tail dependence of the Gaussian copula revisited
 2018 - Copula Variational Bayes inference via information geometry
 2020 - Statistical Rethinking : A Bayesian Course with Examples in R and Stan
-https://www.statlect.com/
+2021 - https://www.statlect.com/
+2021 - Statistical Inference https://github.com/FJRubio67/StatisticalInference
 
 Generalized Linear Models
 Bayesian data analysis

@@ -1,3 +1,4 @@
+1896 - The Joy of Copulas: Bivariate Distributions with Uniform Marginals
 1990 - Empirical laplace transform and approximation of compound distributions
 1994 - Multivariate extreme-value distributions with applications to environmental data
 1995 - Constructing multivariate distributions with specific marginal distributions
@@ -8,6 +9,7 @@
 1999 - Vines: a new graphical model for dependent random variables
 2001 - Probability Density Decomposition for Conditionally Dependent Random Variables Modeled by Vines
 2002 - The vine copula method for representing high dimensional dependent distributions: Applications to continuous belief nets
+2002 - Properties and applications of copulas: A brief survey
 2004 - Copula Methods in Finance (book)
 2004 - Modeling dependence with copulas: a useful tool for field development decision process
 2005 - A method to obtain new copulas from a given one
@@ -19,8 +21,10 @@
 2006 - Hierarchical archimedean copulas
 2006 - Using trivariate copulas to model sample selection and treatment effects: Application to family health care demand
 2007 - Copulas Modeling dependencies in Financial Risk Management
+2007 - Sampling Archimedean copulas
 2007 - Copulas: A personal view
 2007 - Everything you always wanted to know about copula modeling but were afraid to ask
+2007 - Using Copulas to Construct Bivariate Foreign Exchange Distributions with an Application to the Sterling Exchange Rate Index
 2007 - Learning with tree-averaged densities and distributions
 2007 - Construction of asymmetric multivariate copulas
 2007 - A primer on copulas for count data
@@ -64,6 +68,7 @@
 2013 - Generalized autoregressive score models with applications
 2013 - Dynamic Copula Networks for Modeling Real-valued Time Series
 2014 - The copula information criteria
+2014 - Financial Calculus: An Introduction to Derivative Pricing (book)
 2014 - Model-based clustering of Gaussian copulas for mixed data
 2014 - Archimedean copulas derived from utility functions
 2015 - Tail negative dependence and its applications for aggregate loss modeling
@@ -86,6 +91,8 @@
 2019 - Vine Copula Structure Learning via Monte Carlo Tree Search
 2019 - Sum-Product Copulas
 2020 - Calibrating multivariate Lévy processes with neural networks
+2020 - Factor copula models for mixed data
+2020 - "Introduction To Copulas: A Machine Learning Perspective" https://medium.com/kxytechnologies/a-primer-on-copulas-from-a-machine-learning-perspective-b9ea11c8681b
 2021 - Vine copula mixture models and clustering for non-Gaussian data
 
 https://www.youtube.com/watch?v=GkEZw3xTQZw

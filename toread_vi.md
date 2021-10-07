@@ -11,17 +11,21 @@
 2016 - How to train deep variational autoencoders and probabilistic ladder networks 
 2016 - Composing graphical models with neural networks for structured representations and fast inference
 2016 - Hierarchical variational models
+2016 - Discrete Variational Autoencoders
 2016 - The Generalized Reparameterization Gradient
 2016 - A structured variational auto-encoder for learning deep hierarchies of sparse features
 2016 - Sampling Generative Networks: Notes on a Few Effective Techniques
+2016 - Deep Unsupervised Clustering with Gaussian Mixture Variational Autoencoders
 2016 - Variational inference for Monte Carlo objectives
 2017-  Variational inference and deep learning new synthesis
 2017 - Automatic differentiation variational inference
 2017 - Enabling dark energy science with deep generative models of galaxy images
 2017 - Variational dropout sparsifies deep neural networks
 2017 - The Concrete Distribution: A Continuous Relaxation of Discrete Random Variables
+2018 - Training Variational Auto Encoders with Discrete Latent Representations using Importance Sampling 
 2018 - Distribution matching in variational inference
 2018 - Automatic chemical design using a data-driven continuous representation of molecules
+2018 - DVAE++: Discrete Variational Autoencoders with Overlapping Transformations
 2020 - SurVAE Flows: Surjections to Bridge the Gap between VAEs and Flows
 
 Gradient Estimation Using Stochastic Computation Graphs

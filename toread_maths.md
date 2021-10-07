@@ -10,6 +10,7 @@ Order to read books about measure theory and probability: https://www.youtube.co
 2019 - Probability: Theory and Examples (book)
 2020 - Probability and Random Processes (book)
 1999 - Real analysis : modern techniques and their applications (folland book)
+1999 - Matrix Differential Calculus with Applications in Statistics and Econometrics (book)
 
 An Introduction to Measure Theory
 Real analysis for graduate students

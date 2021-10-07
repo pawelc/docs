@@ -43,6 +43,13 @@ discourages holding of positions can improve performance of the model.
 Nice review of FX markets. Comprehensive way of simulating the environment of FX market maker.
 Comparison of performance of market maker without hedging, with hedging and with VaR (using extreme value apprach)
 
+#[GARCH 101: An Introduction to the Use of ARCH/GARCH models in Applied Econometrics]()
+2001
+
+Authors give simple introduction to the GARCH model for volatility modelling. They show example on the financial asset
+and portfolio composed of several assets. They described when such model applies and hot to check its 
+applicability. They also demonstrate how to compute VaR. They give short overview of extensions.
+
 #[Measuring financial risks with copulas]()
 2004
 

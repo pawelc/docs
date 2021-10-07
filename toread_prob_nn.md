@@ -162,8 +162,10 @@ the likelihood
 2019 - Residual Flows for Invertible Generative Modeling
 2019 - Augmented Neural ODEs
 2019 - Tails of Lipschitz Triangular Flows
+2019 - Conditional Density Estimation with Neural Networks: Best Practices and Benchmarks
 2019 - Generative adversarial networks: A survey and taxonomy
 2020 - How to train your neural ODE
 2020 - MaskAAE: Latent space optimization for Adversarial Auto-Encoders
 2020 - Pairwise Supervised Hashing with Bernoulli Variational Auto-Encoder and Self-Control Gradient Estimator
 2020 - Semi-supervised Sequential Generative Models 
+2021 - Marginalizable Density Models

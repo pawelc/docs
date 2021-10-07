@@ -16,7 +16,6 @@
 2001 - An introduction to statistical modelling of extreme values
 2002 - The meta-elliptical distributions with given marginals
 2003 - Kendall’s tau for elliptical distributions
-2007 - Sampling Archimedean copulas
 2015 - Distilling intractable generative models
 2014 - An importance sampling approach for copula models in insurance
 2015 - Picture A probabilistic programming language for scene perception
