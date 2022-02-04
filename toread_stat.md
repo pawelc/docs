@@ -5,6 +5,7 @@
 1949 - The Monte Carlo method
 1957 - On the Comparative Anatomy of Transformations
 1964 - Monte Carlo Methods
+1967 - On the Method of Inclusion and Exclusion
 1971 - Multivariate concordance
 1985 - Chi-Plots for Assessing Dependence
 1987 - Stan Ulam, John von Neumann, and the Monte Carlo method
@@ -14,9 +15,13 @@
 1994 - Autoregressive Conditional Density Estimation
 1994 - time series analysis (book)
 1997 - Bootstrap Methods And Their Application
+1998 - Financial Data and the Skewed Generalized T Distribution
+1998 - Evaluating interval forecasts
 2005 - Estimation of non-normalized statistical models using score matching
 2009 - Estimation of Information Theoretic Measures for Continuous Random Variables
 2007 - The Most Dangerous Equation
+2010 - Skewed Generalized Error Distribution of Financial Assets and Option Pricing
+2010 - A generalized asymmetric Student-t distribution with application to financial econometrics
 2011 - Estimating high dimensional covariance matrices and its applications
 2013 - Mutual Information between Discrete and Continuous Data Sets
 2013 - Predicting covariance matrices with financial conditions indexes
@@ -26,6 +31,7 @@
 2015 - MCMC sampling for dummies: https://twiecki.github.io/blog/2015/11/10/mcmc-sampling/
 2016 - Tail dependence of the Gaussian copula revisited
 2018 - Copula Variational Bayes inference via information geometry
+2019 - The P value and statistical significance: Misunderstandings, explanations, challenges, and alternatives
 2020 - Statistical Rethinking : A Bayesian Course with Examples in R and Stan
 2021 - https://www.statlect.com/
 2021 - Statistical Inference https://github.com/FJRubio67/StatisticalInference

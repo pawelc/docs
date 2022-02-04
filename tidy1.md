@@ -346,7 +346,6 @@ Unified integration of explicit knowledge and learning by example in recurrent n
 Programmable execution of multi-layered networks for automatic speech recognition
 Phoneme Recognition Using Time Delay Neural Networks
 Boosted Backpropagation Learning for Training Deep Modular Networks
-Training Stochastic Model Recognition Algorithms as Networks can Lead to Maximum Mutual Information Estimation of Parameters
 Identifying and attacking the saddle point problem in high-dimensional non-convex
 optimization
 Big Neural Networks Waste Capacity

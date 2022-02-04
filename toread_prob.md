@@ -8,6 +8,7 @@
 1991 - Elements of Information Theory
 1995 - Wand, M.P and Jones, M.C. (1995). Kernel Smoothing. London: Chapman & Hall/CRC.
 1995 - Approximations to multivariate normal rectangle probabilities based on conditional expectations
+1995 - Higher order statistical decorrelation without information loss
 1996 - Multivariate distributions from mixtures of max-infinitely divisible distributions
 1997 - Counterexamples in Probability
 1997 - Multivariate Models and Dependence Concepts
@@ -20,6 +21,7 @@
 2014 - An importance sampling approach for copula models in insurance
 2015 - Picture A probabilistic programming language for scene perception
 2016 - Density modeling of images using a generalized normalization transformation
+2021 - https://en.wikipedia.org/wiki/Compound_probability_distribution
 
 Fundamentals of Statistical Exponential Families
 http://bjlkeng.github.io/posts/the-expectation-maximization-algorithm/
@@ -82,7 +84,6 @@ Backpropagation through the void: Optimizing control variates for black-box grad
 Understanding Probability
 From Laplace To Supernova Sn 1987A Bayesian Inference In Astrophysics
 understandinguncertainty.org
-Causality: Models, Reasoning and Inference
 The Foundations of Statistics
 Causation, Prediction and Search
 TrueSkillTM: A Bayesian skill rating system
@@ -149,5 +150,4 @@ Interpreting the Magnitudes of Correlation Coefficients
 Primer on Copulas for Count Data
 The Estimation Method of Inference Function for Margins for Multivariate Models
 Generating images with recurrent adversarial networks
-Higher order statistical decorrelation without information loss
 Why Probabilistic Programming Matters

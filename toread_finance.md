@@ -16,13 +16,16 @@
 2002 - Increased correlation in bear markets
 2002 - Computing the nearest correlation matrix - a problem from finance
 2004 - Defining risk
+2004 - CAViaR: Conditional autoregressive value at risk by regression quantiles
 2005 - Economic and Financial Decisions under Risk
 2005 - Intraday Value at Risk (Ivar) Using Tick-by-Tick Data with Application to the Toronto Stock Exchange
+2006 - decision rules and maximum initial withdrawal rates
 2006 - Foreign exchange a practical guide to the FX markets
 2006 - Modeling asymmetric exchange rate dependence
 2007 - Implied correlation from VaR
 2008 - Market Risk Analysis (Book)
 2008 - Stocks as Lotteries: The Implications of Probability Weighting for Security Prices
+2011 - Evaluating value-at-risk models via quantile regression
 2017 - Modelling and mitigation of Flash Crashes
 2010 - The devil is in the tails: actuarial mathematics and the subprime mortgage crisis
 2010 - Modeling exchange rate dependence at different time horizons
@@ -30,6 +33,7 @@
 2010 - Correlation stress testing for value-at-risk: an unconstrained convex optimization approach
 2010 - Exchange Rate Regimes in the Modern Era
 2010 - Modeling exchange rate dependence dynamics at different time horizons
+2010 - https://www.portfolioprobe.com/2010/10/04/a-tale-of-two-returns/
 2011 - Crashes and high frequency trading
 2011 - Depression Babies: Do Macroeconomic Experiences Affect Risk Taking
 2012 - Exchange return co-movements and volatility spillovers before and after the introduction of euro
@@ -39,6 +43,7 @@
 2013 - The Rearrangement Algorithm a new tool for computing bounds on risk measures
 2013 - Information Transmission Between Financial Markets in Chicago and New York
 2013 - Extreme-quantile tracking for financial time series
+2013 - Copulae in Mathematical and Quantitative Finance
 2013 - Model uncertainty and VaR aggregation
 2013 - On Multivariate Extensions of Value-at-Risk
 2014 - https://www.value-at-risk.net
@@ -52,10 +57,13 @@
 2015 - Building Diversified Portfolios that Outperform Out-of-Sample
 2015 - Seven Proofs for the Subadditivity of Expected Shortfall
 2016 - The Gaussian Copula and the Financial Crisis: A Recipe for Disaster or Cooking the Books?
+2017 - Elicitability and Backtesting: Perspectives for Banking Regulation
 2017 - Quantile-based Risk Sharing
 2017 - Note on simple and logarithmic returns
 2017 - Backtesting expected shortfall: a simple recipe
 2017 - Portfolio Optimization with Entropic Value-at-Risk
+2018 - https://towardsdatascience.com/introduction-to-quantitative-finance-part-i-stylised-facts-of-asset-returns-5190581e40ea
+2018 - Regression Based Expected Shortfall Backtesting
 2018 - Understanding Flash Crash Contagion and Systemic Risk: A Micro-Macro Agent-Based Approach
 2018 - How do participants behave during Flash events? Evidence from the UK equity market.
 2018 - Risk Parity with Constrained Gaussian Mixture Models
@@ -72,6 +80,7 @@ http://www.londonfx.co.uk/
 2020 - Robustness in the Optimization of Risk Measures
 2020 - Deep Replication of a Runoff Portfolio (https://arxiv.org/abs/2009.05034)
 2020 - Hierarchical Risk Parity: Accounting for Tail Dependencies in Multi-Asset Multi-Factor Allocations
+2020 - TriSNAR: A Three-Layer Sparse Estimator for Large-Scale Network AutoRegressive Models
 2021 - https://deepdow.readthedocs.io/
 2021 - http://nakisa.org/
 2021 - Bayes risk, elicitability, and the Expected Shortfall
@@ -81,6 +90,10 @@ http://www.londonfx.co.uk/
 2021 - (Freetrade and friends' ultimate list of investing education and research) https://docs.google.com/spreadsheets/d/1jnYKZLNW9ajIpCDwyPD9pJkvNJTbyL5NbXobZ7fzeIk/preview#gid=422471276
 2021 - Leveraged ETF Investing
 2021 - http://www.pnlexplained.com/
+2021 - Forecasting value-at-risk and expected shortfall in large portfolios: A general dynamic factor model approach
+2021 - Market making by an FX dealer: tiers, pricing ladders and hedging rates for optimal risk control
+2022 - https://web.stanford.edu/~wfsharpe/
+2022 - https://web.stanford.edu/~wfsharpe/mia/rr/ (returns)
 
 Probabilistic Graphical Models: A New Way of Thinking in Financial Modelling 
 Bayesian Methods in Finance

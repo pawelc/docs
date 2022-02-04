@@ -1,4 +1,5 @@
 1976 - Decisions with Multiple Objectives Preferences and Value Trade-Offs (book)
+1992 - Simple statistical gradient-following algorithms for connectionist reinforcement learning
 2018 - Soft Actor-Critic: Off-Policy Maximum Entropy Deep Reinforcement Learning with a Stochastic Actor
 2018 - World Models
 2018 - Recurrent World Models Facilitate Policy Evolution
@@ -6,6 +7,7 @@
 2019 - Stanford CS234: Reinforcement Learning (https://www.youtube.com/watch?v=FgzM3zpZ55o&amp=&list=PLoROMvodv4rOSOPzutgyCTapiGlY2Nd8u)
 2020 - https://spinningup.openai.com/en/latest/
 2020 - Market-making with reinforcement-learning (SAC)
+2021 - Reinforcement Learning for Systematic FX Trading
 
 Idiosyncrasies and challenges of data driven learning in electronic trading
 https://github.com/tspooner/rl_markets
@@ -20,7 +22,6 @@ Bandit based Monte-Carlo planning
 Computing Elo ratings of move patterns in the game of Go
 Pachi: State of the Art Open Source Go Program
 Fuego—An Open-Source Framework for Board Games and Go Engine Based on Monte Carlo Tree Search
-Simple statistical gradient-following algorithms for connectionist reinforcement learning
 Policy gradient methods for reinforcement learning with function approximation
 High-Dimensional Continuous Control Using Generalized Advantage Estimation
 Markov games as a framework for multi-agent reinforcement learning

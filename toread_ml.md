@@ -4,6 +4,7 @@
 1978 - Estimating the dimension of a model
 1984 - Monte Carlo methods of inference for implicit statistical models
 1986 - The Arithmetic of Differentiation
+1989 - Training Stochastic Model Recognition Algorithms as Networks can Lead to Maximum Mutual Information Estimation of Parameters
 1990 - Acceleration of Stochastic Approximation by Averaging
 1993 - A user's guide to tabu search
 1993 - Maximum likelihood estimation via the ECM algorithm: A general framework
@@ -22,6 +23,7 @@
 2013 - Alan Turing His Work and Impact (book)
 2016 - https://www.cs.ox.ac.uk/people/nando.defreitas/machinelearning/
 2016 - Modeling, Inference and Optimization with Composable Differentiable Procedures 
+2016 - Decision Trees and Forests: A Probabilistic Perspective
 2017 - UAI 2017 Tutorial: Shakir Mohamed & Danilo Rezende (https://www.youtube.com/watch?v=JrO5fSskISY, DeepGenModelsTutorial.pdf)
 2017 - On Blackbox Backpropagation and Jacobian Sensing
 2017 - Detecting Statistical Interactions from Neural Network Weights
@@ -35,6 +37,7 @@
 2019 - https://github.com/khipu-ai/practicals-2019
 2019 - Stanford CS330: Multi-Task and Meta-Learning, 2019 (https://www.youtube.com/watch?v=0rZtSwNOTQo&list=PLoROMvodv4rMC6zfYmnD7UG3LVvwaITY5)
 2019 - A Review of Automatic Differentiation and its Efficient Implementationd
+2019 - Black-Box vs. White-Box: Understanding Their Advantages and Weaknesses From a Practical Point of View
 2019 - Compositional uncertainty in deep Gaussian processes
 2019 - Adaptively Sparse Transformers https://colab.research.google.com/drive/1EB7MI_3gzAR1gFwPPO27YU9uYzE_odSu#scrollTo=SYu8ftZcZcRO
 2020 - https://braininspired.co/podcast/
@@ -45,6 +48,7 @@
 2020 - DeepMind x UCL | Deep Learning Lectures (https://www.youtube.com/watch?v=7R52wiUgxZI)
 2021 - https://anguswilliams91.github.io/statistics/computing/jax/
 2021 - Why is AI hard and Physics simple?
+2021 - http://blog.shakirm.com/
 
 
 Determining the degree of generalization using an incremental learning algorithm
@@ -112,7 +116,6 @@ Bayesian probabilistic matrix factorization using Markov chain Monte Carlo
 Largescale feature learning with spike-and-slab sparse coding
 Generalized spike-andslab priors for bayesian group feature selection using expectation propagation
 Information processing in dynamical systems: Foundations of harmony theory
-Decision Trees and Forests: A Probabilistic Perspective
 Bayesian Learning in Probabilistic Decision Trees
 Pachinko Allocation DAG-Structured Mixture Models of Topic Correlations
 Bayesian exponential family PCA

@@ -1,3 +1,4 @@
+1988 - Local computations with probabilities on graphical structures and their application to expert systems
 1995 - The Helmholtz machine
 1996 - On a dualization of graphical Gaussian models
 1997 - The EM Algorithm and Extensions
@@ -77,7 +78,6 @@ Iterative conditional fitting for Gaussian ancestral graph models
 A Monte Carlo method for computing the marginal likelihood in nondecomposable Gaussian graphical models
 Influence Diagrams and d-Separation
 Extending factor graphs so as to unify directed and undirected graphical models
-Local computations with probabilities on graphical structures and their application to expert systems
 Exponential family harmoniums with an application to information retrieval
 Causation, Prediction, and Search
 Constraint-Based Structural Learning in Bayesian Networks using Finite Data Sets

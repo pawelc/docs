@@ -10,6 +10,12 @@ the reliance on null hypothesis statistical testing and the use of benchmark dat
 How to parametrize the correlation matrix using full or reduced rank unconstrained parametrization. The parametrization
 that enforces the correlation matrix to be PSD. Albeit got slightly worse results than our method.
 
+# [Classification: A Decision Tree For Uncertain Data Using CDF]()
+2013
+
+Constructing decision tree taking into consideration uncertainty in the inputs. The uncertainty is measured with the 
+CDF. 
+
 # [Deep Learning: Autodiff, Parameter Tying and Backprop Through Time](http://web4.cs.ucl.ac.uk/staff/D.Barber/publications/ParameterTying.pdf)
 2015.02.09
 

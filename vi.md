@@ -1,3 +1,16 @@
+#[Factorial Hidden Markov Models]()
+1997
+
+FHMM inference and learning that uses structured variational approximation. Authors compare it to the exact method 
+which does not scale to longer sequences and to mean field approximation. They also compare FHMM to HMM with the same 
+number of states and show that distributed representation of the FHMMs improves generalization (test set performance).
+
+#[Graphical Models, Exponential Families, and Variational Inference]() (not finished because too difficult/longg)
+2008
+variational inference uses variational relaxation (simplifies function being optimized)
+Marginalizing we can select order of variables when summing which relates to Fubini’s theorem.
+distribution p is consistent with the data if expectations under p for some functions are marched to the expectations under empirical distribution. Then we choose distribution that meets this condition and maximizes entropy. Exponential family meets these criteria.
+
 #[The Variational Approximation for Bayesian Inference]()
 2008
 
@@ -50,7 +63,7 @@ https://charlesmartin14.wordpress.com/2015/04/01/why-deep-learning-works-ii-the-
 ·         “Deep learning appears to be a real-space variational Renormalization Group technique, specifically applicable to very complex, inhomogeneous systems where the detailed scale transformations have to be learned from the data”
 ·         “it is possible to directly monitor the overfitting by comparing the free energies of training data and held out validation data…If the model is not overfitting at all, the average free energy should be about the same on training and validation data”
 
-# Black Box Variational Inference
+#[Black Box Variational Inference]()
 2013
 “Maximizing the ELBO is equivalent to minimizing the KL divergence (Jordan et al., 1999; Bishop, 2006). Intuitively, the first term rewards variational distributions that place high mass on configurations of the latent variables that also explain the observations; the second term rewards variational distributions that are entropic, i.e., that maximize uncertainty by spreading their mass on many configurations.”
 The expectation with respect to varuational distribution in the ELBO has to be derived for each model in traditional variational apprach.
@@ -59,6 +72,28 @@ The joint in the gradient can be replaced by unnormalized version.
 The  gradient ELBO is computed using expected value so we can use the MC. But the variance of such estimator is large and we have to apply variance reduction methods
 Uses Rao-Blackwellization and control variates to decrease the variance of gradient estimator (variance reduction methods work by replacing the function whose expectation is being approximated by Monte Carlo with another function that has the same expectation but smaller variance)
 Evaluate the models using predictive likelihood
+
+#[Auto-Encoding Variational Bayes]()
+2013
+Continuous latent variables.
+Efficient approximation of posterior distribution and marginal likelihood when EM or VB are not easy. For example for neural networks.
+Intractability and large data sets
+Can be used for representational learning.
+In contrast to mean field VI the recognition model is not necessarily factorial and its parameters are not computed from some closed form expectionation. 
+We can treat recognition model as probabilistic encoder for the data. The p(x|z) is probabilistic decoder. Probabilistic encoder because given x data we output probability over z (later representation)
+The naive MC estimator of the gradient of ELBO with respect to variational parameters exhibits high variance.
+Using reparametrization trick to decrease the variance of MC estimator
+reparametrization trick also used because we cannot differentiate through sampling process (expectation wrt to q and cannot differentiate wrt its parameters). Explained at talk: https://www.youtube.com/watch?v=rjZL7aguLAs
+KL divergence between prior and posterior when both are gaussians can be solved analytically
+One of future directions pointed out in paper: “time-series models (i.e. dynamic Bayesian networks)”
+This model assumes i.i.d. data and my data is not i.i.d.
+Description how to build marginal likelihood estimator using HMCMC
+It shows marginal likelihood lower bound in two shapes:
+
+nice reviews http://openreview.net/document/94ac4bf7-6122-449a-90af-0ac47e98dda0
+The regularizer term which keep the approximate posterior and prior of latent variables close turns off excessive latent variables. So we can create big model and the unnecessary latent capacity will be switched off automatically.
+Nice explanation why simple latent represenation can model complicated distribution: https://ift6266h15.files.wordpress.com/2015/04/20_vae.pdf (VAE lecture.pdf).
+By adding the noise we restrict the amount of information we pass through latent layer (explained https://www.youtube.com/watch?v=P78QYjWh5sM ). When using continuous latent variables we can have infinite amount of information so we have to restrict it by adding noise. The different data points when mapped to similar latent variables has to be at least different that amount of noise so we can reconstruct them back to different values. In this lecture Karol Gregor shows how this idea relates to information theory (coding length)
 
 #[Neural Variational Inference and Learning in Belief Networks]()
 2014
@@ -87,12 +122,8 @@ SVI is prone to local optima, sensitive to choice of hyperparameters.
 using SVI with natural gradient fails for streaming data but using trust region works.
 they use trust region by introducing regularizer that do not allow variational distribution change too much.
 
-# Graphical Models, Exponential Families, and Variational Inference (not finished because too difficult/longg)
-variational inference uses variational relaxation (simplifies function being optimized)
-Marginalizing we can select order of variables when summing which relates to Fubini’s theorem.
-distribution p is consistent with the data if expectations under p for some functions are marched to the expectations under empirical distribution. Then we choose distribution that meets this condition and maximizes entropy. Exponential family meets these criteria.
-
 # Stochastic Variational Inference for Bayesian Time Series Models
+2014 
 
 Neural Variational Inference and Learning in Belief Networks
 Using NN for efficient exact sampling (no mixing issues like convergence and correlated samples like MCMCM) from the variational posterior of the Sigmoid Belief Network
@@ -109,28 +140,6 @@ Can be compared to black box VI which is sampling based.
 NVIL optimizes a variational lower bound on the log likelihood but wake sleep algorithm does not optimize well defined objective function.
 Can use inference networks with autoregressive connections within each layer.
 Use lower bound on log likelihood as model performance metric.
-
-# Auto-Encoding Variational Bayes
-2014
-Continuous latent variables.
-Efficient approximation of posterior distribution and marginal likelihood when EM or VB are not easy. For example for neural networks.
-Intractability and large data sets
-Can be used for representational learning.
-In contrast to mean field VI the recognition model is not necessarily factorial and its parameters are not computed from some closed form expectionation. 
-We can treat recognition model as probabilistic encoder for the data. The p(x|z) is probabilistic decoder. Probabilistic encoder because given x data we output probability over z (later representation)
-The naive MC estimator of the gradient of ELBO with respect to variational parameters exhibits high variance.
-Using reparametrization trick to decrease the variance of MC estimator
-reparametrization trick also used because we cannot differentiate through sampling process (expectation wrt to q and cannot differentiate wrt its parameters). Explained at talk: https://www.youtube.com/watch?v=rjZL7aguLAs
-KL divergence between prior and posterior when both are gaussians can be solved analytically
-One of future directions pointed out in paper: “time-series models (i.e. dynamic Bayesian networks)”
-This model assumes i.i.d. data and my data is not i.i.d.
-Description how to build marginal likelihood estimator using HMCMC
-It shows marginal likelihood lower bound in two shapes:
-
-nice reviews http://openreview.net/document/94ac4bf7-6122-449a-90af-0ac47e98dda0
-The regularizer term which keep the approximate posterior and prior of latent variables close turns off excessive latent variables. So we can create big model and the unnecessary latent capacity will be switched off automatically.
-Nice explanation why simple latent represenation can model complicated distribution: https://ift6266h15.files.wordpress.com/2015/04/20_vae.pdf (VAE lecture.pdf).
-By adding the noise we restrict the amount of information we pass through latent layer (explained https://www.youtube.com/watch?v=P78QYjWh5sM ). When using continuous latent variables we can have infinite amount of information so we have to restrict it by adding noise. The different data points when mapped to similar latent variables has to be at least different that amount of noise so we can reconstruct them back to different values. In this lecture Karol Gregor shows how this idea relates to information theory (coding length)
 
 # Deep AutoRegressive Networks (not read)
 The same as “Auto-Encoding Variational Bayes” but binary version of z with autoregressive p(z) 

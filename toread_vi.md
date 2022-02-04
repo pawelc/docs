@@ -1,5 +1,8 @@
+2007 - A collapsed variational Bayesian inference algorithm for latent Dirichlet allocation
 2011 - Practical variational inference for neural networks
+2013 - Efficient discovery of overlapping communities in massive networks
 2014 - Amortized inference in probabilistic reasoning
+2014 - Stochastic variational inference for hidden markov models
 2014 - Semi-Supervised Learning with Deep Generative Models
 2015 - Deep convolutional inverse graphics network
 2015 - Markov Chain Monte Carlo and Variational Inference: Bridging the Gap
@@ -8,6 +11,7 @@
 2015 - Adversarial Autoencoders
 2015 - Embed to control: A locally linear latent dynamics model for control from raw images
 2015 - Generating sentences from a continuous space
+2015 - Black box variational inference for state space models
 2016 - How to train deep variational autoencoders and probabilistic ladder networks 
 2016 - Composing graphical models with neural networks for structured representations and fast inference
 2016 - Hierarchical variational models
@@ -130,7 +134,6 @@ On structured variational approximations
 Structured variational distributions in vibes
 Structured variational inference procedures and their realizations
 Autoencoders, minimum description length, and Helmholtz free energy
-Factorial Hidden Markov Models
 Mixture Representations for Inference and Learning in Boltzmann Machines
 Incorporating Expressive Graphical Models in Variational Approximations Chain-Graphs and Hidden Variables
 Helmholtz machines and wake-sleep learning

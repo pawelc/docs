@@ -1,3 +1,8 @@
+# A Gentle Tutorial of the EM Algorithm and its Application to Parameter Estimation for Gaussian Mixture and Hidden Markov Models
+1998 
+
+Thorough derivation of the EM for the gaussian mixture and HMM with mixture emission.
+
 # Context-dependent pre-trained deep neural networks for large-vocabulary speech recognition
 HMM - DNN model which combines neural network and HMM. Here NN provides observation probabilities.
 # Unsupervised Neural Hidden Markov Models

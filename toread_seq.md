@@ -6,9 +6,13 @@
 1999 - Have exchange rates become more closely tied Evidence from a new multivariate GARCH model
 2000 - Dynamic conditional correlation—A simple class of multivariate GARCH models
 2001 - Theoretical and empirical properties of dynamic conditional correlation multivariate GARCH
+2001 - An introduction to hidden Markov models and Bayesian networks
 2002 - Dynamic Conditional Correlation: A Simple Class of Multivariate Generalized Autoregressive Conditional Heteroskedasticity Models
+2005 - Fast Inference and Learning in Large-State-Space HMMs
+2006 - CTC https://stats.stackexchange.com/questions/320868/what-is-connectionist-temporal-classification-ctc
 2010 - Introduction to Time Series and Forecasting
 2013 - Forecasting conditional correlation for exchange rates using multivariate GARCH models with historical value-at-risk application
+2015 - Deep Kalman Filters
 
 An introduction of trajectory model into HMM-based speech synthesis
 Dynamic Bayesian Networks with Deterministic Tables

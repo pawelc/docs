@@ -300,7 +300,8 @@ TRBM and WRBM are poor in representing long sequences.
 Multigrid Multilayered WRBM modification of MRBM halving hidden number of variables in each deeper layer so they can look at longer subsequence. Should be bettered at modeling longer sequences.
 Recursive MM-WRBM the top layers have fixed parameters and the depth is expended depending on the length of the sequence.
 
-# The wake-sleep algorithm for unsupervised neural networks
+#[The wake-sleep algorithm for unsupervised neural networks]()
+1995 
 
 Nature, Deep learning
 Deep means 5-20 layers.

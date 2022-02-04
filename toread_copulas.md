@@ -15,6 +15,7 @@
 2005 - A method to obtain new copulas from a given one
 2005 - Distribution-Free Continuous Bayesian Belief Nets
 2006 - the use of copulas in risk management
+2006 - Modelling asymmetric exchange rate dependence
 2006 - Hybrid Method for Quantifying and Analyzing Bayesian Belief Nets
 2006 - Modelling and estimation of multivariate copulas
 2006 - Measuring financial contagion: A copula approach
@@ -40,6 +41,7 @@
 2009 - A Frank mixture copula family for modeling higherorder correlations of neural spike counts
 2009 - Modeling Multivariate Count Data Using Copulas
 2009 - Multivariate Archimedean Copulas, d-Monotone Functions and ℓ₁-Norm Symmetric Distributions
+2009 - Tails of multivariate Archimedean copulas
 2010 - Copula processes
 2010 - Probability Distributions and Estimation of Ali-Mikhail-Haq Copula
 2010 - Hierarchies of archimedean copulas
@@ -58,6 +60,7 @@
 2012 - Pair copula constructions for multivariate discrete data
 2012 - Goodness-of-fit tests for the gamma distribution based on the empirical laplace transform
 2012 - Pair-Copula Constructions for Non-Gaussian DAG Models
+2013 - Canonical vine copulas in the context of modern portfolio management: Are they worth it?
 2013 - On the structure and estimation of hierarchical archimedean copulas
 2013 - Gaussian Process Vine Copulas for Multivariate Dependence
 2013 - Modeling dependence with c- and d-vine copulas: The r package cdvine

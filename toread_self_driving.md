@@ -1,0 +1,1 @@
+2021 - Andrej Karpathy details Tesla's Self Driving Car Strategy. CVPR 20th June 2021 https://www.youtube.com/watch?v=gZ2SeiLjaEc
