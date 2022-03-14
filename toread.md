@@ -37,3 +37,6 @@ Approximation properties of DBNs with binary hidden units and real-valued visibl
 Exchangeable random primitives
 Early Stopping but when
 Known knowns, known unknowns, unknown unknowns and the propagation of scientific enquiry
+
+
+Survival Regression with Proper Scoring Rules and Monotonic Neural Networks https://arxiv.org/abs/2103.14755

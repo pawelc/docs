@@ -13,6 +13,7 @@
 2005 - Triangular transformations of measures
 2006 - An experimental comparison of performance measures for classification
 2006 - Gaussian processes for machine learning
+2006 - The Humble Gaussian Distribution
 2007 - A Kernel Method for the Two-Sample-Problem
 2007 - An analysis of logistic models: Exponential family connections and online performance
 2009 - Unlearning for better mixing
@@ -31,6 +32,7 @@
 2018 - The simple essence of automatic differentiation
 2018 - Neural Sketch Learning for Conditional Program Generation
 2018 - Interpretable Machine Learning with XGBoost (https://towardsdatascience.com/interpretable-machine-learning-with-xgboost-9ec80d148d27)
+2018 - https://www.youtube.com/watch?v=NegVuuHwa8Q (Gaussian Process Basics David Mackay)
 2019 - Exascale Deep Learning for Scientific Inverse Problems
 2019 - Deep Learning with PyTorch
 2019 - Static Automatic Batching In TensorFlow
@@ -40,6 +42,7 @@
 2019 - Black-Box vs. White-Box: Understanding Their Advantages and Weaknesses From a Practical Point of View
 2019 - Compositional uncertainty in deep Gaussian processes
 2019 - Adaptively Sparse Transformers https://colab.research.google.com/drive/1EB7MI_3gzAR1gFwPPO27YU9uYzE_odSu#scrollTo=SYu8ftZcZcRO
+2019 - Automated Machine Learning: Methods, Systems, Challenges (book)
 2020 - https://braininspired.co/podcast/
 2020 - https://www.youtube.com/watch?v=BCiZc0n6COY&list=PLruBu5BI5n4aFpG32iMbdWoRVAA-Vcso6
 2020 - http://mbmlbook.com/

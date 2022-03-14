@@ -94,6 +94,7 @@ http://www.londonfx.co.uk/
 2021 - Market making by an FX dealer: tiers, pricing ladders and hedging rates for optimal risk control
 2022 - https://web.stanford.edu/~wfsharpe/
 2022 - https://web.stanford.edu/~wfsharpe/mia/rr/ (returns)
+2022 - Optimal Turnover, Liquidity, and Autocorrelation
 
 Probabilistic Graphical Models: A New Way of Thinking in Financial Modelling 
 Bayesian Methods in Finance

@@ -4,8 +4,10 @@
 1989 - Pattern classification using neural networks
 1990 - Learning from hints in neural networks
 1993 - Second order derivatives for network pruning: Optimal Brain Surgeon
+2001 - Incorporating Second-Order Functional Knowledge for Better Option Pricing
 2009 - Quadratic features and deep architectures for chunking
 2010 - Deep learning via Hessian-free optimization
+2010 - Rectified linear units improve restricted Boltzmann machines
 2011 - Deep sparse rectifier neural networks
 2014 - Bi-modal derivative activation function for sigmoidal feedforward networks
 2014 - Bi-firing deep neural networks
@@ -25,8 +27,10 @@
 2018 - Analysis on Gradient Propagation in Batch Normalized Residual Networks
 2018 - Regularisation of neural networks by enforcing Lipschitz continuity
 2018 - A guide to convolution arithmetic for deep learning
+2018 - Activation functions: Comparison of trends in practice and research for deep learning
 2019 - Hands-On Computer Vision with TensorFlow 2
     https://github.com/PacktPublishing/Hands-On-Computer-Vision-with-TensorFlow-2
+2020 - Review and Comparison of Commonly Used Activation Functions for Deep Neural Networks
  
 Learning internal representations by error propagation
 Approximations by superpositions of sigmoidal functions
@@ -47,7 +51,6 @@ Calibrating artificial neural networks by global optimization
 https://deepmind.com/blog/population-based-training-neural-networks/
 Practical Recommendations for Gradient-Based Training of Deep Architectures
 Learning Inductive Biases with Simple Neural Networks
-Rectified linear units improve restricted Boltzmann machines
 Improving deep neural networks for LVCSR using rectified linear units and dropout
 Extracting and composing robust features with denoising autoencoders
 Saturating auto-encoders

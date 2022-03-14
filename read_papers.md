@@ -232,8 +232,12 @@ Labels are attached as softmax at the top auto associative memory (RBM). Then wh
 # Connectionist learning of belief networks
 Belief networks can be learnt using expert knowledge and from the data.
 Research Idea: When learning use the models first on some simple problem like mixture model.
-Gradient Ascent algorithm to learn Boltzmann Machine (gradient of likelihood of data), contains negative and positive phase (negative because of Z).
-Gradient Ascent algorithm to learn Sigmoid Belief Networks and noisy or Belief Networks (not containing negative phase). “Intuitively, only a single phase is needed for learning in a sigmoid belief network because normalization of the probability distribution over state vectors is accomplished locally at each unit via the sigmoid function, rather than globally via the hard-to-compute normalization constant, Z. ”
+Gradient Ascent algorithm to learn Boltzmann Machine (gradient of likelihood of data), contains negative and positive 
+phase (negative because of Z).
+Gradient Ascent algorithm to learn Sigmoid Belief Networks and noisy or Belief Networks (not containing negative phase). 
+“Intuitively, only a single phase is needed for learning in a sigmoid belief network because normalization of the probability 
+distribution over state vectors is accomplished locally at each unit via the sigmoid function, rather than globally 
+via the hard-to-compute normalization constant, Z. ”
 There is no difference in representational power between 0/1 and -1/1 networks.
 Hidden units in Boltzmann Machines or SBN allow to represent mixtures over visible variables:
 

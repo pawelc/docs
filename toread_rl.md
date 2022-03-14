@@ -8,6 +8,7 @@
 2020 - https://spinningup.openai.com/en/latest/
 2020 - Market-making with reinforcement-learning (SAC)
 2021 - Reinforcement Learning for Systematic FX Trading
+2021 - Hedging using reinforcement learning: Contextual k-Armed Bandit versus Q-learning
 
 Idiosyncrasies and challenges of data driven learning in electronic trading
 https://github.com/tspooner/rl_markets
