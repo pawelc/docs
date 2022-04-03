@@ -1,4 +1,5 @@
 1896 - The Joy of Copulas: Bivariate Distributions with Uniform Marginals
+1972 - A Probabilistie Interpretation of Complete Monotonicity
 1990 - Empirical laplace transform and approximation of compound distributions
 1994 - Multivariate extreme-value distributions with applications to environmental data
 1995 - Constructing multivariate distributions with specific marginal distributions
@@ -10,8 +11,10 @@
 2001 - Probability Density Decomposition for Conditionally Dependent Random Variables Modeled by Vines
 2002 - The vine copula method for representing high dimensional dependent distributions: Applications to continuous belief nets
 2002 - Properties and applications of copulas: A brief survey
+2003 - Archimedean copulae and positive dependence
 2004 - Copula Methods in Finance (book)
 2004 - Modeling dependence with copulas: a useful tool for field development decision process
+2005 - Dependence Modeling with Archimedean Copulas
 2005 - A method to obtain new copulas from a given one
 2005 - Distribution-Free Continuous Bayesian Belief Nets
 2006 - the use of copulas in risk management
@@ -21,9 +24,9 @@
 2006 - Measuring financial contagion: A copula approach
 2006 - Hierarchical archimedean copulas
 2006 - Using trivariate copulas to model sample selection and treatment effects: Application to family health care demand
+2007 - Lower tail dependence for Archimedean copulas: Characterizations and pitfalls
 2007 - Copulas Modeling dependencies in Financial Risk Management
 2007 - Sampling Archimedean copulas
-2007 - Copulas: A personal view
 2007 - Everything you always wanted to know about copula modeling but were afraid to ask
 2007 - Using Copulas to Construct Bivariate Foreign Exchange Distributions with an Application to the Sterling Exchange Rate Index
 2007 - Learning with tree-averaged densities and distributions
@@ -49,6 +52,7 @@
 2010 - Inference-less density estimation using Copula Bayesian Networks
 2010 - The nonparanormal: Semiparametric estimation of high dimensional undirected graphs
 2010 - Tail dependence functions and vine copulas
+2011 - Bayesian Approaches to Copula Modelling
 2011 - Semiparametric bivariate archimedean copulas
 2011 - A stochastic representation and sampling algorithm for nested Archimedean copulas
 2011 - On Archimedean copulas and a non-parametric estimation method
@@ -82,10 +86,13 @@
 2016 - Hybrid Copula Bayesian Networks
 2016 - Mixed Vine Copulas as Joint Models of Spike Counts and Local Field Potentials
 2016 - The Synthetic data vault
+2016 - General multivariate dependence using associated copulas
 2017 - On Two Random Variables and Archimedean Copulas
 2017 - Copulas: an alternative in risk measurement - https://quantdare.com/copulas-alternative-risk-measurement/
 2017 - On structure, family and parameter estimation of hierarchical archimedean copulas
 2017 - A Time-Varying Copula Mixture for Hedging the Clean Spark Spread with Wind Power Futures
+2018 - Construction of bivariate asymmetric copulas
+2018 - Strictly Archimedean copulas with complete  association for multivariate dependence  based on the Clayton family
 2018 - Elements of Copula Modeling with R (http://copula.r-forge.r-project.org/book/)
 2019 - Copula & Marginal Flows: Disentangling the Marginal from its Joint
 2019 - Copula density estimation by finite mixture of parametric copula densities

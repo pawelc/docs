@@ -35,6 +35,10 @@ most of them were on stochastic processes. There were some for risk management w
 
 Comprehensive book about copulas
 
+#[Copulas: A personal view]()
+2007
+Overview of copulas with personal list of "must to read" about copulas. 
+
 #[Enjoy the Joy of Copulas: With a Package copula]()
 2007
 

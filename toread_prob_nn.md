@@ -86,6 +86,7 @@ the likelihood
 2016 - Unrolled generative adversarial networks
 2016 - Simple and Scalable Predictive Uncertainty
 2016 - Learning in Implicit Generative Models
+2016 - A Probabilistic Framework for Deep Learning
 2017 - Maximum entropy flow networks
 2017 - Parallel wavenet: Fast high-fidelity speech synthesis
 2017 - Multiplicative normalizing flows for variational bayesian neural networks
@@ -164,6 +165,7 @@ the likelihood
 2019 - Tails of Lipschitz Triangular Flows
 2019 - Conditional Density Estimation with Neural Networks: Best Practices and Benchmarks
 2019 - Generative adversarial networks: A survey and taxonomy
+2019 - Probabilistic Models with Deep Neural Networks
 2020 - How to train your neural ODE
 2020 - MaskAAE: Latent space optimization for Adversarial Auto-Encoders
 2020 - Pairwise Supervised Hashing with Bernoulli Variational Auto-Encoder and Self-Control Gradient Estimator
