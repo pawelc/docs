@@ -7,6 +7,7 @@ Order to read books about measure theory and probability: https://www.youtube.co
 2010 - Lecture notes on numerical solutions of ordinary differential equations
 2013 - Functional Differential Geometry (Book)
 2013 - Principles of Mathematical Analysis (book)
+2013 - Mathematics in the Age of the Turing Machine
 2019 - Probability: Theory and Examples (book)
 2020 - Probability and Random Processes (book)
 1999 - Real analysis : modern techniques and their applications (folland book)

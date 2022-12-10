@@ -1,5 +1,6 @@
 1976 - Decisions with Multiple Objectives Preferences and Value Trade-Offs (book)
 1992 - Simple statistical gradient-following algorithms for connectionist reinforcement learning
+2017 - Introduction to Multi-Armed Bandits
 2018 - Soft Actor-Critic: Off-Policy Maximum Entropy Deep Reinforcement Learning with a Stochastic Actor
 2018 - World Models
 2018 - Recurrent World Models Facilitate Policy Evolution

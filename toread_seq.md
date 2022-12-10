@@ -1,3 +1,4 @@
+1970 - Time series analysis: forecasting and control (book)
 1973 - A Markov model for switching regressions
 1982 - Autoregressive conditional heteroskedasticity with estimates of the variance of UK inflation
 1986 - Generalized autoregressive conditional heteroskedasticity
@@ -13,6 +14,7 @@
 2010 - Introduction to Time Series and Forecasting
 2013 - Forecasting conditional correlation for exchange rates using multivariate GARCH models with historical value-at-risk application
 2015 - Deep Kalman Filters
+2022 - A course in Time Series Analysis book
 
 An introduction of trajectory model into HMM-based speech synthesis
 Dynamic Bayesian Networks with Deterministic Tables

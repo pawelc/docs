@@ -2,9 +2,11 @@
 1981 - Do Stock Prices Move Too Much to be Justified by Subsequent Changes in Dividends
 1982 - Autoregressive Conditional Heteroscedasticity with Estimates of the Variance of United Kingdom Inflation
 1992 - the cross section of expected stock returns
+1994 - Psychology and Savings Policies - Richard Thaler https://econpapers.repec.org/article/aeaaecrev/v_3a84_3ay_3a1994_3ai_3a2_3ap_3a186-92.htm
 1995 - Tests of microstructure hypotheses in the foreign exchange market
 1988 - Meteor Showers or Heat Waves Heteroskedastic Intra-Daily Volatility in the Foreign Exchange Market
 1997 - on persistence in mutual fund performance
+1997 - Thorp, Edward. 1997. “The Kelly Criterion in Blackjack, Sports Betting, and the Stock Market.” Handbook of Asset and Liability Management, Volume I, Zenios and Ziemba (eds.). Elsevier 2006. www.EdwardOThorp.com.
 1998 - Coherent Measures of Risk
 1999 - The Econometric Modelling of Financial Time Series (book)
 1999 - The most general methodology to create a valid correlation matrix for risk management and option pricing purposes
@@ -16,17 +18,23 @@
 2002 - Increased correlation in bear markets
 2002 - Computing the nearest correlation matrix - a problem from finance
 2004 - Defining risk
+2004 - Pairs Trading: Quantitative Methods and Analysis
 2004 - CAViaR: Conditional autoregressive value at risk by regression quantiles
 2005 - Economic and Financial Decisions under Risk
 2005 - Intraday Value at Risk (Ivar) Using Tick-by-Tick Data with Application to the Toronto Stock Exchange
+2005 - Poundstone, William. 2005. Fortune's Formula. New York: Hill and Wang
 2006 - decision rules and maximum initial withdrawal rates
 2006 - Foreign exchange a practical guide to the FX markets
 2006 - Modeling asymmetric exchange rate dependence
 2007 - Implied correlation from VaR
+2007 - Statistical Arbitrage: Algorithmic Trading Insights and Techniques
 2008 - Market Risk Analysis (Book)
+2009 - Bid-Ask Spreads: Measuring Trade Execution Costs in Financial Markets
 2008 - Stocks as Lotteries: The Implications of Probability Weighting for Security Prices
+2009 - Quantitative Trading: How to Build Your Own Algorithmic Trading Business
 2011 - Evaluating value-at-risk models via quantile regression
 2017 - Modelling and mitigation of Flash Crashes
+2017 - Transaction Costs by Ed Tricker, Saurabh Srivastava, Marci Mitchell
 2010 - The devil is in the tails: actuarial mathematics and the subprime mortgage crisis
 2010 - Modeling exchange rate dependence at different time horizons
 2010 - Newton’s method for computing the nearest correlation matrix with a simple upper bound
@@ -35,34 +43,46 @@
 2010 - Modeling exchange rate dependence dynamics at different time horizons
 2010 - https://www.portfolioprobe.com/2010/10/04/a-tale-of-two-returns/
 2011 - Crashes and high frequency trading
+2011 - The Exchange of Flow Toxicity
 2011 - Depression Babies: Do Macroeconomic Experiences Affect Risk Taking
+2011 - Portfolio Choice Under Cumulative Prospect Theory
 2012 - Exchange return co-movements and volatility spillovers before and after the introduction of euro
 2012 - Risk Management and Shareholders Value in Banking From Risk Measurement Models to Capital Allocation Policies (book)
 2012 - techtrader https://www.techtrader.ai/
+2012 - The Handbook of Pairs Trading: Strategies Using Equities, Options, and Futures
 2012 - MARKET MICROSTRUCTURE DESIGN AND FLASH CRASHES: A SIMULATION APPROACH
 2013 - The Rearrangement Algorithm a new tool for computing bounds on risk measures
+2013 - lgorithmic Trading: Winning Strategies and Their Rationale
 2013 - Information Transmission Between Financial Markets in Chicago and New York
 2013 - Extreme-quantile tracking for financial time series
 2013 - Copulae in Mathematical and Quantitative Finance
 2013 - Model uncertainty and VaR aggregation
 2013 - On Multivariate Extensions of Value-at-Risk
+2013 - Principal Component Analysis and Portfolio Optimization
 2014 - https://www.value-at-risk.net
 2014 - Time Series Models for Business and Economic Forecasting
 2014 - VaR-implied tail-correlation matrices
+2014 - Evaluating gambles using dynamics  Ole Peters, Murray Gell-Mann
 2014 - Interdependence and contagion in global asset markets
 2014 - Co-movements among major European exchange rates: A multivariate time-varying asymmetric approach
 2014 - Estimate nothing (https://arxiv.org/abs/1401.5666)
 2015 - Is a High CAPE Cause for Alarm? Part 2: Valuation-Based Asset Allocation (https://www.forbes.com/sites/wadepfau/2015/07/09/is-a-high-cape-cause-for-alarm-part-2-valuation-based-asset-allocation/?sh=46cd4ff84eda)
+2015 - Seven Sins of Quantitative Investing
 2015 - A Blessing or a Curse? The Impact of High Frequency Trading on Institutional Investors
+2015 - The probability of backtest overfitting
+2016 - Optimal Mean Reversion Trading: Mathematical Analysis And Practical Applications
 2015 - Building Diversified Portfolios that Outperform Out-of-Sample
 2015 - Seven Proofs for the Subadditivity of Expected Shortfall
+2015 - Quantitative Risk Management: Concepts, Techniques and Tools (book - http://www.qrmtutorial.org/)
 2016 - The Gaussian Copula and the Financial Crisis: A Recipe for Disaster or Cooking the Books?
 2017 - Elicitability and Backtesting: Perspectives for Banking Regulation
 2017 - Quantile-based Risk Sharing
 2017 - Note on simple and logarithmic returns
 2017 - Backtesting expected shortfall: a simple recipe
 2017 - Portfolio Optimization with Entropic Value-at-Risk
+2018 - QRM Tutorial, https://www.youtube.com/channel/UCZ0TD2mCnMXNEfxeptcoFoA/videos, https://www.qrmtutorial.org/
 2018 - https://towardsdatascience.com/introduction-to-quantitative-finance-part-i-stylised-facts-of-asset-returns-5190581e40ea
+2019 - advances in financial machine learning
 2018 - Regression Based Expected Shortfall Backtesting
 2018 - Understanding Flash Crash Contagion and Systemic Risk: A Micro-Macro Agent-Based Approach
 2018 - How do participants behave during Flash events? Evidence from the UK equity market.
@@ -70,9 +90,13 @@
 2018 - A general framework for data-driven uncertainty quantification under complex input dependencies using vine copulas
 2018 - Deep Hedging (https://arxiv.org/abs/1802.03042)
 2019 - https://www.cuemacro.com/about/
+2019 - The Deflated Sharpe Ratio: Correcting for Selection Bias, Backtest Overfitting and Non-Normality
+2019 - Portfolio Selection Based on Hierarchical Clustering and Inverse-Variance Weighting
 2019 - The man who solved the market (book)
 2019 - Machine Learning for Quantitative Finance Applications: A Survey
 http://www.londonfx.co.uk/
+2020 - Finding Alphas: A Quantitative Approach to Building Trading Strategies
+2020 - A Machine Learning based Pairs Trading Investment Strategy
 2020 - https://thalesians.com/videos/
 2020 - https://volquant.medium.com/fragile-markets-understanding-the-dynamic-of-a-flash-crash-e86fbc8b4e6c
 2020 - A Conversation With Paul Embrechts
@@ -92,9 +116,19 @@ http://www.londonfx.co.uk/
 2021 - http://www.pnlexplained.com/
 2021 - Forecasting value-at-risk and expected shortfall in large portfolios: A general dynamic factor model approach
 2021 - Market making by an FX dealer: tiers, pricing ladders and hedging rates for optimal risk control
+2021 - https://www.linkedin.com/pulse/yardeni-sp-500-earnings-valuation-pandemic-part-ii-edward-yardeni/
 2022 - https://web.stanford.edu/~wfsharpe/
 2022 - https://web.stanford.edu/~wfsharpe/mia/rr/ (returns)
 2022 - Optimal Turnover, Liquidity, and Autocorrelation
+2022 - https://www.satyoshi.com/
+2022 - Where do I find quantitative trading strategy ideas ? https://www.reddit.com/r/quant/comments/xnk6x5/where_do_i_find_quantitative_trading_strategy/?utm_medium=android_app&utm_source=share
+2022 - https://github.com/AI4Finance-Foundation/FinRL
+2022 - https://m.youtube.com/watch?v=9R_2KWIZnLg&feature=youtu.be
+2022 - https://www.reddit.com/r/quant/comments/y5ncfj/im_interested_in_starting_my_own_hft_firm_where/?utm_source=share&utm_medium=android_app&utm_name=androidcss&utm_term=1&utm_content=share_button
+2022 - https://github.com/hudson-and-thames/mlfinlab
+2022 - https://sudeepraja.github.io/OPS1/
+2022 - https://www.acsu.buffalo.edu/~lloydtan/
+2022 - https://www.wallstreetoasis.com/resources/interviews/hedge-funds-interview-questions
 
 Probabilistic Graphical Models: A New Way of Thinking in Financial Modelling 
 Bayesian Methods in Finance
@@ -191,7 +225,6 @@ https://www.zerohedge.com/news/2018-05-22/unexpected-warning-goldman-sachs-somet
 Integrating Economic Knowledge in Data Mining Algorithms
 Risk Management Based on Expert Rules and Data Mining: A Case Study in Insurance
 Correlation and dependence in risk management: properties and pitfalls
-Quantitative Risk Management: Concepts, Techniques and Tools (book - http://www.qrmtutorial.org/)
 Portfolio selection
 Automatic differentiation for computational finance
 Adjoints and automatic (algorithmic) differentiation in computational finance

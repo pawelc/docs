@@ -1,4 +1,6 @@
 2000 - A survey of truncated-Newton methods
+2006 - Numerical Optimization (book)
+2009 - On weighting of bivariate margins in pairwise likelihood
 2011 - Adaptive subgradient methods for online learning and stochastic optimization
 2013 - No more pesky learning rates
 2014 - Adam: A method for stochastic optimization

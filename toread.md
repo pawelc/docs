@@ -1,8 +1,10 @@
+https://en.wikipedia.org/wiki/Cumulative_prospect_theory
 1995 - Probability and Measure
 2016 - Wide residual networks
 2016 - Binarized neural networks: Training deep neural networks with weights and activations constrained to+ 1 or-1
 2016 - Weight Normalization: A Simple Reparameterization to Accelerate Training of Deep Neural Networks
 2017 - Learning without forgetting
+2022 - Professor Leighton’s rules for thesis writing
 
 Improving variational inference with inverse autoregressive flow 
 Understanding symmetries in deep networks 

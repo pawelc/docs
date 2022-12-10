@@ -1,4 +1,5 @@
 1988 - Random number generators good ones are hard to find
+1991 - What Every Computer Scientist Should Know About Floating-Point Arithmetic (https://docs.oracle.com/cd/E19957-01/806-3568/ncg_goldberg.html)
 1998 - Good random number generators are (not so) easy to find
 1998 - Handbook of Simulation - Principles, Methodology, Advances, Applications, and Practice
 

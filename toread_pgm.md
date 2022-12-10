@@ -6,6 +6,7 @@
 2000 - Gaussian process networks
 2002 - Ancestral Graph Markov Models
 2007 - Structure Learning with Nonparametric Decomposable Models
+2011 - Markov properties for mixed graphs
 2018 - A generative model of whole-brain effective connectivity
 2018 - The Anatomy of Inference: Generative Models and Brain Structure https://www.frontiersin.org/articles/10.3389/fncom.2018.00090/full
 2019 - Causal Graphical Views of Fixed Effects and Random Effects Models

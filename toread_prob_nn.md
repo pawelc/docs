@@ -131,6 +131,8 @@ the likelihood
 2018 - Conditional Density Estimation with Bayesian Normalising Flows
 2018 - (DENSITY ESTIMATION: VARIATIONAL AUTOENCODERS) http://ruishu.io/2018/03/14/vae/
 2018 - Generative adversarial networks: An overview
+2018 - Variational image compression with a scale hyperprior
+2019 - FFJORD: Free-form Continuous Dynamics for Scalable Reversible Generative Models
 2019 - Aleatoric and Epistemic Uncertainty in Machine Learning: An Introduction to Concepts and Methods
 2019 - What are Normalizing Flows? https://www.youtube.com/watch?v=i7LjDvsLWCg
 2019 - Semi-Conditional Normalizing Flows for Semi-Supervised Learning
@@ -166,8 +168,10 @@ the likelihood
 2019 - Conditional Density Estimation with Neural Networks: Best Practices and Benchmarks
 2019 - Generative adversarial networks: A survey and taxonomy
 2019 - Probabilistic Models with Deep Neural Networks
+2020 - Learning generative models using denoising density estimators
 2020 - How to train your neural ODE
 2020 - MaskAAE: Latent space optimization for Adversarial Auto-Encoders
 2020 - Pairwise Supervised Hashing with Bernoulli Variational Auto-Encoder and Self-Control Gradient Estimator
 2020 - Semi-supervised Sequential Generative Models 
+2020 - Introduction to Uncertainty in Deep Learning
 2021 - Marginalizable Density Models

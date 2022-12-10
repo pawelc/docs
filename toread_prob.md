@@ -6,6 +6,7 @@
 1985 - Chi-Plots for Assessing Dependence
 1986 - Density estimation for statistics and data analysis
 1991 - Elements of Information Theory
+1992 - On the central limit theorem for weakly dependent sequences with a decomposed strong mixing coefficient
 1995 - Wand, M.P and Jones, M.C. (1995). Kernel Smoothing. London: Chapman & Hall/CRC.
 1995 - Approximations to multivariate normal rectangle probabilities based on conditional expectations
 1995 - Higher order statistical decorrelation without information loss

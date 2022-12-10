@@ -4,36 +4,55 @@
 1978 - Estimating the dimension of a model
 1984 - Monte Carlo methods of inference for implicit statistical models
 1986 - The Arithmetic of Differentiation
+1987 - The calculation of posterior distributions by data augmentation
 1989 - Training Stochastic Model Recognition Algorithms as Networks can Lead to Maximum Mutual Information Estimation of Parameters
 1990 - Acceleration of Stochastic Approximation by Averaging
+1990 - A Monte Carlo implementation of the EM algorithm and the poor man's data augmentation algorithms
+1991 - Using EM to obtain asymptotic variance-covariance matrices: The SEM algorithm
+1992 - A classification EM algorithm for clustering and two stochastic versions
 1993 - A user's guide to tabu search
 1993 - Maximum likelihood estimation via the ECM algorithm: A general framework
+1996 - Markov chain Monte Carlo in practice
 1997 - On bias, variance, 0/1 - loss, and the curse-of-dimensionality
 1999 - Nonlinear independent component analysis: Existence and uniqueness results
+2001 - An Introduction to Sequential Monte Carlo Methods
+2003 - Information Theory, Inference, and Learning Algorithms
 2005 - Triangular transformations of measures
 2006 - An experimental comparison of performance measures for classification
 2006 - Gaussian processes for machine learning
 2006 - The Humble Gaussian Distribution
 2007 - A Kernel Method for the Two-Sample-Problem
 2007 - An analysis of logistic models: Exponential family connections and online performance
+2008 - The Epic Story of Maximum Likelihood
 2009 - Unlearning for better mixing
 2009 - Probabilistic graphical models: principles and techniques
 2011 - The Separation Plot: A New Visual Method for Evaluating the Fit of Binary Models
+2011 - Python for data analysis (book)
+2011 - Algorithms for hyper-parameter optimization
 2012 - Python for Data Analysis
 2012 - Model-based clustering, classication, and discriminant analysis of data with mixed type
+2012 - Random search for hyper-parameter optimization
 2013 - Alan Turing His Work and Impact (book)
+2013 - https://artowen.su.domains/mc/
+2014 - Machine Learning Lectures (https://www.cs.ox.ac.uk/people/nando.defreitas/machinelearning/)
+2014 - Bayesian Cognitive Modeling A Practical Course (book)
+2015 - Doing Bayesian Data Analysis A Tutorial with R, JAGS, and Stan (book)
+2015 - Optimal whitening and decorrelation
 2016 - https://www.cs.ox.ac.uk/people/nando.defreitas/machinelearning/
-2016 - Modeling, Inference and Optimization with Composable Differentiable Procedures 
+2016 - Modeling, Inference and Optimization with Composable Differentiable Procedures
+2016 - Predicting the direction of stock market prices using random forest
 2016 - Decision Trees and Forests: A Probabilistic Perspective
 2017 - UAI 2017 Tutorial: Shakir Mohamed & Danilo Rezende (https://www.youtube.com/watch?v=JrO5fSskISY, DeepGenModelsTutorial.pdf)
 2017 - On Blackbox Backpropagation and Jacobian Sensing
 2017 - Detecting Statistical Interactions from Neural Network Weights
 2017 - A Unified Approach to Interpreting Model Predictions
 2018 - The simple essence of automatic differentiation
+2018 - Relational inductive biases, deep learning, and graph networks
 2018 - Neural Sketch Learning for Conditional Program Generation
 2018 - Interpretable Machine Learning with XGBoost (https://towardsdatascience.com/interpretable-machine-learning-with-xgboost-9ec80d148d27)
 2018 - https://www.youtube.com/watch?v=NegVuuHwa8Q (Gaussian Process Basics David Mackay)
 2019 - Exascale Deep Learning for Scientific Inverse Problems
+2019 - Real numbers, data science and chaos: How to fit any dataset with a single parameter
 2019 - Deep Learning with PyTorch
 2019 - Static Automatic Batching In TensorFlow
 2019 - https://github.com/khipu-ai/practicals-2019
@@ -47,11 +66,18 @@
 2020 - https://www.youtube.com/watch?v=BCiZc0n6COY&list=PLruBu5BI5n4aFpG32iMbdWoRVAA-Vcso6
 2020 - http://mbmlbook.com/
 2020 - Fair k-Means Clustering
+2020 - Monte Carlo Gradient Estimation in Machine Learning
 2020 - Robust $k$-means++
 2020 - DeepMind x UCL | Deep Learning Lectures (https://www.youtube.com/watch?v=7R52wiUgxZI)
 2021 - https://anguswilliams91.github.io/statistics/computing/jax/
+2021 - A Farewell to the Bias-Variance Tradeoff? An Overview of the Theory of Overparameterized Machine Learning
 2021 - Why is AI hard and Physics simple?
 2021 - http://blog.shakirm.com/
+2022 - Towards Augmented Financial Intelligence
+2022 - Mathematics for Machine Learning (https://github.com/mml-book/mml-book.github.io)
+2022 - https://uvadlc-notebooks.readthedocs.io/en/latest/tutorial_notebooks/JAX/tutorial2/Introduction_to_JAX.html?s=03
+2022 - Operationalizing Machine Learning: An Interview Study
+2022 - https://en.wikipedia.org/wiki/Quasi-Monte_Carlo_method
 
 
 Determining the degree of generalization using an incremental learning algorithm
@@ -80,7 +106,6 @@ Exploring the Limits of Weakly Supervised Pretraining
 Evaluation and Selection of Biases in Machine Learning
 The lack of a priori distinctions between learning algorithms
 The need for biases in learning generalizations
-Information Theory, Inference, and Learning Algorithms
 Bayesian Reasoning and Machine Learning
 Graphical Models for Machine Learning and Digital Communication
 Machine learning: a probabilistic perspective
@@ -143,7 +168,6 @@ An experimental comparison of naive Bayesian and keyword-based anti-spam filteri
 The EM algorithm in independent component analysis
 Optimization with EM and Expectation-Conjugate-Gradient
 Are two Classifiers performing equally A treatment using Bayesian Hypothesis Testing
-Markov chain Monte Carlo in practice
 Independent component analysis, a new concept
 Learning sparse topographic representations with products of student-t distributions
 Learning overcomplete representations
