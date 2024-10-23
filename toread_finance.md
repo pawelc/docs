@@ -1,9 +1,11 @@
 1979 - Prospect Theory: An Analysis of Decision under Risk
 1981 - Do Stock Prices Move Too Much to be Justified by Subsequent Changes in Dividends
 1982 - Autoregressive Conditional Heteroscedasticity with Estimates of the Variance of United Kingdom Inflation
+1983 estimation for dirty data and flawed models
 1992 - the cross section of expected stock returns
 1994 - Psychology and Savings Policies - Richard Thaler https://econpapers.repec.org/article/aeaaecrev/v_3a84_3ay_3a1994_3ai_3a2_3ap_3a186-92.htm
 1995 - Tests of microstructure hypotheses in the foreign exchange market
+1988 Modern portfolio theory : the principles of investment management : Rudd, Andrew
 1988 - Meteor Showers or Heat Waves Heteroskedastic Intra-Daily Volatility in the Foreign Exchange Market
 1997 - on persistence in mutual fund performance
 1997 - Thorp, Edward. 1997. “The Kelly Criterion in Blackjack, Sports Betting, and the Stock Market.” Handbook of Asset and Liability Management, Volume I, Zenios and Ziemba (eds.). Elsevier 2006. www.EdwardOThorp.com.
