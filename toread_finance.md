@@ -110,6 +110,7 @@ http://www.londonfx.co.uk/
 2021 - https://deepdow.readthedocs.io/
 2021 - http://nakisa.org/
 2021 - Bayes risk, elicitability, and the Expected Shortfall
+2021 Deep Learning Statistical Arbitrage
 2021 - https://quantdare.com/
 2021 - https://risk-engineering.org/
 2021 - https://www.qrmtutorial.org/
