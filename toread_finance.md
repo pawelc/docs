@@ -85,6 +85,7 @@
 2018 - QRM Tutorial, https://www.youtube.com/channel/UCZ0TD2mCnMXNEfxeptcoFoA/videos, https://www.qrmtutorial.org/
 2018 - https://towardsdatascience.com/introduction-to-quantitative-finance-part-i-stylised-facts-of-asset-returns-5190581e40ea
 2019 - advances in financial machine learning
+2909 - The Rate of Return on Everything, 1870–2015
 2018 - Regression Based Expected Shortfall Backtesting
 2018 - Understanding Flash Crash Contagion and Systemic Risk: A Micro-Macro Agent-Based Approach
 2018 - How do participants behave during Flash events? Evidence from the UK equity market.
