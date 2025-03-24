@@ -3,11 +3,12 @@
 2017 - Introduction to Multi-Armed Bandits
 2018 - Soft Actor-Critic: Off-Policy Maximum Entropy Deep Reinforcement Learning with a Stochastic Actor
 2018 - World Models
+2018 - Reinforcement learning in financial markets - a survey, Fischer, Thomas G.
 2018 - Recurrent World Models Facilitate Policy Evolution
 2019 - Reinforcement Learning for Market Making in a Multi-agent Dealer Market
+2019 - A survey and critique of multiagent deep reinforcement learning, Pablo Hernandez-Leal
 2019 - Stanford CS234: Reinforcement Learning (https://www.youtube.com/watch?v=FgzM3zpZ55o&amp=&list=PLoROMvodv4rOSOPzutgyCTapiGlY2Nd8u)
 2020 - https://spinningup.openai.com/en/latest/
-2020 - Market-making with reinforcement-learning (SAC)
 2021 - Reinforcement Learning for Systematic FX Trading
 2021 - Hedging using reinforcement learning: Contextual k-Armed Bandit versus Q-learning
 

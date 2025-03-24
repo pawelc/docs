@@ -38,6 +38,7 @@
 2014 - Bayesian Cognitive Modeling A Practical Course (book)
 2015 - Doing Bayesian Data Analysis A Tutorial with R, JAGS, and Stan (book)
 2015 - Optimal whitening and decorrelation
+2015 - How a Kalman filter works, in pictures (https://www.bzarg.com/p/how-a-kalman-filter-works-in-pictures/)
 2016 - https://www.cs.ox.ac.uk/people/nando.defreitas/machinelearning/
 2016 - Modeling, Inference and Optimization with Composable Differentiable Procedures
 2016 - Predicting the direction of stock market prices using random forest
@@ -69,15 +70,18 @@
 2020 - Monte Carlo Gradient Estimation in Machine Learning
 2020 - Robust $k$-means++
 2020 - DeepMind x UCL | Deep Learning Lectures (https://www.youtube.com/watch?v=7R52wiUgxZI)
+2020 - https://mml-book.github.io/
 2021 - https://anguswilliams91.github.io/statistics/computing/jax/
 2021 - A Farewell to the Bias-Variance Tradeoff? An Overview of the Theory of Overparameterized Machine Learning
 2021 - Why is AI hard and Physics simple?
+2021 - https://www.youtube.com/playlist?list=PL05umP7R6ij1tHaOFY96m5uX3J21a6yNd
 2021 - http://blog.shakirm.com/
 2022 - Towards Augmented Financial Intelligence
 2022 - Mathematics for Machine Learning (https://github.com/mml-book/mml-book.github.io)
 2022 - https://uvadlc-notebooks.readthedocs.io/en/latest/tutorial_notebooks/JAX/tutorial2/Introduction_to_JAX.html?s=03
 2022 - Operationalizing Machine Learning: An Interview Study
 2022 - https://en.wikipedia.org/wiki/Quasi-Monte_Carlo_method
+2022 - The Forward-Forward Algorithm: Some Preliminary Investigations
 
 
 Determining the degree of generalization using an incremental learning algorithm

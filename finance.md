@@ -56,7 +56,28 @@ applicability. They also demonstrate how to compute VaR. They give short overvie
 Using copulas to measure dependence. Calculation of different risk measures of the portfolio and checking the 
 quality of different copulas compared to empirical values.
 
+#[Quantitative Trading: How to Build Your Own Algorithmic Trading Business]()
+2008
+Simple book about algo trading.
+
 #[Modeling dependence based on mixture copulas and its application in risk management]()
 2009
 
 Using copulas and mixture of copulas for VAR calculations.
+
+#[Inside the Black Box]()
+2013
+Simple book about algo trading.
+
+#[Algorithmic Trading]()
+2013
+Ernest P Chan
+Book with recipe for few strategies.
+
+#[Advances in financial machine learning]()
+2019
+
+Many concepts from machine learning and finance. Possibly worth reading once again and implementing few idea.
+
+#[FX trade execution complex and highly fragmented]()
+2019
