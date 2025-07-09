@@ -32,7 +32,6 @@
 2006 - Modeling asymmetric exchange rate dependence
 2006 - Reinforcement Learning for Optimized Trade Execution
 2007 - Implied correlation from VaR
-2007 - Statistical Arbitrage: Algorithmic Trading Insights and Techniques
 2008 - Market Risk Analysis (Book)
 2008 - S. Mike and J. D. Farmer, “An empirical behavioral model of liquidity and volatility,” Journal of Economic Dynamics and Control, 32, (2008), pp. 200–234]
 2009 - Bid-Ask Spreads: Measuring Trade Execution Costs in Financial Markets

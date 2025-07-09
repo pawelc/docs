@@ -56,6 +56,17 @@ applicability. They also demonstrate how to compute VaR. They give short overvie
 Using copulas to measure dependence. Calculation of different risk measures of the portfolio and checking the 
 quality of different copulas compared to empirical values.
 
+#[2007 - Statistical Arbitrage: Algorithmic Trading Insights and Techniques]()
+2007
+
+Comprehensive guide to designing, testing, and implementing quantitative trading strategies, particularly those based on statistical arbitrage. 
+Drawing from his experience at Barclays Global Investors, Pole delves into the theory and practical challenges of mean-reversion strategies, factor modeling, and portfolio construction.
+The book covers the full lifecycle of a quant strategy—from idea generation and research to backtesting and execution. 
+Key topics include risk modeling, optimization, transaction cost modeling, and dealing with real-world data issues. 
+Pole emphasizes rigorous statistical methods and advocates for disciplined, data-driven approaches to trading.
+While technical, the book provides valuable insights for quantitative analysts, traders, and developers seeking to build robust, 
+market-neutral strategies based on statistical patterns in asset prices.
+
 #[Quantitative Trading: How to Build Your Own Algorithmic Trading Business]()
 2008
 Simple book about algo trading.
