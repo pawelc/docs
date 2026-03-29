@@ -185,7 +185,6 @@ How (not) to Train your Generative Model: Scheduled Sampling, Likelihood, Advers
 Zoneout Regularizing RNNs by Randomly Preserving Hidden Activations
 Recurrent neural networks with limited numerical precision
 Batch normalized recurrent neural networks
-Attention is all you need
 Banishing the homunculus: making working memory work
 Continuous attractors and oculomotor control
 Expressive power of recurrent neural networks
@@ -237,7 +236,6 @@ a learning algorithm for continually running fully recurrent neural networks
 Nonlinear Statistical Models
 Concrete problems in ai safety
 Time-series Extreme Event Forecasting with Neural Networks at Uber
-A neural probabilistic language model
 Distilling the Knowledge in a Neural Network
 Inserting rules into recurrent neural networks
 Rule refinement with recurrent neural networks
@@ -349,7 +347,6 @@ Identifying and attacking the saddle point problem in high-dimensional non-conve
 optimization
 Big Neural Networks Waste Capacity
 An empirical evaluation of recurrent network architectures
-Delving Deep into Rectifiers: Surpassing Human-Level Performance on ImageNet Classification
 Natural Neural Networks
 On the diﬃculty of training Recurrent Neural Networks
 From Machine Learning to Machine Reasoning 

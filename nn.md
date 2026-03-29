@@ -77,6 +77,59 @@ can approximate **all monotonic functions**. They should that this constraint ne
 can achieve comparable generalization to the generic NN with early stopping. They notice that the networks they checked can have
 limitations because activations used have strictly positive derivatives which can make it impossible to model functions like x^3.
 
+# [A neural probabilistic language model]()
+2003 Yoshua Bengio et al.
+
+## Overview
+
+This paper introduces a **Neural Probabilistic Language Model (NPLM)** to overcome limitations of traditional **n-gram models** in natural language processing. The proposed model jointly learns:
+1. A **distributed representation** (embedding) for each word.
+2. A **probability function** for word sequences using these representations.
+The model predicts the probability of the next word given the previous \( n-1 \) words, but unlike n-gram models, it can generalize to unseen word sequences due to its continuous representation of words.
+---
+## 💡 Main Breakthroughs
+
+### 1. **Word Embeddings**
+- Proposes learning **dense, low-dimensional vector representations** of words.
+- Enables generalization across similar words, unlike one-hot encoding.
+
+### 2. **Joint Learning**
+- Learns **word representations and the language model simultaneously**.
+- Avoids the need for manually crafted features or external preprocessing.
+
+### 3. **Addressing the Curse of Dimensionality**
+- Uses continuous space to represent words, mitigating **data sparsity**.
+- Similar word contexts share statistical strength.
+
+### 4. **Neural Network Application to NLP**
+- Among the **first successful uses of neural networks** for language modeling.
+- Pioneered a direction that would lead to modern deep learning in NLP.
+
+### 5. **Better Generalization and Perplexity**
+- Achieves **lower perplexity** than traditional n-gram models.
+- Demonstrates strong performance despite fewer parameters.
+---
+
+## Model Architecture
+
+- **Input**: \( n-1 \) previous words.
+- **Embedding Layer**: Each word is mapped to a learned vector via a lookup table.
+- **Hidden Layer**: Concatenated word vectors passed through a feedforward neural network.
+- **Output Layer**: Softmax layer predicts the next word's probability distribution.
+
+---
+
+## Legacy and Impact
+
+- Inspired future embedding methods like **word2vec**, **GloVe**, and others.
+- Set the foundation for **neural language models**, influencing:
+    - **RNNs**, **LSTMs**
+    - **Transformers**
+- Marked a **paradigm shift** from symbolic to continuous NLP representations.
+
+---
+
+
 # [Monotonic multi-layer perceptron networks as universal approximators](https://link.springer.com/chapter/10.1007/11550907_6)
 2005
 
