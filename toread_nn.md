@@ -30,6 +30,7 @@
 2018 - Regularisation of neural networks by enforcing Lipschitz continuity
 2018 - A guide to convolution arithmetic for deep learning
 2018 - Activation functions: Comparison of trends in practice and research for deep learning
+2019 - RL-LIM: Reinforcement Learning-based Locally Interpretable Modeling
 2019 - Hands-On Computer Vision with TensorFlow 2
     https://github.com/PacktPublishing/Hands-On-Computer-Vision-with-TensorFlow-2
 2020 - Review and Comparison of Commonly Used Activation Functions for Deep Neural Networks
