@@ -15,6 +15,7 @@
 2013 - Forecasting conditional correlation for exchange rates using multivariate GARCH models with historical value-at-risk application
 2015 - Deep Kalman Filters
 2017 DeepAR: Probabilistic Forecasting with Autoregressive Recurrent Networks
+2018 - Deep State Space Models for Time Series Forecasting
 2022 - A course in Time Series Analysis book
 
 An introduction of trajectory model into HMM-based speech synthesis
