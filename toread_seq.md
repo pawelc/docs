@@ -17,9 +17,9 @@
 2017 - A Multi-Horizon Quantile Recurrent Forecaster
 2017 DeepAR: Probabilistic Forecasting with Autoregressive Recurrent Networks
 2018 - Deep State Space Models for Time Series Forecasting
+2019 - Enhancing the Locality and Breaking the Memory Bottleneck of Transformer on Time Series Forecasting
 2019 - Multi-Horizon Time Series Forecasting with Temporal Attention Learning
 2022 - A course in Time Series Analysis book
-
 An introduction of trajectory model into HMM-based speech synthesis
 Dynamic Bayesian Networks with Deterministic Tables
 Statistical inference for probabilistic functions of finite state Markov chains
