@@ -67,7 +67,6 @@ the likelihood
 2014 - Generative adversarial nets - 2014
 2015 - Generative Image Modeling Using Spatial LSTMs
 2015 - Neural adaptive sequential Monte Carlo
-2015 - Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift
 2015 - Order matters: Sequence to sequence for sets
 2015 - Positive Neural Networks in Discrete Time Implement Monotone-Regular Behaviors
 2016 - Pixel recurrent neural networks

@@ -15,6 +15,7 @@
 2014 - On practical constraints of approximation using neural networks on current digital computers
 2015 - Highway Networks
 2015 - All you need is a good init
+2015 - Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift
 2015 - Delving Deep into Rectifiers: Surpassing Human-Level Performance on ImageNet Classification
 2016 - Effective deep learning-based multi-modal retrieval
 2016 - Structural Design of Convolutional Neural Networks for Steganalysis
